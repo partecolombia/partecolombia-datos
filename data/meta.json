@@ -1,22 +1,22 @@
 {
   "meta": {
-    "generado": "2026-07-30T00:02:58.268555+00:00",
+    "generado": "2026-07-30T04:01:40.426954+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": true,
-    "total": 191,
-    "total_crudo": 254,
-    "operaciones": 105,
+    "total": 192,
+    "total_crudo": 255,
+    "operaciones": 106,
     "recompensas_total_cop": 49042
   },
   "conteo_calibracion": {
-    "bajas": 16,
+    "bajas": 17,
     "capturas": 160,
     "sometimientos": 15,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 191,
-    "en_reportado": 100,
-    "operaciones": 104
+    "total": 192,
+    "en_reportado": 101,
+    "operaciones": 105
   },
   "conteo_oficial": {
     "bajas": 0,
@@ -29,14 +29,14 @@
     "operaciones": 0
   },
   "conteo_total": {
-    "bajas": 16,
+    "bajas": 17,
     "capturas": 160,
     "sometimientos": 15,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 191,
-    "en_reportado": 100,
-    "operaciones": 104
+    "total": 192,
+    "en_reportado": 101,
+    "operaciones": 105
   },
   "mapa_departamentos": [
     {
@@ -101,15 +101,15 @@
     },
     {
       "departamento": "Cauca",
-      "bajas": 2,
+      "bajas": 3,
       "capturas": 9,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 11,
-      "operaciones": 7,
+      "personas": 12,
+      "operaciones": 8,
       "lat": 2.53,
-      "lon": -76.81000000000002
+      "lon": -76.81
     },
     {
       "departamento": "Santander",
@@ -311,9 +311,9 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 18,
-      "ops": 6,
-      "bajas": 0,
+      "personas": 19,
+      "ops": 7,
+      "bajas": 1,
       "capturas": 18,
       "sometimientos": 0
     },

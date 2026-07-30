@@ -1,4 +1,5 @@
 fecha,org,grupo_detalle,departamento,municipio,fuerza,bajas,capturas,sometimientos,desmovilizaciones,sin_desglose,total_neutralizados,reportado_oficialmente,incluido_en_conteo,estado_verificacion,aliases,fuentes
+2026-07-30,SEGUNDA_MARQUETALIA,,Cauca,El Tambo,EJERCITO,1,0,0,0,0,1,False,True,reportado,Bomber,https://www.elpais.com.co/judicial/abatido-alias-bomber-presunto-explosivista-de-las-disidencias-de-las-farc-en-combates-en-el-tambo-cauca-2911.html
 2026-07-29,CLAN_DEL_GOLFO,,Antioquia,Remedios,POLICIA,0,1,0,0,0,1,False,True,reportado,Sebastián,https://paisa.alerta.com.co/judiciales/remedios-capturan-a-alias-sebastian-del-clan-del-golfo-247389
 2026-07-29,DESCONOCIDO,,Cauca,,EJERCITO,0,0,0,0,0,0,False,True,reportado,,https://www.minuto30.com/disidencias-senuelos-atacar-ejercito/1714570/
 2026-07-29,OTRO_GAO,,,,POLICIA,0,11,0,0,0,11,False,True,reportado,,https://caracol.com.co/2026/07/29/incautan-11-armas-de-fuego-y-capturan-a-11-personas-durante-operativos-de-la-policia/
