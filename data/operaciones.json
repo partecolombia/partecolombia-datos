@@ -1,0 +1,4930 @@
+[
+  {
+    "id": 105,
+    "slug": "2026-07-29-captura-clan_del_golfo-antioquia",
+    "operacion_id": "2026-07-29-captura-clan_del_golfo-antioquia",
+    "fecha": "2026-07-29",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Antioquia",
+    "municipio": "Remedios",
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {
+      "armas": 1
+    },
+    "aliases": [
+      "Sebastián"
+    ],
+    "descripcion": "Capturaron a alias \"Sebastián\", presunto coordinador de expendios de droga del Clan del Golfo, y le incautaron una Mini Uzi.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://paisa.alerta.com.co/judiciales/remedios-capturan-a-alias-sebastian-del-clan-del-golfo-247389",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-29"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 104,
+    "slug": "2026-07-29-operacion-desconocido-cauca",
+    "operacion_id": "2026-07-29-operacion-desconocido-cauca",
+    "fecha": "2026-07-29",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": "Cauca",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 850
+    },
+    "aliases": [],
+    "descripcion": "El ejército incautó 850 kilogramos de marihuana en la zona norte del Cauca.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.minuto30.com/disidencias-senuelos-atacar-ejercito/1714570/",
+        "tipo": "medio_regional",
+        "medio": "Minuto30",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-29"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 103,
+    "slug": "2026-07-29-captura-otro_gao-op",
+    "operacion_id": "2026-07-29-captura-otro_gao-op",
+    "fecha": "2026-07-29",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 11,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 11,
+    "materiales": {
+      "armas": 11
+    },
+    "aliases": [],
+    "descripcion": "Durante operativos de la Policía, se capturaron a 11 personas y se incautaron 11 armas de fuego.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/29/incautan-11-armas-de-fuego-y-capturan-a-11-personas-durante-operativos-de-la-policia/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-29"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 45,
+    "slug": "2026-07-29-sometimiento-clan_del_golfo-choco",
+    "operacion_id": "2026-07-29-sometimiento-clan_del_golfo-choco",
+    "fecha": "2026-07-29",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Chocó",
+    "municipio": "Medio Baudó",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 1,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Se logró el sometimiento a la justicia de un integrante del Clan del Golfo en Chocó.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/ejercito-nacional-golpea-las-estructuras-del-clan-del-golfo-con-la-captura-de-uno-de-sus-jefes-de-finanzas-en-choco",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-29"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 102,
+    "slug": "2026-07-28-captura-clan_del_golfo-meta",
+    "operacion_id": "2026-07-28-captura-clan_del_golfo-meta",
+    "fecha": "2026-07-28",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": "Gonzalo Oquendo Urrego",
+    "departamento": "Meta",
+    "municipio": "Granada",
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Raúl"
+    ],
+    "descripcion": "Alias ‘Raúl’ fue capturado en flagrancia con más de 700 dosis de cocaína y marihuana listas para su distribución.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://quepasoenvillavo.com.co/2026/07/28/cayo-alias-raul-presunto-integrante-del-clan-del-golfo-con-mas-de-700-dosis-listas-para-su-comercializacion/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 101,
+    "slug": "2026-07-28-operacion-eln-op-2",
+    "operacion_id": "2026-07-28-operacion-eln-op-2",
+    "fecha": "2026-07-28",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": "vereda",
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "El Ejército desmanteló un depósito de explosivos del ELN en la vereda.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.alerta.com.co/judiciales/caen-cinco-miembros-de-disidencias-de-las-farc-en-ocana-247202",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 100,
+    "slug": "2026-07-28-operacion-eln-casanare",
+    "operacion_id": "2026-07-28-operacion-eln-casanare",
+    "fecha": "2026-07-28",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": "Casanare",
+    "municipio": "Paz de Ariporo",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "El Ejército Nacional incautó 50 chalecos tácticos que estaban destinados al ELN en una operación en Casanare.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://lavozdelcinaruco.com/ejercito-frustra-presunto-fortalecimiento-del-eln-e-incauta-50-chalecos-tacticos-en-casanare/",
+        "tipo": "medio_regional",
+        "medio": "La Voz del Cinaruco",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 99,
+    "slug": "2026-07-28-captura-otro_gao-bolivar",
+    "operacion_id": "2026-07-28-captura-otro_gao-bolivar",
+    "fecha": "2026-07-28",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": "Bolívar",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Pescado Picho"
+    ],
+    "descripcion": "Alias Pescado Picho fue capturado tras una operación del Ejército en el sur de Bolívar.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/28/capturado-alias-pescado-picho-tras-operacion-del-ejercito-en-el-sur-de-bolivar/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 98,
+    "slug": "2026-07-28-operacion-eln-op",
+    "operacion_id": "2026-07-28-operacion-eln-op",
+    "fecha": "2026-07-28",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": "La Gabarra",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "armas": 1,
+      "explosivos_kg": 2
+    },
+    "aliases": [],
+    "descripcion": "En la operación se incautó dos artefactos explosivos improvisados, un arma de fuego y municiones.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/captura-en-la-gabarra-frustro-presunto-atentado-del-eln-contra-la-fuerza-publica-en-el-catatumbo-3574423",
+        "tipo": "medio_nacional",
+        "medio": "El Tiempo",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 97,
+    "slug": "2026-07-28-operacion-desconocido-valle-del-cauca",
+    "operacion_id": "2026-07-28-operacion-desconocido-valle-del-cauca",
+    "fecha": "2026-07-28",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": "Valle del Cauca",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 581
+    },
+    "aliases": [],
+    "descripcion": "La Policía incautó 581 kilos de marihuana en el Valle del Cauca tras un intento de evasión de un puesto de control.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.minuto30.com/incautan-marihuana-valle-del-cauca/1714426/",
+        "tipo": "medio_regional",
+        "medio": "Minuto30",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 44,
+    "slug": "2026-07-28-captura-otro_gao-op",
+    "operacion_id": "2026-07-28-captura-otro_gao-op",
+    "fecha": "2026-07-28",
+    "org": "OTRO_GAO",
+    "grupo_detalle": "Estructura 33",
+    "departamento": null,
+    "municipio": "Ocaña",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 5,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 5,
+    "materiales": {
+      "armas": 1,
+      "explosivos_kg": 1
+    },
+    "aliases": [],
+    "descripcion": "En el operativo fueron capturados cinco presuntos integrantes de la Estructura 33, además se incautaron un arma de fuego, una granada de fragmentación, munición, estupefacientes, equipos de comunicación y motocicletas.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/golpe-al-gaor-estructura-33-ejercito-y-policia-capturan-a-cinco-presuntos-integrantes-en-ocana",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 43,
+    "slug": "2026-07-28-captura-otro_gao-antioquia",
+    "operacion_id": "2026-07-28-captura-otro_gao-antioquia",
+    "fecha": "2026-07-28",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": "Antioquia",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [
+      "300",
+      "El Paisa"
+    ],
+    "descripcion": "En una operación interinstitucional del Gaula Militar Valle de Aburrá y la Fiscalía General de la Nación se logró la captura de alias 300 y alias El Paisa.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/golpe-contundente-del-ejercito-contra-el-grupo-delincuencial-organizado-el-mesa-en-antioquia",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      },
+      {
+        "url": "https://www.bluradio.com/regiones/antioquia/capturaron-a-alias-300-de-el-mesa-lo-senalan-del-crimen-de-ingeniero-andres-camilo-en-antioquia-rg10",
+        "tipo": "medio_nacional",
+        "medio": "Blu Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 31,
+    "slug": "2026-07-28-captura-emc-norte-de-santander",
+    "operacion_id": "2026-07-28-captura-emc-norte-de-santander",
+    "fecha": "2026-07-28",
+    "org": "EMC",
+    "grupo_detalle": "Frente 33",
+    "departamento": "Norte de Santander",
+    "municipio": "Ocaña",
+    "lugar": "hotel en Ocaña",
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 5,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 5,
+    "materiales": {
+      "armas": 1,
+      "cocaina_kg": 0.3,
+      "municiones": 15,
+      "explosivos_kg": 1
+    },
+    "aliases": [
+      "Barbas",
+      "Caucano",
+      "Machete",
+      "Niche",
+      "Pantera",
+      "Veneco"
+    ],
+    "descripcion": "Cinco presuntos integrantes del Frente 33 de las disidencias de las Farc fueron capturados en un hotel en Ocaña, donde se hallaron armas, municiones, explosivos y droga.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://laopinion.co/judicial/habrian-llegado-de-cali-para-desatar-una-ola-de-sangre-en-ocana-y-los-hallaron-escondidos",
+        "tipo": "medio_regional",
+        "medio": "La Opinión (Cúcuta)",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      },
+      {
+        "url": "https://www.alerta.com.co/judiciales/caen-cinco-miembros-de-disidencias-de-las-farc-en-ocana-247202",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      },
+      {
+        "url": "https://www.minuto30.com/duro-golpe-a-las-disidencias-en-jamundi-fueron-capturados-pantera-y-machete/1714516/",
+        "tipo": "medio_regional",
+        "medio": "Minuto30",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-29"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 96,
+    "slug": "2026-07-27-operacion-eln-op",
+    "operacion_id": "2026-07-27-operacion-eln-op",
+    "fecha": "2026-07-27",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": "Sácama",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Se incautaron explosivos, municiones, un dron acondicionado para el lanzamiento de explosivos y otros elementos de guerra.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.pautonoticias.com/es/articulo/regionales/ejercito-nacional-informo-que-fue-neutralizado-en-combate-un-integrante-del-eln",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 95,
+    "slug": "2026-07-27-baja-eln-op",
+    "operacion_id": "2026-07-27-baja-eln-op",
+    "fecha": "2026-07-27",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": "Sácama",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 1,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Durante la operación militar, fue neutralizado en combate un integrante del ELN y se incautó abundante material de guerra.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.pautonoticias.com/es/articulo/regionales/ejercito-nacional-informo-que-fue-neutralizado-en-combate-un-integrante-del-eln",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 94,
+    "slug": "2026-07-27-operacion-eln-casanare",
+    "operacion_id": "2026-07-27-operacion-eln-casanare",
+    "fecha": "2026-07-27",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": "Casanare",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Dentro del material incautado se halló un dron de alta tecnología usado para labores de inteligencia a tropas y complejos petroleros.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-reporta-la-muerte-de-un-integrante-del-eln-y-la-incautacion-de-un-arsenal-en-una-operacion-militar-en-casanare-3574098",
+        "tipo": "medio_nacional",
+        "medio": "El Tiempo",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 42,
+    "slug": "2026-07-27-operacion-desconocido-huila",
+    "operacion_id": "2026-07-27-operacion-desconocido-huila",
+    "fecha": "2026-07-27",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": "Huila",
+    "municipio": "Tesalia",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 218.18
+    },
+    "aliases": [],
+    "descripcion": "Operación conjunta entre Ejército y Policía permitió la captura de un hombre y la incautación de 480 libras de marihuana en Tesalia, Huila.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/novena-brigada-propina-nuevo-golpe-al-narcotrafico-en-el-huila",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 41,
+    "slug": "2026-07-27-captura-desconocido-huila",
+    "operacion_id": "2026-07-27-captura-desconocido-huila",
+    "fecha": "2026-07-27",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": "Huila",
+    "municipio": "Tesalia",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {
+      "cocaina_kg": 218.18
+    },
+    "aliases": [],
+    "descripcion": "Operación conjunta entre Ejército y Policía permitió la captura de un hombre y la incautación de 480 libras de marihuana en Tesalia, Huila.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/novena-brigada-propina-nuevo-golpe-al-narcotrafico-en-el-huila",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 40,
+    "slug": "2026-07-27-sometimiento-emc-op",
+    "operacion_id": "2026-07-27-sometimiento-emc-op",
+    "fecha": "2026-07-27",
+    "org": "EMC",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 1,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Un presunto integrante del GAO-r Estructura Carlos Patiño se sometió a la justicia tras la presión de operaciones militares.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/presion-operacional-del-ejercito-nacional-logra-el-sometimiento-de-presunto-integrante-de-la-estructura-carlos-patino",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 39,
+    "slug": "2026-07-27-captura-embf-huila",
+    "operacion_id": "2026-07-27-captura-embf-huila",
+    "fecha": "2026-07-27",
+    "org": "EMBF",
+    "grupo_detalle": "Estructura Rodrigo Cadete",
+    "departamento": "Huila",
+    "municipio": "Suaza",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 3,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 3,
+    "materiales": {
+      "armas": 4
+    },
+    "aliases": [],
+    "descripcion": "La Novena Brigada afectó la Estructura Rodrigo Cadete con la captura de tres presuntos integrantes y la incautación de cuatro fusiles.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/golpe-a-la-estructura-rodrigo-cadete-tres-capturados-y-armamento-incautado-en-el-huila",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 38,
+    "slug": "2026-07-27-captura-otro_gao-cauca",
+    "operacion_id": "2026-07-27-captura-otro_gao-cauca",
+    "fecha": "2026-07-27",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": "Cauca",
+    "municipio": null,
+    "lugar": "Los Farallones",
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Tulande"
+    ],
+    "descripcion": "El Ejército capturó a alias Tulande, responsable de la minería ilegal y uno de los más buscados por delitos ambientales en Cauca.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/capturado-alias-tulande-responsable-de-la-mineria-ilegal-en-los-farallones-y-uno-de-los-mas-buscados-por-delitos-ambientales-en-cauca-y-vallevc",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 14,
+    "slug": "2026-07-27-captura-embf-caqueta",
+    "operacion_id": "2026-07-27-captura-embf-caqueta",
+    "fecha": "2026-07-27",
+    "org": "EMBF",
+    "grupo_detalle": null,
+    "departamento": "Caquetá",
+    "municipio": "Florencia",
+    "lugar": "El Pórtico",
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 1,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {
+      "dinero_cop": 40000000
+    },
+    "aliases": [
+      "Marlon Díaz",
+      "Marlón Díaz"
+    ],
+    "descripcion": "Alias 'Marlón Díaz', cabecilla de finanzas del Bloque Jorge Suárez Briceño, fue capturado en una operación del Ejército.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://diariodelcauca.com.co/alias-marlon-diaz-cabecilla-de-finanzas-del-bloque-jorge-suarez-briceno/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://extra.com.co/alias-marlon-diaz-cabecilla-de-finanzas-del-bloque-jorge-suarez-briceno/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://www.hsbnoticias.com/alias-marlon-diaz-cabecilla-de-finanzas-del-bloque-jorge-suarez-briceno/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://www.ejercito.mil.co/ejercito-nacional-captura-a-alias-marlon-diaz-tercer-cabecilla-de-finanzas-de-la-estructura-rodrigo-cadete-del-bloque-jorge-suarez-briceno",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-caqueta-a-alias-marlon-diaz-senalado-cabecilla-de-finanzas-de-las-disidencias-de-calarca-en-caqueta-3573963",
+        "tipo": "medio_nacional",
+        "medio": "El Tiempo",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-26"
+      },
+      {
+        "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-incauto-40-millones-y-logro-el-sometimiento-del-hombre-de-confianza-de-alias-marlon-diaz-3574811",
+        "tipo": "medio_nacional",
+        "medio": "El Tiempo",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-29"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 93,
+    "slug": "2026-07-26-captura-emc-caqueta",
+    "operacion_id": "2026-07-26-captura-emc-caqueta",
+    "fecha": "2026-07-26",
+    "org": "EMC",
+    "grupo_detalle": null,
+    "departamento": "Caquetá",
+    "municipio": "Florencia",
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Marlon Díaz"
+    ],
+    "descripcion": "Alias ‘Marlon Díaz’ fue detenido tras 13 meses de seguimiento, señalado de coordinar extorsiones y otras actividades ilegales.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://diariodelhuila.com/capturan-en-florencia-a-alias-marlon-diaz-senalado-cabecilla-financiero-de-las-disidencias/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-26"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 30,
+    "slug": "2026-07-26-captura-segunda_marquetalia-caqueta",
+    "operacion_id": "2026-07-26-captura-segunda_marquetalia-caqueta",
+    "fecha": "2026-07-26",
+    "org": "SEGUNDA_MARQUETALIA",
+    "grupo_detalle": null,
+    "departamento": "Caquetá",
+    "municipio": "Florencia",
+    "lugar": "El Pórtico",
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Marlon Díaz"
+    ],
+    "descripcion": "Las autoridades lograron la captura de Jefry Estiven Corredor, señalado cabecilla financiero de las disidencias de las Farc, tras más de un año de seguimiento.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.infobae.com/colombia/2026/07/26/cayo-alias-marlon-diaz-senalado-cabecilla-financiero-de-las-disidencias-de-las-farc-que-lidera-calarca-en-caqueta/",
+        "tipo": "medio_nacional",
+        "medio": "Infobae Colombia",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-26"
+      },
+      {
+        "url": "https://ifmnoticias.com/judicial/cayo-alias-marlon-diaz-presunto-jefe-financiero-de-las-disidencias-de-las-farc-en-caqueta-tras-13-meses-de-seguimiento/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-26"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 4,
+    "slug": "2026-07-26-operacion-eln-casanare",
+    "operacion_id": "2026-07-26-operacion-eln-casanare",
+    "fecha": "2026-07-26",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": "Casanare",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "dinero_cop": 100000000
+    },
+    "aliases": [],
+    "descripcion": "Además de la baja, se realizó una incautación millonaria de material de guerra durante la operación.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/ejercito-nacional-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-abundante-material-de-guerra-en-casanare",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://www.ejercito.mil.co/ejercito-nacional-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-abundante-material-de-guerra-en-casanare-643147",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://www.semana.com/nacion/articulo/video-operacion-del-ejercito-contra-el-eln-en-casanare-dejo-un-muerto-y-millonaria-incautacion-de-guerra/202618/",
+        "tipo": "medio_nacional",
+        "medio": "Semana",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-26"
+      },
+      {
+        "url": "https://lachivadeuraba.com/ejercito-reporto-la-muerte-de-un-integrante-del-eln-y-la-incautacion-de-material-de-guerra/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      },
+      {
+        "url": "https://noticiasenlinea.com.co/ejercito-nacional-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-abundante-material-de-guerra-en-casanare/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://www.collector.com.tr/1004578587/video-operacion-del-ejercito-contra-el-eln-en-casanare-dejo-un-muerto-y-millonar",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-26"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 3,
+    "slug": "2026-07-26-baja-eln-casanare",
+    "operacion_id": "2026-07-26-baja-eln-casanare",
+    "fecha": "2026-07-26",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": "Casanare",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 1,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {
+      "explosivos_kg": 1
+    },
+    "aliases": [],
+    "descripcion": "En una operación del Ejército contra el ELN en Casanare, se reportó la baja de un integrante del grupo armado.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-reporta-la-muerte-de-un-integrante-del-eln-y-la-incautacion-de-un-arsenal-en-una-operacion-militar-en-casanare-3574098",
+        "tipo": "medio_nacional",
+        "medio": "El Tiempo",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://www.lafm.com.co/orden-publico/casanare-colombia-combates-guerrillero-eln-muerto-406002",
+        "tipo": "medio_nacional",
+        "medio": "La FM",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-26"
+      },
+      {
+        "url": "https://www.semana.com/nacion/articulo/video-operacion-del-ejercito-contra-el-eln-en-casanare-dejo-un-muerto-y-millonaria-incautacion-de-guerra/202618/",
+        "tipo": "medio_nacional",
+        "medio": "Semana",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-26"
+      },
+      {
+        "url": "https://lachivadeuraba.com/ejercito-reporto-la-muerte-de-un-integrante-del-eln-y-la-incautacion-de-material-de-guerra/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-28"
+      },
+      {
+        "url": "https://noticiasenlinea.com.co/ejercito-nacional-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-abundante-material-de-guerra-en-casanare/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://www.collector.com.tr/1004578587/video-operacion-del-ejercito-contra-el-eln-en-casanare-dejo-un-muerto-y-millonar",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-26"
+      },
+      {
+        "url": "https://lavozdelcinaruco.com/combates-entre-el-ejercito-y-el-eln-en-limites-entre-casanare-y-arauca-dejan-un-presunto-guerrillero-muerto-y-un-dron-con-explosivos-incautado/",
+        "tipo": "medio_regional",
+        "medio": "La Voz del Cinaruco",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://casanareonline.co/ejercito-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-dron-explosivos-y-municiones-en-sacama-casanare/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-26"
+      },
+      {
+        "url": "https://colmundoradio.com.co/un-integrante-del-eln-murio-en-combates-con-el-ejercito-en-casanare-incautan-dron-con-explosivos-y-material-de-guerra/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      },
+      {
+        "url": "https://nacionllanera.com/operacion-militar-en-sacama-ejercito-reporta-muerte-de-un-presunto-integrante-de/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 92,
+    "slug": "2026-07-25-captura-otro_gao-op",
+    "operacion_id": "2026-07-25-captura-otro_gao-op",
+    "fecha": "2026-07-25",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "El Mono"
+    ],
+    "descripcion": "Luis Carlos Vélez, alias El Mono, fue detenido por ser uno de los hombres de confianza de alias Araña, cabecilla de los Comandos de Frontera.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://noticaribe.co/capturan-a-mano-derecha-de-alias-arana-maximo-cabecilla-de-los-comandos-de-frontera/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-25"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 91,
+    "slug": "2026-07-25-baja-emc-narino",
+    "operacion_id": "2026-07-25-baja-emc-narino",
+    "fecha": "2026-07-25",
+    "org": "EMC",
+    "grupo_detalle": "Carlos Patiño",
+    "departamento": "Nariño",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 3,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 3,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Una operación conjunta de las Fuerzas Militares en Nariño dejó un importante golpe contra la disidencia 'Carlos Patiño', resultando en la baja de tres presuntos integrantes del grupo.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.diariodelsur.com.co/ofensiva-militar-en-narino-frena-a-la-disidencia-carlos-patino-tres-abatidos-un-secuestrado-libre-y-35-toneladas-de-cafe-recuperadas/",
+        "tipo": "medio_regional",
+        "medio": "Diario del Sur",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-25"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 90,
+    "slug": "2026-07-25-captura-emc-cauca",
+    "operacion_id": "2026-07-25-captura-emc-cauca",
+    "fecha": "2026-07-25",
+    "org": "EMC",
+    "grupo_detalle": null,
+    "departamento": "Cauca",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Arnold",
+      "El Indio"
+    ],
+    "descripcion": "Las autoridades confirmaron la captura de alias 'El Indio', señalado como presunto integrante de una Red de Apoyo al Terrorismo de las disidencias de las Farc en el departamento del Cauca.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.lafm.com.co/actualidad/capturado-presunto-disidente-responsable-de-actos-terroristas-en-cauca-405922",
+        "tipo": "medio_nacional",
+        "medio": "La FM",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-25"
+      },
+      {
+        "url": "https://www.elespectador.com/judicial/capturan-a-alias-el-indio-presunto-integrante-de-las-disidencias-de-las-farc-en-cauca/",
+        "tipo": "medio_nacional",
+        "medio": "El Espectador",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-25"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 37,
+    "slug": "2026-07-25-operacion-otro_gao-narino",
+    "operacion_id": "2026-07-25-operacion-otro_gao-narino",
+    "fecha": "2026-07-25",
+    "org": "OTRO_GAO",
+    "grupo_detalle": "franco benavides",
+    "departamento": "Nariño",
+    "municipio": "Leiva",
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "La Policía Nacional recuperó 22 motocicletas, incautó armamento y capturó a una persona en una operación contra la estructura criminal Franco Benavides.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.policia.gov.co/noticia/golpe-estructura-criminal-franco-benavides-recuperadas-22-motocicletas-incautado-armamento",
+        "tipo": "oficial",
+        "medio": "Policía Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": null
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 29,
+    "slug": "2026-07-25-operacion-desconocido-op",
+    "operacion_id": "2026-07-25-operacion-desconocido-op",
+    "fecha": "2026-07-25",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "laboratorios": 1,
+      "hectareas_coca": 56.0
+    },
+    "aliases": [],
+    "descripcion": "La DNPA destruyó una plantación de 56 mil arbustos de coca en Olancho.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://contextohn.com/nacional/dnpa-destruye-plantacion-de-56-mil-arbustos-de-coca-en-olancho/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-25"
+      },
+      {
+        "url": "https://proceso.hn/erradican-56-mil-arbustos-de-hoja-de-coca-y-destruyen-laboratorio-rustico-en-olancho/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-25"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 89,
+    "slug": "2026-07-24-operacion-otro_gao-caqueta",
+    "operacion_id": "2026-07-24-operacion-otro_gao-caqueta",
+    "fecha": "2026-07-24",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": "Caquetá",
+    "municipio": "San José del Fragua",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "armas": 1,
+      "explosivos_kg": 1
+    },
+    "aliases": [],
+    "descripcion": "Tropas de la Sexta División desmantelaron dos caletas clandestinas con explosivos, un mortero y granadas adaptadas para ataques con drones.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.cablenoticias.com/noticias/ejercito-incauta-dos-megadepositos-armamento-comandosfrontera-caqueta",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 88,
+    "slug": "2026-07-24-captura-otro_gao-antioquia",
+    "operacion_id": "2026-07-24-captura-otro_gao-antioquia",
+    "fecha": "2026-07-24",
+    "org": "OTRO_GAO",
+    "grupo_detalle": "El Mesa",
+    "departamento": "Antioquia",
+    "municipio": "Bello",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {
+      "cocaina_kg": 120
+    },
+    "aliases": [
+      "300"
+    ],
+    "descripcion": "Durante un operativo conjunto, fue capturado alias 300, presunto cabecilla del grupo delincuencial El Mesa, y se incautaron dosis de heroína avaluadas en cerca de $120 millones.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.elcolombiano.com/antioquia/busqueda-andres-camilo-pelaez-policia-fiscalia-casa-drogas-el-tapon-bello-AD39183571",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 87,
+    "slug": "2026-07-24-baja-clan_del_golfo-antioquia",
+    "operacion_id": "2026-07-24-baja-clan_del_golfo-antioquia",
+    "fecha": "2026-07-24",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": "subestructura Jorge Iván Arboleda Garcés",
+    "departamento": "Antioquia",
+    "municipio": "Amalfi",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 2,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "El Ejército y la Fuerza Aeroespacial bombardearon posiciones del Clan del Golfo, resultando en la muerte de dos presuntos integrantes del grupo ilegal.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.elcolombiano.com/antioquia/bombardeos-ejercito-clan-del-golfo-amalfi-campesinos-AM39175445",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 86,
+    "slug": "2026-07-24-operacion-clan_del_golfo-tolima",
+    "operacion_id": "2026-07-24-operacion-clan_del_golfo-tolima",
+    "fecha": "2026-07-24",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Tolima",
+    "municipio": "Flandes",
+    "lugar": "peaje",
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "armas": 1,
+      "dinero_cop": 1,
+      "municiones": 1
+    },
+    "aliases": [],
+    "descripcion": "En el mismo operativo donde fue capturado Jhon Edison Chalá Torrejano, se incautaron armas de fuego, municiones, dinero en efectivo y equipos de comunicación.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.elcolombiano.com/antioquia/justicia-aplaza-audiencia-homicidio-periodista-mateo-perez-flip-rechaza-demora-PM39172195",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 36,
+    "slug": "2026-07-24-sometimiento-otro_gao-caqueta",
+    "operacion_id": "2026-07-24-sometimiento-otro_gao-caqueta",
+    "fecha": "2026-07-24",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": "Caquetá",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 1,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "La Fuerza Pública logró el sometimiento de un integrante del grupo armado tras neutralizar dos depósitos clandestinos de guerra.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/ejercito-nacional-asesta-contundente-golpe-a-los-comandos-de-frontera-en-caqueta",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      },
+      {
+        "url": "https://www.cablenoticias.com/noticias/ejercito-incauta-dos-megadepositos-armamento-comandosfrontera-caqueta",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 28,
+    "slug": "2026-07-24-captura-clan_del_golfo-cordoba",
+    "operacion_id": "2026-07-24-captura-clan_del_golfo-cordoba",
+    "fecha": "2026-07-24",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Córdoba",
+    "municipio": "Puerto Escondido",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {
+      "cocaina_kg": 346
+    },
+    "aliases": [],
+    "descripcion": "Un operativo conjunto del Ejército y la Policía permitió la captura de dos presuntos integrantes del Clan del Golfo con 346 paquetes de marihuana.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.alerta.com.co/judiciales/cordoba-capturan-dos-miembros-del-clan-del-golfo-247093",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      },
+      {
+        "url": "https://www.collector.com.tr/1004248997/cordoba-capturan-a-dos-presuntos-miembros-del-clan-del-golfo-en-puerto-escondido",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      },
+      {
+        "url": "https://www.elheraldo.co/colombia/2026/07/27/capturaron-a-dos-presuntos-miembros-del-clan-del-golfo-en-puerto-escondido-cordoba/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-27"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 27,
+    "slug": "2026-07-24-captura-clan_del_golfo-tolima",
+    "operacion_id": "2026-07-24-captura-clan_del_golfo-tolima",
+    "fecha": "2026-07-24",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Tolima",
+    "municipio": "Flandes",
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 6,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 6,
+    "materiales": {},
+    "aliases": [
+      "Jhon Edison Chalá Torrejano",
+      "Víctor Chalá"
+    ],
+    "descripcion": "Durante un operativo de la Policía, fue capturado Jhon Edison Chalá Torrejano, presunto responsable del asesinato del periodista Mateo Pérez, junto con otras cinco personas y se incautaron armas de fuego, municiones, dinero en efectivo y equipos de comunicación.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.elcolombiano.com/antioquia/justicia-aplaza-audiencia-homicidio-periodista-mateo-perez-flip-rechaza-demora-PM39172195",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      },
+      {
+        "url": "https://laopinion.co/colombia/la-flip-pide-agilizar-proceso-judicial-por-el-asesinato-del-periodista-mateo-perez-en",
+        "tipo": "medio_regional",
+        "medio": "La Opinión (Cúcuta)",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 85,
+    "slug": "2026-07-23-baja-emc-cauca",
+    "operacion_id": "2026-07-23-baja-emc-cauca",
+    "fecha": "2026-07-23",
+    "org": "EMC",
+    "grupo_detalle": null,
+    "departamento": "Cauca",
+    "municipio": "El Tambo",
+    "lugar": "Huisitó",
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 2,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [
+      "Iván Mordisco"
+    ],
+    "descripcion": "Enfrentamiento entre tropas del Ejército y disidentes de las Farc resultó en la muerte de dos disidentes.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.lasillavacia.com/en-vivo/mindefensa-denuncia-que-disidentes-vestidos-de-civil-atacaron-al-ejercito/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 84,
+    "slug": "2026-07-23-captura-embf-meta",
+    "operacion_id": "2026-07-23-captura-embf-meta",
+    "fecha": "2026-07-23",
+    "org": "EMBF",
+    "grupo_detalle": "Bloque Jorge Suárez Briceño",
+    "departamento": "Meta",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {
+      "explosivos_kg": 220
+    },
+    "aliases": [],
+    "descripcion": "Se capturó a un presunto integrante del Bloque Jorge Suárez Briceño y se destruyeron 220 kilos de explosivos en el Meta.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://nacionllanera.com/capturan-a-presunto-integrante-del-bloque-jorge-suarez-briceno-y-destruyen-220-kilos-de-explosivos-en-el-meta/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 83,
+    "slug": "2026-07-23-operacion-desconocido-op",
+    "operacion_id": "2026-07-23-operacion-desconocido-op",
+    "fecha": "2026-07-23",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": "Ocaña",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 200
+    },
+    "aliases": [],
+    "descripcion": "El Ejército incautó más de 200 kilos de cocaína en Ocaña, lo que frena la circulación del estupefaciente.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://noticiaslaft.topbls.com/mas-de-200-kilos-de-cocaina-esta-fue-la-alarmante-cifra-que-incauto-el-ejercito-en-ocana/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 82,
+    "slug": "2026-07-23-baja-emc-op",
+    "operacion_id": "2026-07-23-baja-emc-op",
+    "fecha": "2026-07-23",
+    "org": "EMC",
+    "grupo_detalle": "estructura residual Carlos Patiño",
+    "departamento": null,
+    "municipio": null,
+    "lugar": "vía Panamericana",
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 3,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 3,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Tres presuntos disidentes murieron tras un enfrentamiento armado en la vía Panamericana durante un operativo del Ejército.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://qhubocali.com/judiciales/tres-presuntos-disidentes-murieron-tras-asalto-en-la-panamericana/",
+        "tipo": "medio_regional",
+        "medio": "Q'hubo Cali",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 81,
+    "slug": "2026-07-23-captura-otro_gao-santander",
+    "operacion_id": "2026-07-23-captura-otro_gao-santander",
+    "fecha": "2026-07-23",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": "Santander",
+    "municipio": "Bucaramanga",
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 10,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 10,
+    "materiales": {
+      "armas": 1
+    },
+    "aliases": [],
+    "descripcion": "Durante operativos en seis puntos de Bucaramanga, la Policía detuvo a 10 presuntos integrantes de un grupo criminal y decomisó un arma de fuego.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.infobae.com/colombia/2026/07/23/delincuentes-distribuian-carne-de-caballo-en-bucaramanga-como-si-se-tratara-de-res-garantizada-policia-incauto-14-toneladas-en-mal-estado/",
+        "tipo": "medio_nacional",
+        "medio": "Infobae Colombia",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 35,
+    "slug": "2026-07-23-operacion-eln-op",
+    "operacion_id": "2026-07-23-operacion-eln-op",
+    "fecha": "2026-07-23",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": "Cúcuta",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 2000
+    },
+    "aliases": [],
+    "descripcion": "El Ejército Nacional, en coordinación con la Fuerza Aeroespacial y la Policía Antinarcóticos, incautó cerca de dos toneladas de cocaína, afectando las finanzas del ELN.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://lagacetacienagaonline.com/nacionales/video-ejercito-incauta-dos-toneladas-de-cocaina-y-golpea-finanzas-del-eln/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 80,
+    "slug": "2026-07-22-operacion-otro_gao-la-guajira",
+    "operacion_id": "2026-07-22-operacion-otro_gao-la-guajira",
+    "fecha": "2026-07-22",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": "La Guajira",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 2500
+    },
+    "aliases": [],
+    "descripcion": "La Policía Nacional incautó 2,5 toneladas de cocaína que iban rumbo a Norteamérica y capturó a una persona en el operativo.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://diariodelnorte.net/nacion/incautan-25-toneladas-de-cocaina-que-iban-rumbo-a-norteamerica-un-capturado/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 79,
+    "slug": "2026-07-22-captura-otro_gao-op-3",
+    "operacion_id": "2026-07-22-captura-otro_gao-op-3",
+    "fecha": "2026-07-22",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 6,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 6,
+    "materiales": {},
+    "aliases": [
+      "narcotraficantes"
+    ],
+    "descripcion": "Seis presuntos narcotraficantes fueron capturados en una operación en conjunto entre Ecuador, EE. UU. y Colombia.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ntn24.com/noticias-actualidad/asi-fue-operacion-en-conjunto-entre-ecuador-ee-uu-y-colombia-que-permitio-masiva-incautacion-en-el-pacifico-635266",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 78,
+    "slug": "2026-07-22-captura-emc-op",
+    "operacion_id": "2026-07-22-captura-emc-op",
+    "fecha": "2026-07-22",
+    "org": "EMC",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [
+      "Leo",
+      "Maicol"
+    ],
+    "descripcion": "Las autoridades capturaron a alias Leo, cabecilla de milicias al servicio de alias Iván Mordisco, y a alias Maicol, señalado de ejecutar ataques con drones.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://cambiocolombia.com/conflicto-armado-en-colombia/articulo/2026/7/cae-la-mano-urbana-de-ivan-mordisco-capturado-alias-leo",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 77,
+    "slug": "2026-07-22-operacion-desconocido-op",
+    "operacion_id": "2026-07-22-operacion-desconocido-op",
+    "fecha": "2026-07-22",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": "El Charco",
+    "lugar": null,
+    "fuerza": [
+      "ARMADA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "En el mismo operativo, se incautó una lancha utilizada para el transporte de insumos para el narcotráfico.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.hsbnoticias.com/elcharco-armada-golpea-al-narcotrafico-capturan-a-hombre-con-14-kg-de-insumos-e-incautan-lancha/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 76,
+    "slug": "2026-07-22-captura-otro_gao-op-2",
+    "operacion_id": "2026-07-22-captura-otro_gao-op-2",
+    "fecha": "2026-07-22",
+    "org": "OTRO_GAO",
+    "grupo_detalle": "frente Iván Merchán",
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 8,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 8,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Ocho presuntos integrantes del frente Iván Merchán fueron capturados en una operación militar en el Meta.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://nacionllanera.com/capturan-a-ocho-presuntos-integrantes-del-frente-ivan-merchan-en-operacion-militar-en-el-meta/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 75,
+    "slug": "2026-07-22-operacion-desconocido-narino",
+    "operacion_id": "2026-07-22-operacion-desconocido-narino",
+    "fecha": "2026-07-22",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": "Nariño",
+    "municipio": "El Charco",
+    "lugar": null,
+    "fuerza": [
+      "ARMADA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "También fue incautada la embarcación de fibra de vidrio que utilizaba para movilizarse.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.diariodelsur.com.co/elcharco-armada-golpea-al-narcotrafico-capturan-a-hombre-con-14-kg-de-insumos-e-incautan-lancha/",
+        "tipo": "medio_regional",
+        "medio": "Diario del Sur",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 26,
+    "slug": "2026-07-22-captura-desconocido-narino",
+    "operacion_id": "2026-07-22-captura-desconocido-narino",
+    "fecha": "2026-07-22",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": "Nariño",
+    "municipio": "El Charco",
+    "lugar": null,
+    "fuerza": [
+      "ARMADA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "En un operativo del Batallón Fluvial de Infantería de Marina No. 43 fue capturado un hombre que transportaba 14 kilogramos de insumos sólidos para el procesamiento de pasta base de cocaína.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.diariodelsur.com.co/elcharco-armada-golpea-al-narcotrafico-capturan-a-hombre-con-14-kg-de-insumos-e-incautan-lancha/",
+        "tipo": "medio_regional",
+        "medio": "Diario del Sur",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://www.hsbnoticias.com/elcharco-armada-golpea-al-narcotrafico-capturan-a-hombre-con-14-kg-de-insumos-e-incautan-lancha/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 25,
+    "slug": "2026-07-22-operacion-otro_gao-op",
+    "operacion_id": "2026-07-22-operacion-otro_gao-op",
+    "fecha": "2026-07-22",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Se incautaron dos drones, fibra óptica, material de guerra, vehículos y equipos de comunicación durante la operación.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/cayo-alias-leo-cabecilla-de-milicias-al-servicio-de-alias-mordisco-junto-con-explosivista-responsable-de-atentados-con-drones-en-popayan",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://elperiodicodeportivo.com.co/cauca-capturaron-a-alias-leo-maicol-y-yeni-responsables-de-ataques-con-drones-kamikaze/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 13,
+    "slug": "2026-07-22-captura-otro_gao-op",
+    "operacion_id": "2026-07-22-captura-otro_gao-op",
+    "fecha": "2026-07-22",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 3,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 3,
+    "materiales": {},
+    "aliases": [
+      "Leo",
+      "Maicol"
+    ],
+    "descripcion": "En la operación se capturaron a tres integrantes de un grupo armado, incluyendo a alias Leo, cabecilla de milicias al servicio de alias Mordisco, y a alias Maicol, responsable de ataques con drones.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/cayo-alias-leo-cabecilla-de-milicias-al-servicio-de-alias-mordisco-junto-con-explosivista-responsable-de-atentados-con-drones-en-popayan",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://diariodelcauca.com.co/cayo-alias-leo-cabecilla-de-milicias-de-alias-mordisco-responsable-de-los-atentados-con-drones-en-popayan/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://elperiodicodeportivo.com.co/cauca-capturaron-a-alias-leo-maicol-y-yeni-responsables-de-ataques-con-drones-kamikaze/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 12,
+    "slug": "2026-07-22-captura-desconocido-op",
+    "operacion_id": "2026-07-22-captura-desconocido-op",
+    "fecha": "2026-07-22",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Barbas"
+    ],
+    "descripcion": "Alias ‘Barbas’, un presunto cabecilla con un extenso historial criminal, fue capturado por las autoridades. Se le señala de haber participado en al menos 61 homicidios.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.diariodelsur.com.co/cayo-alias-barbas-senalado-de-participar-en-61-asesinatos-y-de-sembrar-terror-tras-pasar-del-eln-a-las-disidencias/",
+        "tipo": "medio_regional",
+        "medio": "Diario del Sur",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://diariodelcauca.com.co/cayo-alias-barbas-senalado-de-participar-en-61-asesinatos-y-de-sembrar-terror-tras-pasar-del-eln-a-las-disidencias/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://extra.com.co/cayo-alias-barbas-senalado-de-participar-en-61-asesinatos-y-de-sembrar-terror-tras-pasar-del-eln-a-las-disidencias/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 8,
+    "slug": "2026-07-22-operacion-otro_gao-cesar",
+    "operacion_id": "2026-07-22-operacion-otro_gao-cesar",
+    "fecha": "2026-07-22",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": "Cesar",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 310,
+      "dinero_cop": 1705000000,
+      "laboratorios": 1
+    },
+    "aliases": [],
+    "descripcion": "Se logró la incautación de más de 310 kilogramos de cocaína tras la destrucción de un laboratorio, afectando las finanzas del grupo armado organizado.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/contundente-golpe-a-las-autodefensas-conquistadoras-de-la-sierra-millonarias-perdidas-y-mas-de-310-kilogramos-de-cocaina-incautados-tras-la-destruccion-de-un-laboratorio-en-el-sur-del-cesar",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://www.bluradio.com/regiones/santanderes/incautan-mas-de-310-kilos-de-cocaina-tras-operativo-militar-en-el-sur-del-cesar-rg10",
+        "tipo": "medio_nacional",
+        "medio": "Blu Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://elfrente.com.co/golpe-al-narcotrafico-en-el-sur-del-cesar-destruyen-laboratorio-con-mas-de-310-kilos-de-cocaina-de-las-acs/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://santamartaaldia.co/golpe-a-los-pachencas-ejercito-destruyo-laboratorio-de-cocaina-y-decomiso-mas-de-310-kilos-de-droga-en-el-cesar/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 6,
+    "slug": "2026-07-22-captura-emc-cauca",
+    "operacion_id": "2026-07-22-captura-emc-cauca",
+    "fecha": "2026-07-22",
+    "org": "EMC",
+    "grupo_detalle": null,
+    "departamento": "Cauca",
+    "municipio": "Popayán",
+    "lugar": "varios barrios",
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 3,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 3,
+    "materiales": {},
+    "aliases": [
+      "Leo",
+      "no mencionados"
+    ],
+    "descripcion": "Tropas del Gaula Militar Cauca, junto con la Policía Nacional, capturaron a tres presuntos integrantes de las milicias clandestinas del Estado Mayor Central (EMC).",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.bluradio.com/regiones/pacifico/capturan-a-tres-integrantes-de-disidencias-de-las-farc-senalados-de-ataques-con-drones-en-popayan-rg10",
+        "tipo": "medio_nacional",
+        "medio": "Blu Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://www.elespectador.com/judicial/capturan-a-alias-leo-jefe-de-milicias-urbanas-de-las-disidencias-de-mordisco-en-cauca/",
+        "tipo": "medio_nacional",
+        "medio": "El Espectador",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://www.lafm.com.co/orden-publico/ejercito-captura-tres-disidentes-drones-explosivos-cauca-405630",
+        "tipo": "medio_nacional",
+        "medio": "La FM",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://www.diariodelsur.com.co/en-popayan-cayeron-explosivistas-al-servicio-de-alias-ivan-mordisco/",
+        "tipo": "medio_regional",
+        "medio": "Diario del Sur",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      },
+      {
+        "url": "https://www.hsbnoticias.com/cayo-alias-leo-cabecilla-de-milicias-al-servicio-de-ivan-mordisco/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      },
+      {
+        "url": "https://www.pulzo.com/nacion/ataque-disidencias-cauca-dejo-siete-militares-heridos-PP5254174",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      },
+      {
+        "url": "https://www.pulzo.com/nacion/capturan-a-tres-miembros-de-emc-farc-en-popayan-cauca-golpe-a-milicias-urbanas-PP5252744A",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 74,
+    "slug": "2026-07-21-captura-eln-norte-de-santander",
+    "operacion_id": "2026-07-21-captura-eln-norte-de-santander",
+    "fecha": "2026-07-21",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": "Norte de Santander",
+    "municipio": "Cúcuta",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {
+      "armas": 1,
+      "municiones": 6,
+      "explosivos_kg": 95
+    },
+    "aliases": [
+      "Morales"
+    ],
+    "descripcion": "Un operativo conjunto en Cúcuta permitió capturar a un presunto integrante del ELN y desmantelar un centro de acopio de explosivos y armamento.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.alerta.com.co/judiciales/cucuta-capturan-a-presunto-integrante-del-eln-con-explosivos-246822",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://laopinion.co/judicial/quien-le-guardaban-este-arsenal-hallan-una-casa-con-explosivos-en-el-anillo-vial",
+        "tipo": "medio_regional",
+        "medio": "La Opinión (Cúcuta)",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 34,
+    "slug": "2026-07-21-operacion-desconocido-quindio",
+    "operacion_id": "2026-07-21-operacion-desconocido-quindio",
+    "fecha": "2026-07-21",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": "Quindío",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 710
+    },
+    "aliases": [],
+    "descripcion": "La Policía Nacional incautó 710 kilogramos de clorhidrato de cocaína y capturó a una persona durante un operativo en Quindío.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.policia.gov.co/noticia/policia-nacional-incauto-710-kilogramos-clorhidrato-cocaina-en-operativo-vial-en-quindio",
+        "tipo": "oficial",
+        "medio": "Policía Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": null
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 24,
+    "slug": "2026-07-21-operacion-desconocido-op",
+    "operacion_id": "2026-07-21-operacion-desconocido-op",
+    "fecha": "2026-07-21",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "ARMADA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 1000,
+      "dinero_cop": 15000000
+    },
+    "aliases": [
+      "ciudadanos colombianos",
+      "ciudadanos panameños"
+    ],
+    "descripcion": "La Armada de Colombia incautó más de una tonelada de marihuana durante dos operaciones en el Pacífico colombiano, afectando las finanzas del narcotráfico.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://buenaventuraenlinea.com/armada-de-colombia-incauta-cerca-de-tonelada-y-media-de-marihuana-y-afecta-las-finanzas-del-narcotrafico-en-mas-de-15-millones-de-dolares/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://impactonews.co/armada-incauta-mas-de-una-tonelada-de-marihuana-y-afecta-finanzas-del-narcotrafico-en-mas-de-15-millones-de-dolares/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 23,
+    "slug": "2026-07-21-captura-otro_gao-meta",
+    "operacion_id": "2026-07-21-captura-otro_gao-meta",
+    "fecha": "2026-07-21",
+    "org": "OTRO_GAO",
+    "grupo_detalle": "frente autodenominado Iván Merchán",
+    "departamento": "Meta",
+    "municipio": "Mapiripán",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 8,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 8,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Tropas de la Séptima Brigada del Ejército Nacional desarticularon una comisión de finanzas del frente autodenominado Iván Merchán, responsable de actividades de extorsión y control territorial en el sur del Meta.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/desarticulada-comision-de-finanzas-del-frente-autodenominado-ivan-merchan-ocho-capturados-y-un-menor-recuperado-en-mapiripan-meta",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://www.ejercito.mil.co/desarticulada-comision-de-finanzas-del-frente-autodenominado-ivan-merchan-ocho-capturados-y-un-menor-recuperado-en-mapiripan-meta-643043",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 11,
+    "slug": "2026-07-21-captura-segunda_marquetalia-meta",
+    "operacion_id": "2026-07-21-captura-segunda_marquetalia-meta",
+    "fecha": "2026-07-21",
+    "org": "SEGUNDA_MARQUETALIA",
+    "grupo_detalle": "frente Iván Merchán",
+    "departamento": "Meta",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 8,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 8,
+    "materiales": {
+      "armas": 3
+    },
+    "aliases": [
+      "Iván Márquez"
+    ],
+    "descripcion": "Ocho integrantes de la Segunda Marquetalia fueron capturados por la Fuerza Pública, incluyendo a tres mujeres, durante una operación en el Meta.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/ejercito-desmantela-comision-de-las-disidencias-de-la-segunda-marquetalia-que-extorsionaba-en-el-meta",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://www.elcolombiano.com/colombia/segunda-marquetalia-extorsiones-talonario-moto-exosto-ruidoso-meta-CO39044789",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://cambiocolombia.com/conflicto-armado-en-colombia/articulo/2026/7/ejercito-desmantela-comision-de-las-disidencias-de-la-segunda-marquetalia-que-extorsionaba-en-el-meta",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 10,
+    "slug": "2026-07-21-captura-eln-santander",
+    "operacion_id": "2026-07-21-captura-eln-santander",
+    "fecha": "2026-07-21",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": "Santander",
+    "municipio": "Tona",
+    "lugar": "vereda Monte Chiquito",
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {
+      "armas": 1,
+      "explosivos_kg": 32
+    },
+    "aliases": [
+      "Jorge"
+    ],
+    "descripcion": "El Gaula Militar Chicamocha capturó a alias Jorge, integrante del ELN, durante una operación conjunta con la Policía Nacional.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.lafm.com.co/orden-publico/gaula-militar-captura-alias-jorge-eln-santander-405526",
+        "tipo": "medio_nacional",
+        "medio": "La FM",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://www.diariodelsur.com.co/gaula-del-ejercito-capturo-alias-jorge-presunto-integrante-del-eln-en-santander/",
+        "tipo": "medio_regional",
+        "medio": "Diario del Sur",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://www.elpais.com.co/judicial/capturan-a-alias-jorge-del-eln-con-un-peligroso-arsenal-de-explosivos-y-armas-en-santander-2237.html",
+        "tipo": "medio_regional",
+        "medio": "El País (Cali)",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://www.bluradio.com/regiones/santanderes/capturan-presunto-integrante-del-eln-con-armas-y-32-kilos-de-explosivos-en-tona-santander-rg10",
+        "tipo": "medio_nacional",
+        "medio": "Blu Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://bucaramanga.alerta.com.co/judiciales/operativo-en-tona-deja-presunto-integrante-del-eln-capturado-246911",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://elfrente.com.co/capturan-en-tona-santander-a-presunto-integrante-del-eln-con-explosivos-y-arsenal-de-guerra/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://www.ejercito.mil.co/ejercito-nacional-capturo-a-presunto-integrante-del-gao-eln-con-importante-material-de-guerra-y-explosivos",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-23"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 2,
+    "slug": "2026-07-21-captura-clan_del_golfo-cesar",
+    "operacion_id": "2026-07-21-captura-clan_del_golfo-cesar",
+    "fecha": "2026-07-21",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Cesar",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Motorratón",
+      "Yoyo"
+    ],
+    "descripcion": "La Policía capturó a alias ‘Yoyo’, presunto cabecilla del Clan del Golfo en el sur del Cesar.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/21/capturan-a-alias-yoyo-presunto-cabecilla-del-clan-del-golfo-en-el-sur-del-cesar/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://cucutaaldia.co/cucuta/capturan-a-alias-yoyo-lider-de-los-sicarios-del-clan-del-golfo-en-el-sur-del-cesar-buscado-por-interpol/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://elfrente.com.co/frenada-la-carrera-criminal-de-motorraton-integrante-del-clan-del-golfo/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://elpilon.com.co/judicial/capturan-en-aguachica-a-alias-yoyo-presunto-jefe-de-sicarios-del-clan-del-golfo-en-el-sur-del-cesar",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://enlacetelevision.com/2026/07/22/capturan-a-alias-yoyo-presunto-cabecilla-del-clan-del-golfo/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://www.elheraldo.co/colombia/2026/07/22/capturan-en-el-cesar-a-alias-yoyo-presunto-jefe-sicarial-del-clan-del-golfo/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      },
+      {
+        "url": "https://www.policia.gov.co/noticia/capturado-alias-yoyo-presunto-cabecilla-sicarial-una-estructura-criminal",
+        "tipo": "oficial",
+        "medio": "Policía Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": null
+      },
+      {
+        "url": "https://www.ejercito.mil.co/alias-yoyo-o-motorraton-senalado-de-coordinar-acciones-sicariales-y-fortalecer-el-accionar-criminal-del-gao-clan-del-golfo-en-el-sur-del-cesar",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-22"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 73,
+    "slug": "2026-07-20-operacion-desconocido-op",
+    "operacion_id": "2026-07-20-operacion-desconocido-op",
+    "fecha": "2026-07-20",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "laboratorios": 1,
+      "hectareas_coca": 100000.0
+    },
+    "aliases": [],
+    "descripcion": "Las Fuerzas Armadas destruyeron más de 100.000 plantas de coca en la frontera norte.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.eluniverso.com/noticias/fuerzas-armadas-destruyen-mas-de-100000-plantas-de-coca-en-la-frontera-norte-nota/?outputType=amp",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-20"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 72,
+    "slug": "2026-07-20-operacion-clan_del_golfo-magdalena",
+    "operacion_id": "2026-07-20-operacion-clan_del_golfo-magdalena",
+    "fecha": "2026-07-20",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Magdalena",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Se decomisaron droga, combustible robado y munición durante los operativos de la Policía.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://santamartaaldia.co/le-cerraron-el-cerco-al-clan-del-golfo-cayo-presunto-extorsionista-y-decomisaron-droga-combustible-robado-y-municion-en-el-magdalena/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-20"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 71,
+    "slug": "2026-07-20-captura-clan_del_golfo-magdalena",
+    "operacion_id": "2026-07-20-captura-clan_del_golfo-magdalena",
+    "fecha": "2026-07-20",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Magdalena",
+    "municipio": "El Banco",
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "presunto extorsionista"
+    ],
+    "descripcion": "La Policía capturó a un presunto integrante del Clan del Golfo en operativos en El Banco y Salamina.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://santamartaaldia.co/le-cerraron-el-cerco-al-clan-del-golfo-cayo-presunto-extorsionista-y-decomisaron-droga-combustible-robado-y-municion-en-el-magdalena/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-20"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 33,
+    "slug": "2026-07-20-captura-eln-antioquia",
+    "operacion_id": "2026-07-20-captura-eln-antioquia",
+    "fecha": "2026-07-20",
+    "org": "ELN",
+    "grupo_detalle": "Frente José Antonio Galán",
+    "departamento": "Antioquia",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Rafa",
+      "Rafita",
+      "cabecilla financiero"
+    ],
+    "descripcion": "Tropas del Grupo Gaula Militar Valle de Aburrá lograron la captura de un presunto integrante del Frente José Antonio Galán del ELN.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/capturado-presunto-integrante-del-frente-jose-antonio-galan-del-eln-en-antioquia",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-20"
+      },
+      {
+        "url": "https://caracol.com.co/2026/07/19/capturan-a-alias-rafa-o-rafita-cabecilla-de-red-de-apoyo-al-terrorismo-del-eln-en-antioquia/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-19"
+      },
+      {
+        "url": "https://www.elcolombiano.com/antioquia/captura-en-antioquia-presunto-cabecilla-financiero-eln-HJ39033884",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://co.headtopics.com/news/capturaron-en-antioquia-a-presunto-cabecilla-financiero-del-85802238",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 70,
+    "slug": "2026-07-19-operacion-clan_del_golfo-op",
+    "operacion_id": "2026-07-19-operacion-clan_del_golfo-op",
+    "fecha": "2026-07-19",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Se incautó marihuana, munición y panfletos alusivos al Clan del Golfo durante los operativos.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://santamartaaldia.co/cae-presunto-extorsionista-del-clan-del-golfo-en-salamina-policia-tambien-capturo-a-otros-dos-hombres-en-el-magdalena/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-19"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 69,
+    "slug": "2026-07-19-captura-clan_del_golfo-op",
+    "operacion_id": "2026-07-19-captura-clan_del_golfo-op",
+    "fecha": "2026-07-19",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": "Salamina",
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 3,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 3,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "La Policía Nacional capturó a tres personas en operativos en Salamina y El Banco, recuperando también 100 galones de combustible hurtado.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://santamartaaldia.co/cae-presunto-extorsionista-del-clan-del-golfo-en-salamina-policia-tambien-capturo-a-otros-dos-hombres-en-el-magdalena/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-19"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 68,
+    "slug": "2026-07-19-baja-segunda_marquetalia-op",
+    "operacion_id": "2026-07-19-baja-segunda_marquetalia-op",
+    "fecha": "2026-07-19",
+    "org": "SEGUNDA_MARQUETALIA",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 2,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [
+      "Marlon",
+      "Ñeque"
+    ],
+    "descripcion": "Las Fuerzas Militares neutralizaron a alias 'Ñeque' y su colaborador 'Marlon', considerados cabecillas de una estructura criminal.",
+    "estado_verificacion": "en_disputa",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": false,
+    "fuentes": [
+      {
+        "url": "https://www.elcolombiano.com/colombia/neque-y-marlon-jefes-de-estructura-de-alias-mordisco-de-las-farc-que-el-gobierno-nacional-reporto-como-bajas-afirman-que-estan-vivos-LK39002768",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-19"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Existe información pública contradictoria sobre si alias 'Ñeque' y 'Marlon' fueron realmente dados de baja. Se excluye del conteo hasta corroborar.",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 32,
+    "slug": "2026-07-19-captura-embf-meta",
+    "operacion_id": "2026-07-19-captura-embf-meta",
+    "fecha": "2026-07-19",
+    "org": "EMBF",
+    "grupo_detalle": "Bloque Jorge Suárez Briceño",
+    "departamento": "Meta",
+    "municipio": "Puerto Rico",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {
+      "explosivos_kg": 220
+    },
+    "aliases": [],
+    "descripcion": "En Puerto Rico, Meta, fue capturado un presunto integrante del grupo armado organizado residual, GAO-r, Bloque Jorge Suárez Briceño.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/operacion-conjunta-golpea-capacidad-armada-y-explosiva-de-estructura-residual-en-meta",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-19"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Captura y hallazgo de 220 kg de pentolita del mismo operativo (venían como registros separados).",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 67,
+    "slug": "2026-07-18-captura-emc-op",
+    "operacion_id": "2026-07-18-captura-emc-op",
+    "fecha": "2026-07-18",
+    "org": "EMC",
+    "grupo_detalle": "estructura Carolina Ramírez",
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "El Ejército capturó a una cabecilla de la estructura Carolina Ramírez de las disidencias Farc durante un operativo conjunto.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.noticiasrcn.com/colombia/ejercito-capturo-a-cabecilla-de-la-estructura-carolina-ramirez-de-las-disidencias-farc-468663",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-18"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 66,
+    "slug": "2026-07-18-baja-otro_gao-antioquia",
+    "operacion_id": "2026-07-18-baja-otro_gao-antioquia",
+    "fecha": "2026-07-18",
+    "org": "OTRO_GAO",
+    "grupo_detalle": "Carne Rancia",
+    "departamento": "Antioquia",
+    "municipio": "Salgar",
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 1,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Caníbal"
+    ],
+    "descripcion": "Durante un procedimiento policial en Salgar, un presunto integrante de la estructura 'Carne Rancia' conocido como alias 'Caníbal' fue abatido.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.elcolombiano.com/antioquia/golpes-a-ilegales-en-tres-municipios-de-antioquia-PK38989503",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-18"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 65,
+    "slug": "2026-07-18-captura-eln-antioquia",
+    "operacion_id": "2026-07-18-captura-eln-antioquia",
+    "fecha": "2026-07-18",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": "Antioquia",
+    "municipio": "Segovia",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [
+      "Flaco Galán",
+      "Rafa"
+    ],
+    "descripcion": "Alias 'Rafa' y 'Flaco Galán' fueron capturados en Segovia, ambos vinculados a estructuras del ELN y acusados de varios delitos.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.elcolombiano.com/antioquia/golpes-a-ilegales-en-tres-municipios-de-antioquia-PK38989503",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-18"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 64,
+    "slug": "2026-07-18-captura-segunda_marquetalia-meta",
+    "operacion_id": "2026-07-18-captura-segunda_marquetalia-meta",
+    "fecha": "2026-07-18",
+    "org": "SEGUNDA_MARQUETALIA",
+    "grupo_detalle": "Estructura Jhon Linares",
+    "departamento": "Meta",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {
+      "explosivos_kg": 220
+    },
+    "aliases": [
+      "Jimmi"
+    ],
+    "descripcion": "En una operación conjunta en Meta, se logró la captura de alias Jimmi, integrante de las disidencias de las Farc.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.infobae.com/colombia/2026/07/18/autoridades-destruyeron-220-kilos-de-explosivos-hallados-en-una-caleta-clandestina-de-las-disidencias-de-las-farc-en-el-meta/",
+        "tipo": "medio_nacional",
+        "medio": "Infobae Colombia",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-18"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Captura de alias Jimmi y 220 kg de explosivos del mismo operativo. Los 220 kg podrían solaparse con el hallazgo de Puerto Rico; pendiente de corroborar.",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 22,
+    "slug": "2026-07-18-captura-emc-antioquia",
+    "operacion_id": "2026-07-18-captura-emc-antioquia",
+    "fecha": "2026-07-18",
+    "org": "EMC",
+    "grupo_detalle": "Frente 4°",
+    "departamento": "Antioquia",
+    "municipio": "Segovia",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 6,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 6,
+    "materiales": {
+      "armas": 5,
+      "cocaina_kg": 0.3,
+      "municiones": 500,
+      "explosivos_kg": 5
+    },
+    "aliases": [
+      "Jhon Fiera",
+      "Rafael",
+      "Yésica"
+    ],
+    "descripcion": "Seis adultos y dos adolescentes fueron capturados en operativos contra el Frente 4° de las Disidencias de las Farc en Segovia, donde también se incautaron armas y explosivos.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.bluradio.com/regiones/antioquia/capturan-seis-presuntos-integrantes-de-las-disidencias-de-calarca-en-segovia-antioquia-rg10",
+        "tipo": "medio_nacional",
+        "medio": "Blu Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-19"
+      },
+      {
+        "url": "https://www.elcolombiano.com/antioquia/golpes-a-ilegales-en-tres-municipios-de-antioquia-PK38989503",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-18"
+      },
+      {
+        "url": "https://www.ejercito.mil.co/ejercito-y-policia-debilitan-capacidad-criminal-del-gao-residual-de-las-farc-en-el-nordeste-antioqueno",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      },
+      {
+        "url": "https://judicialesydenunciasmedio.com.co/judiciales/capturan-a-seis-integrantes-de-la-estructura-4-de-las-disidencias-de-las-farc/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-19"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 21,
+    "slug": "2026-07-18-baja-clan_del_golfo-antioquia",
+    "operacion_id": "2026-07-18-baja-clan_del_golfo-antioquia",
+    "fecha": "2026-07-18",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Antioquia",
+    "municipio": "Jericó",
+    "lugar": "vereda Palenque",
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 2,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {
+      "armas": 1,
+      "municiones": 1
+    },
+    "aliases": [],
+    "descripcion": "Los combates entre el Ejército y presuntos integrantes del Clan del Golfo dejaron dos presuntos ilegales muertos y el hallazgo de una caleta con armas y material de guerra.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/combates-en-jerico-antioquia-dejan-dos-presuntos-integrantes-del-cartel-del-clan-del-golfo-neutralizados",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-15"
+      },
+      {
+        "url": "https://www.bluradio.com/regiones/antioquia/incautan-arsenal-del-clan-del-golfo-tras-combates-en-jerico-antioquia-rg10",
+        "tipo": "medio_nacional",
+        "medio": "Blu Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-18"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Combate en Jericó (2 bajas) y hallazgo de caleta de armas consolidados en una operación.",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 5,
+    "slug": "2026-07-18-captura-clan_del_golfo-antioquia",
+    "operacion_id": "2026-07-18-captura-clan_del_golfo-antioquia",
+    "fecha": "2026-07-18",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Antioquia",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Carlos Way",
+      "Dallana"
+    ],
+    "descripcion": "Las autoridades capturaron a Yorman Enrique Salgado, conocido como alias Carlos Way, presunto máximo cabecilla del Clan del Golfo.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/18/cae-alias-carlos-way-lider-criminal-responsable-de-violencia-en-el-paro-minero-del-bajo-cauca/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-18"
+      },
+      {
+        "url": "https://www.bluradio.com/regiones/antioquia/cayo-carlos-way-cabecilla-del-clan-del-golfo-al-mando-de-160-hombres-en-el-bajo-cauca-antioqueno-rg10",
+        "tipo": "medio_nacional",
+        "medio": "Blu Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-18"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2026/07/18/cayo-alias-carlos-way-presunto-maximo-cabecilla-del-clan-del-golfo-en-el-bajo-cauca/",
+        "tipo": "medio_nacional",
+        "medio": "Infobae Colombia",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-18"
+      },
+      {
+        "url": "https://paisa.alerta.com.co/judiciales/antioquia-capturado-carlos-way-terror-del-bajo-cauca-246629",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      },
+      {
+        "url": "https://www.minuto60.com/judicial/fin-carlos-way-hombre-que-puso-jaque-bajo-cauca/12143",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      },
+      {
+        "url": "https://www.bluradio.com/regiones/antioquia/capturan-a-integrante-del-clan-del-golfo-que-presto-cuentas-bancarias-para-extorsiones-en-antioquia-rg10",
+        "tipo": "medio_nacional",
+        "medio": "Blu Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-21"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 63,
+    "slug": "2026-07-17-captura-clan_del_golfo-sucre",
+    "operacion_id": "2026-07-17-captura-clan_del_golfo-sucre",
+    "fecha": "2026-07-17",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Sucre",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [
+      "extorsionista",
+      "financista"
+    ],
+    "descripcion": "Capturan a dos presuntos integrantes del Ejército Gaitanista de Colombia en Sucre, señalados de participar en una red de extorsiones.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.laregional.net/capturan-en-sucre-a-presunto-financista-del-clan-del-golfo-y-a-supuesto-extorsionista/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 62,
+    "slug": "2026-07-17-captura-eln-norte-de-santander",
+    "operacion_id": "2026-07-17-captura-eln-norte-de-santander",
+    "fecha": "2026-07-17",
+    "org": "ELN",
+    "grupo_detalle": null,
+    "departamento": "Norte de Santander",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {
+      "explosivos_kg": 1
+    },
+    "aliases": [],
+    "descripcion": "Capturan a un presunto integrante del ELN que transportaba explosivos para perpetrar atentados.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.agenciapi.co/noticia/regiones/capturan-presunto-integrante-del-eln-con-material-explosivo-en-norte-de-santander",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 61,
+    "slug": "2026-07-17-operacion-desconocido-antioquia",
+    "operacion_id": "2026-07-17-operacion-desconocido-antioquia",
+    "fecha": "2026-07-17",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": "Antioquia",
+    "municipio": "Briceño",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "laboratorios": 1,
+      "hectareas_coca": 280.0
+    },
+    "aliases": [],
+    "descripcion": "El Ejército Nacional desmanteló un laboratorio clandestino para el procesamiento de pasta base de coca y neutralizó más de 280 galones de coca en Briceño, Antioquia.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/17/ejercito-desmantela-laboratorio-clandestino-y-neutraliza-mas-de-280-galones-de-coca-en-briceno/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 20,
+    "slug": "2026-07-17-captura-otro_gao-antioquia",
+    "operacion_id": "2026-07-17-captura-otro_gao-antioquia",
+    "fecha": "2026-07-17",
+    "org": "OTRO_GAO",
+    "grupo_detalle": "Estructura 36",
+    "departamento": "Antioquia",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "El Ejército Nacional capturó a dos personas señaladas de pertenecer al Grupo Armado Organizado Estructura 36 en Antioquia.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.minuto30.com/tras-intenso-combate-ejercito-capturo-a-dos-presuntos-miembros-de-la-estructura-36-en-antioquia/1713365/",
+        "tipo": "medio_regional",
+        "medio": "Minuto30",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      },
+      {
+        "url": "https://co.headtopics.com/news/ejercito-captura-a-dos-presuntos-integrantes-de-la-85690633",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 19,
+    "slug": "2026-07-17-captura-otro_gao-cesar",
+    "operacion_id": "2026-07-17-captura-otro_gao-cesar",
+    "fecha": "2026-07-17",
+    "org": "OTRO_GAO",
+    "grupo_detalle": "ACSN",
+    "departamento": "Cesar",
+    "municipio": "El Copey",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Un operativo de la Fuerza Pública resultó en la captura de un presunto integrante de las Autodefensas Conquistadoras de la Sierra Nevada (ACSN) y la incautación de material de guerra.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.diariodelcesar.com/archivos/343511/incautan-material-de-guerra-y-capturan-a-uno-de-las-acsn/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      },
+      {
+        "url": "https://www.laregional.net/contundente-golpe-a-las-autodefensas-conquistadoras-de-la-sierra-nevada-en-el-cesar/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 18,
+    "slug": "2026-07-17-captura-clan_del_golfo-tolima",
+    "operacion_id": "2026-07-17-captura-clan_del_golfo-tolima",
+    "fecha": "2026-07-17",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Tolima",
+    "municipio": "Anzoátegui",
+    "lugar": "vereda La Esmeralda",
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "La Policía Nacional, a través del Gaula, capturó a dos integrantes del Clan del Golfo en un operativo en el Tolima.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/17/confirman-presencia-del-clan-del-golfo-en-el-tolima-tras-la-captura-de-dos-integrantes/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      },
+      {
+        "url": "https://www.pulzo.com/nacion/clan-del-golfo-en-tolima-capturan-a-dos-lideres-del-frente-tolima-en-anzoategui-colombia-PP5248488A",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 60,
+    "slug": "2026-07-16-operacion-desconocido-op",
+    "operacion_id": "2026-07-16-operacion-desconocido-op",
+    "fecha": "2026-07-16",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "ARMADA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 3000
+    },
+    "aliases": [],
+    "descripcion": "La Armada incautó más de tres toneladas de cocaína en el Mar Caribe, frente a Cartagena.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://co.headtopics.com/news/la-armada-incaut-m-s-de-tres-toneladas-de-coca-na-en-el-85652515",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 59,
+    "slug": "2026-07-16-captura-clan_del_golfo-bolivar",
+    "operacion_id": "2026-07-16-captura-clan_del_golfo-bolivar",
+    "fecha": "2026-07-16",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Bolívar",
+    "municipio": "Cartagena",
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Dylan"
+    ],
+    "descripcion": "La Policía capturó a alias Dylan, uno de los cabecillas financieros del Clan del Golfo en Cartagena.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.elheraldo.co/colombia/2026/07/16/capturan-en-cartagena-a-alias-dylan-uno-de-los-cabecillas-financieros-del-can-del-golfo/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://titularexpress.com/lo-senalan-de-cobrar-extorsiones-a-comerciantes-y-ganaderos-de-bolivar/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-17"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 58,
+    "slug": "2026-07-16-captura-emc-huila",
+    "operacion_id": "2026-07-16-captura-emc-huila",
+    "fecha": "2026-07-16",
+    "org": "EMC",
+    "grupo_detalle": "Subestructura Iván Díaz",
+    "departamento": "Huila",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [
+      "Rodolfo N",
+      "Yeris Felipe Manrique Cometa"
+    ],
+    "descripcion": "Dos presuntos integrantes de la Red de Apoyo a Estructuras Residuales de la Subestructura Iván Díaz fueron capturados en el Huila.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://neivaestereo.co/capturan-a-dos-presuntos-integrantes-de-las-disidencias-en-huila/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 46,
+    "slug": "2026-07-16-captura-emc-narino",
+    "operacion_id": "2026-07-16-captura-emc-narino",
+    "fecha": "2026-07-16",
+    "org": "EMC",
+    "grupo_detalle": null,
+    "departamento": "Nariño",
+    "municipio": "Barbacoas",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {
+      "armas": 2
+    },
+    "aliases": [],
+    "descripcion": "El Ejército Nacional capturó a 2 disidentes de las Farc que expendían droga en el Pacífico sur de Nariño.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.diariodelsur.com.co/ejercito-nacional-capturo-en-barbacoas-2-disidentes-de-las-farc-que-expendian-droga-en-el-pacifico-sur-de-narino/",
+        "tipo": "medio_regional",
+        "medio": "Diario del Sur",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://colombianews.info/colombia/pacifico/narino/ejercito-nacional-capturo-en-barbacoas-a-2-disidentes-de-las-farc-que-expendian-droga-en-el-pacifico-sur-de-narino",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://diariodelcauca.com.co/ejercito-nacional-capturo-en-barbacoas-2-disidentes-de-las-farc-que-expendian-droga-en-el-pacifico-sur-de-narino/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://www.hsbnoticias.com/ejercito-nacional-capturo-en-barbacoas-2-disidentes-de-las-farc-que-expendian-droga-en-el-pacifico-sur-de-narino/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Captura de 2 disidentes e incautación de armas del mismo operativo.",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 17,
+    "slug": "2026-07-16-captura-otro_gao-huila",
+    "operacion_id": "2026-07-16-captura-otro_gao-huila",
+    "fecha": "2026-07-16",
+    "org": "OTRO_GAO",
+    "grupo_detalle": "Subestructura Iván Díaz",
+    "departamento": "Huila",
+    "municipio": "El Hobo",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [
+      "Yeris"
+    ],
+    "descripcion": "El Ejército Nacional capturó a dos presuntos integrantes de la Subestructura Iván Díaz, vinculados a un doble homicidio y a la instalación de artefactos explosivos.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.ejercito.mil.co/ejercito-nacional-captura-a-dos-presuntos-integrantes-de-la-subestructura-ivan-diaz-del-bloque-jorge-suarez-briceno-en-el-huila",
+        "tipo": "oficial",
+        "medio": "Ejército Nacional",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://noticiasenlinea.com.co/ejercito-capturo-a-dos-presuntos-integrantes-de-la-subestructura-ivan-diaz-del-bloque-jorge-suarez-briceno-en-el-huila/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 1,
+    "slug": "2026-07-16-captura-emc-cauca",
+    "operacion_id": "2026-07-16-captura-emc-cauca",
+    "fecha": "2026-07-16",
+    "org": "EMC",
+    "grupo_detalle": "Frente Dagoberto Ramos",
+    "departamento": "Cauca",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {
+      "cocaina_kg": 7.8
+    },
+    "aliases": [
+      "Alexis",
+      "Iván",
+      "Iván Sombra",
+      "Sombra"
+    ],
+    "descripcion": "El Gaula Militar Cauca, en coordinación con la DIJIN de la Policía, capturó a alias Sombra, cabecilla de la Dagoberto Ramos.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.infobae.com/colombia/2026/07/15/cayo-alias-ivan-sombra-jefe-de-finanzas-de-la-estructura-dagoberto-ramos-en-el-norte-del-cauca/",
+        "tipo": "medio_nacional",
+        "medio": "Infobae Colombia",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-15"
+      },
+      {
+        "url": "https://www.lafm.com.co/orden-publico/cabecillas-disidencias-cauca-dagoberto-ramos-405061",
+        "tipo": "medio_nacional",
+        "medio": "La FM",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-15"
+      },
+      {
+        "url": "https://www.diariodelsur.com.co/cayo-en-cauca-alias-ivan-cabecilla-de-finanzas-de-la-dagoberto-ramos/",
+        "tipo": "medio_regional",
+        "medio": "Diario del Sur",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://diariodelcauca.com.co/cayo-en-cauca-alias-ivan-cabecilla-de-finanzas-de-la-dagoberto-ramos/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://elperiodicodeportivo.com.co/cayo-alias-sombra-golpe-del-gaula-militar-a-las-estructuras-financieras-de-las-disidencias-en-cauca/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://extra.com.co/cayo-en-cauca-alias-ivan-cabecilla-de-finanzas-de-la-dagoberto-ramos/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://www.hsbnoticias.com/cayo-alias-sombra-golpe-del-gaula-militar-a-las-estructuras-financieras-de-las-disidencias-en-cauca/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://www.hsbradio.com.co/cayo-alias-sombra-golpe-del-gaula-militar-a-las-estructuras-financieras-de-las-disidencias-en-cauca/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://desopinion.com/captura-alias-sombra-golpe-financiero-disidencias/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-19"
+      },
+      {
+        "url": "https://vibrapopayan.com/2026/07/18/cayo-alias-sombra-segundo-cabecilla-financiero-de-la-estructura-dagoberto-ramos-en-el-cauca/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-19"
+      },
+      {
+        "url": "https://co.headtopics.com/news/este-es-el-perfil-criminal-de-alias-sombra-cabecilla-85652613",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      },
+      {
+        "url": "https://laopinion.co/colombia/cae-cabecilla-de-las-disidencias-que-sembraba-el-terror-en-cauca",
+        "tipo": "medio_regional",
+        "medio": "La Opinión (Cúcuta)",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      },
+      {
+        "url": "https://www.pulzo.com/nacion/presunto-jefe-de-disidencias-farc-alias-ivan-capturado-e-imputado-en-cauca-colombia-PP5254969A",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      },
+      {
+        "url": "https://diariolalibertad.com/2026/07/24/capturan-y-envian-a-prision-a-alias-sombra-presunto-cabecilla-de-las-disidencias-de-las-farc-en-cauca/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-24"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Cuatro reportes del mismo operativo (captura del jefe de finanzas del Frente Dagoberto Ramos) consolidados en una sola operación.",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 57,
+    "slug": "2026-07-14-captura-clan_del_golfo-magdalena-2",
+    "operacion_id": "2026-07-14-captura-clan_del_golfo-magdalena-2",
+    "fecha": "2026-07-14",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Magdalena",
+    "municipio": "Pedraza",
+    "lugar": "corregimiento de Heredia",
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Terry"
+    ],
+    "descripcion": "Las autoridades capturaron a alias 'Terry', señalado de ser uno de los principales cabecillas del Clan del Golfo en el Magdalena.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://santamartaaldia.co/capturan-a-alias-terry-presunto-cabecilla-del-clan-del-golfo-en-el-magdalena/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-14"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 56,
+    "slug": "2026-07-14-captura-segunda_marquetalia-tolima",
+    "operacion_id": "2026-07-14-captura-segunda_marquetalia-tolima",
+    "fecha": "2026-07-14",
+    "org": "SEGUNDA_MARQUETALIA",
+    "grupo_detalle": null,
+    "departamento": "Tolima",
+    "municipio": "Ibagué",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 7,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 7,
+    "materiales": {
+      "dinero_cop": 1653
+    },
+    "aliases": [],
+    "descripcion": "El Ejército capturó a siete personas involucradas en la minería ilegal que fortalecía la economía de las disidencias de las Farc en el sur del Tolima.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/14/duro-golpe-a-la-mineria-ilegal-y-a-la-economia-de-las-disidencias-de-las-farc-en-el-sur-del-tolima/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-14"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 16,
+    "slug": "2026-07-14-captura-clan_del_golfo-magdalena",
+    "operacion_id": "2026-07-14-captura-clan_del_golfo-magdalena",
+    "fecha": "2026-07-14",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Magdalena",
+    "municipio": "Santa Marta",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Ejército y Policía Nacional capturan a dos presuntos integrantes del Clan del Golfo en el Magdalena.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/14/ejercito-y-policia-nacional-capturan-a-dos-presuntos-integrantes-del-clan-del-golfo-en-el-magdalena/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-14"
+      },
+      {
+        "url": "https://revista7.co/ejercito-y-policia-capturan-a-dos-presuntos-miembros-del-clan-del-golfo-en-magdalena/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-14"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 15,
+    "slug": "2026-07-14-captura-otro_gao-choco",
+    "operacion_id": "2026-07-14-captura-otro_gao-choco",
+    "fecha": "2026-07-14",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": "Chocó",
+    "municipio": "Bahía Solano",
+    "lugar": null,
+    "fuerza": [
+      "ARMADA"
+    ],
+    "bajas": 0,
+    "capturas": 3,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 3,
+    "materiales": {
+      "cocaina_kg": 212.8,
+      "dinero_cop": 9400000
+    },
+    "aliases": [],
+    "descripcion": "La Armada de Colombia incautó 212 kilogramos de clorhidrato de cocaína en una operación de interdicción marítima, evitando el ingreso de 9,4 millones de dólares al crimen transnacional.",
+    "estado_verificacion": "confirmado",
+    "reportado_oficialmente": true,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.cgfm.mil.co/es/multimedia/noticias/en-el-pacifico-norte-armada-de-colombia-evito-el-ingreso-de-94-millones-de",
+        "tipo": "oficial",
+        "medio": "Comando General FF.MM.",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-14"
+      },
+      {
+        "url": "https://co.headtopics.com/news/armada-incauta-212-kilos-de-coca-na-en-el-pac-fico-y-85538946",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-13"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Interdicción marítima en el Pacífico: 212 kg de cocaína y 3 tripulantes capturados (aparecían como incautación y captura por separado).",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 55,
+    "slug": "2026-07-13-operacion-desconocido-narino",
+    "operacion_id": "2026-07-13-operacion-desconocido-narino",
+    "fecha": "2026-07-13",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": "Nariño",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "laboratorios": 1
+    },
+    "aliases": [],
+    "descripcion": "El Ejército Nacional destruyó cuatro laboratorios utilizados para el procesamiento de pasta base de coca en la costa Pacífica nariñense.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://diariodelcauca.com.co/ejercito-nacional-arraso-con-4-laboratorios-de-coca-en-la-costa-pacifica-narinense/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-13"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 54,
+    "slug": "2026-07-13-captura-embf-op",
+    "operacion_id": "2026-07-13-captura-embf-op",
+    "fecha": "2026-07-13",
+    "org": "EMBF",
+    "grupo_detalle": "Bloque Magdalena Medio",
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Aldemar Ríos"
+    ],
+    "descripcion": "Las autoridades capturaron a Aldemar Ríos, quien se había desvinculado del proceso de paz y es señalado de varios delitos graves.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.noticiasrcn.com/colombia/autoridades-capturan-a-aldemar-rios-articulador-de-las-disidencias-de-las-farc-en-el-magdalena-1040040",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-13"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 53,
+    "slug": "2026-07-13-captura-clan_del_golfo-norte-de-santander",
+    "operacion_id": "2026-07-13-captura-clan_del_golfo-norte-de-santander",
+    "fecha": "2026-07-13",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Norte de Santander",
+    "municipio": "Cúcuta",
+    "lugar": null,
+    "fuerza": [],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Jhon Mechas"
+    ],
+    "descripcion": "Capturaron a un cabecilla del Clan del Golfo, subordinado directo de alias Jhon Mechas, quien tenía azotado el Magdalena Medio, el Catatumbo y el sur de Bolívar.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.semana.com/nacion/cucuta/articulo/capturaron-peligroso-cabecilla-subordinado-directo-de-alias-jhon-mechas-tenia-azotado-el-magdalena-medio-el-catatumbo-y-el-sur-de-bolivar/202604/",
+        "tipo": "medio_nacional",
+        "medio": "Semana",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-13"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 49,
+    "slug": "2026-07-13-captura-emc-valle-del-cauca",
+    "operacion_id": "2026-07-13-captura-emc-valle-del-cauca",
+    "fecha": "2026-07-13",
+    "org": "EMC",
+    "grupo_detalle": "Frente 57",
+    "departamento": "Valle del Cauca",
+    "municipio": "Florida",
+    "lugar": "urbanización Molinos del Viento",
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [
+      "Diamante",
+      "El Indio",
+      "J"
+    ],
+    "descripcion": "En un procedimiento conjunto, fue capturado alias ‘El Indio’, presunto cabecilla disidente, y alias ‘J’, otro integrante del Frente 57.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/13/cayo-alias-el-indio-presunto-cabecilla-disidente-senalado-por-homicidios-de-comuneros-indigenas/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-13"
+      },
+      {
+        "url": "https://www.nacionpaisa.com/ejercito-golpea-al-clan-del-golfo-y-a-disidencias-en-antioquia-valle-del-cauca-y-sur-de-bolivar/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-13"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Captura de alias 'El Indio' y 'J' (Frente 57). La mención de 'Diamante' en uno de los reportes era errónea: 'Diamante' fue dado de baja en Bolívar, no capturado en el Valle.",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 48,
+    "slug": "2026-07-13-sometimiento-emc-huila",
+    "operacion_id": "2026-07-13-sometimiento-emc-huila",
+    "fecha": "2026-07-13",
+    "org": "EMC",
+    "grupo_detalle": "Frente Ismael Ruiz",
+    "departamento": "Huila",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 3,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 3,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Tres presuntos integrantes del frente Ismael Ruiz de las disidencias de las Farc se entregaron voluntariamente al Ejército Nacional en límites entre Tolima y Huila.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/10/tres-integrantes-de-las-disidencias-de-mordisco-se-sometieron-al-ejercito-en-el-sur-del-tolima/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-10"
+      },
+      {
+        "url": "https://diariodelhuila.com/tres-presuntos-disidentes-de-las-farc-se-entregaron-al-ejercito-en-limites-entre-tolima-y-huila/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-13"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Sometimiento de 3 integrantes del frente Ismael Ruiz reportado en dos departamentos (Huila/Tolima); probable mismo hecho, consolidado.",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 7,
+    "slug": "2026-07-12-baja-clan_del_golfo-bolivar",
+    "operacion_id": "2026-07-12-baja-clan_del_golfo-bolivar",
+    "fecha": "2026-07-12",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Bolívar",
+    "municipio": "Montecristo",
+    "lugar": "vereda Los Tomates",
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 1,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Diamante"
+    ],
+    "descripcion": "Alias Diamante, cabecilla del Clan del Golfo, murió tras una operación militar adelantada por el Ejército Nacional.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.infobae.com/colombia/2026/07/13/alias-diamante-cabecilla-del-clan-del-golfo-murio-en-operacion-del-ejercito-en-el-sur-de-bolivar/",
+        "tipo": "medio_nacional",
+        "medio": "Infobae Colombia",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-13"
+      },
+      {
+        "url": "https://www.lafm.com.co/orden-publico/cae-alias-diamante-cabecilla-clan-del-golfo-operacion-justiciero-antioquia-404811",
+        "tipo": "medio_nacional",
+        "medio": "La FM",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-13"
+      },
+      {
+        "url": "https://cambiocolombia.com/conflicto-armado-en-colombia/articulo/2026/7/ejercito-abatio-a-tres-presuntos-integrantes-del-clan-del-golfo-en-operaciones-en-antioquia-y-bolivar",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-13"
+      },
+      {
+        "url": "https://co.headtopics.com/news/abatido-alias-diamante-presunto-jefe-del-clan-del-golfo-85621713",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-16"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Muerte de alias 'Diamante' reportada cuatro veces con cifras contradictorias (1 a 3). El registro de '3 neutralizados' era el consolidado de Diamante más las 2 bajas de Jericó. Se cuenta 1 baja.",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 52,
+    "slug": "2026-07-11-operacion-segunda_marquetalia-op",
+    "operacion_id": "2026-07-11-operacion-segunda_marquetalia-op",
+    "fecha": "2026-07-11",
+    "org": "SEGUNDA_MARQUETALIA",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "laboratorios": 1
+    },
+    "aliases": [],
+    "descripcion": "Se destruyó un laboratorio de coca, afectando las finanzas de la Segunda Marquetalia.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.semana.com/nacion/articulo/golpean-las-finanzas-de-la-segunda-marquetalia-destruyen-laboratorio-de-coca-y-capturan-a-alias-chichi-en-la-orinoquia/202626/",
+        "tipo": "medio_nacional",
+        "medio": "Semana",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-11"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 51,
+    "slug": "2026-07-11-captura-segunda_marquetalia-op",
+    "operacion_id": "2026-07-11-captura-segunda_marquetalia-op",
+    "fecha": "2026-07-11",
+    "org": "SEGUNDA_MARQUETALIA",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Chichi"
+    ],
+    "descripcion": "Alias Chichi fue capturado en una operación conjunta de las Fuerzas Militares y la Policía Nacional en la Orinoquía.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.semana.com/nacion/articulo/golpean-las-finanzas-de-la-segunda-marquetalia-destruyen-laboratorio-de-coca-y-capturan-a-alias-chichi-en-la-orinoquia/202626/",
+        "tipo": "medio_nacional",
+        "medio": "Semana",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-11"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 9,
+    "slug": "2026-07-09-captura-emc-huila",
+    "operacion_id": "2026-07-09-captura-emc-huila",
+    "fecha": "2026-07-09",
+    "org": "EMC",
+    "grupo_detalle": null,
+    "departamento": "Huila",
+    "municipio": "La Plata",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 7,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 7,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Una operación ofensiva del Ejército Nacional en zona rural del municipio de La Plata, Huila, dejó como resultado la captura de siete presuntos integrantes de las disidencias de las Farc.",
+    "estado_verificacion": "corroborado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.semana.com/nacion/medellin/articulo/un-militar-gravemente-herido-y-siete-disidentes-de-las-farc-capturados-tras-fuertes-combates-en-la-plata-huila/202634/",
+        "tipo": "medio_nacional",
+        "medio": "Semana",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-09"
+      },
+      {
+        "url": "https://diariodelhuila.com/capturan-a-siete-disidentes-de-las-farc-tras-combates-en-la-plata-huila-un-militar-resulto-gravemente-herido/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-09"
+      },
+      {
+        "url": "https://elexpreso.co/hoy/siete-disidentes-de-las-farc-capturados-tras-fuertes-combates-en-la-plata-huila/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-09"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 50,
+    "slug": "2026-07-08-captura-emc-cauca",
+    "operacion_id": "2026-07-08-captura-emc-cauca",
+    "fecha": "2026-07-08",
+    "org": "EMC",
+    "grupo_detalle": null,
+    "departamento": "Cauca",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "La Fuerza Pública capturó a dos presuntos cabecillas de las disidencias en el norte del Cauca.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.eltiempo.com/colombia/cali/golpe-al-crimen-organizado-en-el-norte-del-cauca-capturan-a-dos-presuntos-cabecillas-de-las-disidencias-y-les-incautan-armas-municion-y-cocaina-3569843",
+        "tipo": "medio_nacional",
+        "medio": "El Tiempo",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-08"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Captura de 2 cabecillas e incautación asociada (sin cantidades precisas) consolidadas.",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  },
+  {
+    "id": 47,
+    "slug": "2026-07-07-sometimiento-clan_del_golfo-choco",
+    "operacion_id": "2026-07-07-sometimiento-clan_del_golfo-choco",
+    "fecha": "2026-07-07",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": "Subestructura Baudó",
+    "departamento": "Chocó",
+    "municipio": "Alto Baudó",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 8,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 8,
+    "materiales": {
+      "armas": 8,
+      "municiones": 1492
+    },
+    "aliases": [],
+    "descripcion": "Ocho integrantes de la Subestructura Baudó del Clan del Golfo se sometieron a la justicia en el departamento de Chocó.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://caracol.com.co/2026/07/08/ejercito-logra-sometimiento-de-ocho-integrantes-del-clan-del-golfo-en-el-departamento-de-choco/",
+        "tipo": "medio_nacional",
+        "medio": "Caracol Radio",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-08"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2026/07/09/ocho-integrantes-del-clan-del-golfo-se-entregaron-al-ejercito-en-choco-importante-resultado-de-inteligencia-militar/",
+        "tipo": "medio_nacional",
+        "medio": "Infobae Colombia",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-07-09"
+      }
+    ],
+    "notas_revision": [
+      {
+        "nota": "Sometimiento de 8 integrantes reportado dos veces (fechas distintas) más el material entregado.",
+        "fecha": "2026-07-30"
+      }
+    ],
+    "actualizado": "2026-07-30 00:02:55.183886+00"
+  }
+]

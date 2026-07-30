@@ -1,0 +1,1619 @@
+[
+  {
+    "id": 13,
+    "alias": "Chiquito Malo",
+    "otros_alias": null,
+    "nombre_real": "Jobanis de Jesús Ávila Villadiego",
+    "grupo": "CLAN_DEL_GOLFO",
+    "estructura": "Jefe máximo de las AGC / Ejército Gaitanista, tras la extradición de 'Otoniel' (2022)",
+    "rol": "comandante máximo",
+    "crimenes": [
+      "narcotráfico",
+      "homicidio",
+      "concierto para delinquir agravado",
+      "extorsión",
+      "desplazamiento forzado"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; órdenes de captura suspendidas en diálogo y reactivadas en mar-2026",
+    "prioridad": 1,
+    "recompensa_cop": 5000,
+    "ubicacion_posible": "Nudo de Paramillo, Urabá, Antioquia, Córdoba y Chocó",
+    "departamentos": [
+      "Antioquia",
+      "Cordoba",
+      "Choco",
+      "Bolivar",
+      "Sucre",
+      "Norte de Santander",
+      "Magdalena",
+      "Cesar",
+      "La Guajira"
+    ],
+    "fuentes": [
+      "https://www.elpais.com.co/colombia/los-mas-buscados-alias-chiquito-malo-1342.html",
+      "https://www.semana.com/politica/articulo/frenar-capturas-clan-del-golfo-chiquito-malo/202629/",
+      "https://insightcrime.org/colombia-organized-crime-news/jobanis-de-jesus-avila-villadiego-chiquito-malo/",
+      "https://www.infobae.com/america/agencias/2026/07/06/petro-firma-orden-de-extradicion-de-alias-chiquito-malo-el-maximo-jefe-del-clan-del-golfo/",
+      "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-revoca-suspension-de-ordenes-de-captura-contra-alias-chiquito-malo-maximo-cabecilla-del-clan-del-golfo-y-otros-miembros-3540063",
+      "https://www.semana.com/nacion/articulo/atencion-elevan-a-5000-millones-la-recompensa-por-sucesores-de-alias-otoniel/202224/"
+    ]
+  },
+  {
+    "id": 15,
+    "alias": "Gonzalito",
+    "otros_alias": null,
+    "nombre_real": "José Gonzalo Sánchez Sánchez",
+    "grupo": "CLAN_DEL_GOLFO",
+    "estructura": "Segundo al mando histórico de las AGC",
+    "rol": "segundo comandante",
+    "crimenes": [
+      "narcotráfico",
+      "homicidio",
+      "concierto para delinquir"
+    ],
+    "estado": "fallecido",
+    "estado_fecha": "2026-01-30",
+    "estado_detalle": "murió ahogado el 30 de enero de 2026 al volcarse su lancha en el río Esmeralda, Tierralta (Córdoba); Medicina Legal confirmó ahogamiento y descartó violencia",
+    "prioridad": 1,
+    "recompensa_cop": 3200,
+    "ubicacion_posible": "Córdoba",
+    "departamentos": [
+      "Cordoba",
+      "Antioquia"
+    ],
+    "fuentes": [
+      "https://www.elcolombiano.com/colombia/nueva-cupula-clan-del-golfo-2026-NG33530508",
+      "https://www.elespectador.com/judicial/quien-era-alias-gonzalito-el-segundo-al-mando-del-clan-del-golfo-que-murio-en-cordoba/",
+      "https://www.infobae.com/colombia/2026/02/05/medicina-legal-revelo-la-verdadera-causa-de-la-muerte-de-alias-gonzalito-segundo-cabecilla-del-clan-del-golfo/",
+      "https://cnnespanol.cnn.com/2026/02/02/colombia/clan-del-golfo-numero-dos-muere-ahogado-colombia-efe",
+      "https://www.elespectador.com/colombia-20/paz-y-memoria/gonzalito-jefe-del-clan-del-golfo-murio-ahogado-tras-volcar-lancha-mientras-de-desplazaba-a-zona-de-ubicacio/"
+    ]
+  },
+  {
+    "id": 14,
+    "alias": "Rodrigo Flechas",
+    "otros_alias": null,
+    "nombre_real": "Orosman Orlando Ostén Blanco",
+    "grupo": "CLAN_DEL_GOLFO",
+    "estructura": "Segundo al mando de las AGC (ascendido tras la muerte de 'Gonzalito'); ex AUC (Bloque Centauros)",
+    "rol": "segundo comandante",
+    "crimenes": [
+      "narcotráfico",
+      "homicidio",
+      "concierto para delinquir"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; orden de captura suspendida como vocero de paz",
+    "prioridad": 1,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Costa Caribe / Urabá",
+    "departamentos": [
+      "Antioquia",
+      "Cordoba"
+    ],
+    "fuentes": [
+      "https://www.elcolombiano.com/colombia/nueva-cupula-clan-del-golfo-2026-NG33530508",
+      "https://www.infobae.com/colombia/2026/02/12/quien-es-rodrigo-flechas-la-nueva-mano-derecha-de-chiquito-malo-en-el-clan-del-golfo-tras-la-muerte-de-gonzalito/",
+      "https://www.infobae.com/colombia/2026/02/13/clan-del-golfo-incluyo-a-dos-peligrosos-cabecillas-en-su-cupula-tras-la-muerte-de-alias-gonzalito-este-es-su-prontuario-criminal/",
+      "https://www.elcolombiano.com/colombia/nueva-cupula-clan-del-golfo-2026-reorganizacion-cabecillas-NG33530508",
+      "https://www.semana.com/nacion/medellin/articulo/quienes-son-los-nuevos-integrantes-de-la-cupula-del-clan-del-golfo-que-aparecen-en-el-mas-reciente-video/202652/"
+    ]
+  },
+  {
+    "id": 1,
+    "alias": "Antonio García",
+    "otros_alias": null,
+    "nombre_real": "Eliécer Erlington Chamorro Acosta",
+    "grupo": "ELN",
+    "estructura": "Comandante en jefe / primer comandante del COCE",
+    "rol": "comandante máximo",
+    "crimenes": [
+      "homicidio",
+      "rebelión",
+      "terrorismo",
+      "secuestro",
+      "reclutamiento de menores"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; condenado en ausencia por el secuestro de periodistas en el Catatumbo; ~157 órdenes de captura",
+    "prioridad": 1,
+    "recompensa_cop": 4378,
+    "ubicacion_posible": "Se cree oculto en Venezuela; influencia en Catatumbo (Norte de Santander) y frontera",
+    "departamentos": [
+      "Antioquia",
+      "Arauca",
+      "Bolivar",
+      "Cauca",
+      "Cesar",
+      "Choco",
+      "Guaviare",
+      "Meta",
+      "Narino",
+      "Norte de Santander"
+    ],
+    "fuentes": [
+      "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-publica-cartel-de-los-mas-buscados-del-ELN-250125.aspx",
+      "https://www.eltiempo.com/justicia/delitos/condenan-a-antonio-garcia-y-otros-cabecillas-del-eln-3526570",
+      "https://insightcrime.org/colombia-organized-crime-news/eliecer-erlinto-chamorro-antonio-garcia/",
+      "https://www.noticiasrcn.com/colombia/quien-es-antonio-garcia-el-nuevo-comandante-del-eln-382270",
+      "https://www.eltiempo.com/justicia/investigacion/expiden-circular-roja-contra-antonio-garcia-y-ramiro-vargas-del-eln-290282",
+      "https://forbes.co/2025/01/26/actualidad/gobierno-publica-cartel-de-los-mas-buscados-del-eln-y-ofrece-recompensas-hasta-de-3-mil-millones",
+      "https://www.infobae.com/colombia/2026/02/16/ministerio-de-defensa-mantiene-millonarias-recompensas-por-cabecillas-del-eln-y-disidencias-de-las-farc-le-dijeron-no-a-la-paz-y-si-al-crimen/"
+    ]
+  },
+  {
+    "id": 4,
+    "alias": "Gabino",
+    "otros_alias": null,
+    "nombre_real": "Nicolás Rodríguez Bautista",
+    "grupo": "ELN",
+    "estructura": "Excomandante máximo del ELN; sigue influyendo en el COCE",
+    "rol": "comandante histórico (retirado de la jefatura por salud)",
+    "crimenes": [
+      "rebelión",
+      "homicidio",
+      "secuestro",
+      "terrorismo"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; dejó la jefatura por salud pero conserva peso estratégico",
+    "prioridad": 1,
+    "recompensa_cop": 3000,
+    "ubicacion_posible": "Venezuela",
+    "departamentos": [
+      "Antioquia",
+      "Arauca",
+      "Bolivar",
+      "Cesar",
+      "Choco",
+      "Narino",
+      "Norte de Santander",
+      "Santander"
+    ],
+    "fuentes": [
+      "https://www.semana.com/nacion/articulo/recompensa-de-3000-millones-por-cabecillas-del-eln/202502/",
+      "https://www.radionacional.co/actualidad/judicial/recompensa-por-los-mas-buscados-del-eln",
+      "https://insightcrime.org/colombia-organized-crime-news/nicolas-rodriguez-bautista-gabino/",
+      "https://cnnespanol.cnn.com/2021/06/24/alias-gabino-renuncia-comandancia-eln-orix/",
+      "https://www.eltiempo.com/justicia/investigacion/eln-nicolas-rodriguez-bautista-gabino-habria-muerto-732132",
+      "https://www.semana.com/nacion/articulo/fuerzas-militares-ofrecen-una-recompensa-de-3000-millones-por-los-maximos-cabecillas-del-eln-antonio-garcia-gabino-pablito-y-pablo-beltran/202502/",
+      "https://www.elpaisvallenato.com/2025/11/10/condenan-a-alias-gabino-y-otros-diez-cabecillas-del-eln-por-el-reclutamiento-de-60-menores-de-edad/"
+    ]
+  },
+  {
+    "id": 24,
+    "alias": "Omar",
+    "otros_alias": [
+      "Casinga"
+    ],
+    "nombre_real": null,
+    "grupo": "ELN",
+    "estructura": "Frente de Guerra Darío Ramírez Castro",
+    "rol": "Máximo cabecilla del Frente Darío Ramírez Castro (Bajo Cauca / Nordeste antioqueño)",
+    "crimenes": [
+      "homicidio",
+      "rebelión",
+      "concierto para delinquir",
+      "extorsión"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; cartel del ELN en Antioquia (MinDefensa/Policía)",
+    "prioridad": 1,
+    "recompensa_cop": 400,
+    "ubicacion_posible": "Antioquia (Bajo Cauca / Nordeste)",
+    "departamentos": [
+      "Bolivar"
+    ],
+    "fuentes": [
+      "https://www.elcolombiano.com/antioquia/cabecillas-del-eln-mas-buscados-en-antioquia-FA26516829",
+      "https://www.semana.com/nacion/cartagena/articulo/los-rostros-del-horror-en-el-sur-de-bolivar-estos-son-los-temibles-cabecillas-del-eln-y-clan-del-golfo/202501/",
+      "https://www.infobae.com/colombia/2025/02/04/autoridades-de-antioquia-revelan-cartel-de-los-mas-buscados-del-eln-con-recompensas-de-hasta-400-millones/",
+      "https://www.infobae.com/colombia/2026/01/16/crisis-de-seguridad-en-el-sur-de-bolivar-lleva-al-gobernador-arana-a-pedir-reunion-urgente-con-petro-por-riesgos-a-civiles/"
+    ]
+  },
+  {
+    "id": 25,
+    "alias": "Barreto",
+    "otros_alias": null,
+    "nombre_real": "Luis Carlos Pinilla Cortés",
+    "grupo": "EMC",
+    "estructura": "Frente 57 'Yair Bermúdez' (Comando Coordinador de Occidente)",
+    "rol": "Máximo cabecilla del Frente 57 (centro/norte del Valle del Cauca)",
+    "crimenes": [
+      "homicidio",
+      "ataques con drones/explosivos",
+      "quema de maquinaria",
+      "extorsión"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; recompensa anunciada por MinDefensa (mar-2026)",
+    "prioridad": 1,
+    "recompensa_cop": 640,
+    "ubicacion_posible": "Valle del Cauca (Tuluá, Sevilla, Buga, El Cerrito)",
+    "departamentos": [
+      "Valle del Cauca",
+      "Cauca",
+      "Narino"
+    ],
+    "fuentes": [
+      "https://www.eltiempo.com/colombia/cali/recompensa-por-alias-barreto-frente-57-disidencias-valle-3536419",
+      "https://www.policia.gov.co/noticia/capturados-integrantes-frente-57-yair-bermudez",
+      "https://www.eltiempo.com/colombia/cali/mindefensa-ofrecio-recompensa-de-640-millones-de-pesos-por-alias-barreto-maximo-cabecilla-del-frente-57-de-las-disidencias-en-el-valle-del-cauca-3536419",
+      "https://www.elpais.com.co/judicial/ya-estan-identificados-rostros-y-nombres-de-los-cabecillas-de-las-disidencias-de-las-farc-que-matan-soldados-y-civiles-en-el-cauca-1332.html",
+      "https://www.elpais.com.co/judicial/estos-son-los-jefes-de-las-disidencias-de-la-farc-responsables-del-horror-y-la-violencia-que-se-vive-en-el-valle-y-en-el-cauca-2150.html"
+    ]
+  },
+  {
+    "id": 8,
+    "alias": "Calarcá Córdoba",
+    "otros_alias": null,
+    "nombre_real": "Alexander Díaz Mendoza",
+    "grupo": "EMC",
+    "estructura": "Comandante del Estado Mayor de los Bloques y Frentes (EMBF), facción escindida de Mordisco; en guerra con Mordisco",
+    "rol": "comandante máximo de facción",
+    "crimenes": [
+      "concierto para delinquir agravado",
+      "homicidio de persona protegida",
+      "homicidio agravado",
+      "uso de métodos ilícitos de guerra (lesa humanidad)"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; órdenes de captura suspendidas como gestor de paz, pero declarado persona ausente e imputable por lesa humanidad",
+    "prioridad": 1,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Paradero desconocido (mayo-2026); zonas EMBF",
+    "departamentos": [
+      "Meta",
+      "Guaviare",
+      "Antioquia",
+      "Bolivar",
+      "Norte de Santander",
+      "Caqueta"
+    ],
+    "fuentes": [
+      "https://www.eltiempo.com/justicia/delitos/calarca-sera-imputado-por-delitos-de-lesa-humanidad-3545839",
+      "https://www.infobae.com/colombia/2026/05/28/juez-declarar-ausente-a-alias-calarca/",
+      "https://insightcrime.org/colombia-organized-crime-news/alexander-diaz-alias-calarca-cordoba/",
+      "https://www.lasillavacia.com/silla-nacional/archivos-de-calarca-lo-que-sabe-de-la-infiltracion-de-las-disidencias/",
+      "https://www.elespectador.com/colombia-20/paz-y-memoria/fiscalia-da-ultimatum-al-gobierno-para-reactivar-orden-de-captura-contra-calarca-por-delitos-cometidos-durante-paz-total/",
+      "https://www.infobae.com/colombia/2026/07/09/estos-son-los-todopoderosos-cabecillas-a-los-que-abelardo-de-la-espriella-les-envio-un-ultimatum-alfred-ivan-mordisco-y-calarca-en-la-mira/",
+      "https://www.elespectador.com/colombia-20/paz-y-memoria/disidencia-de-farc-de-mordisco-y-gobierno-inician-ciclo-de-dialogo-con-calarca-cordoba-como-delegado/"
+    ]
+  },
+  {
+    "id": 26,
+    "alias": "Cholinga",
+    "otros_alias": null,
+    "nombre_real": "Wilmar Pazu Rivera",
+    "grupo": "EMC",
+    "estructura": "Frente Dagoberto Ramos (Bloque Occidental Jacobo Arenas)",
+    "rol": "Máximo cabecilla del Dagoberto Ramos; reclutador de menores del suroccidente",
+    "crimenes": [
+      "reclutamiento de menores",
+      "homicidio",
+      "ataques terroristas en Cauca"
+    ],
+    "estado": "abatido",
+    "estado_fecha": null,
+    "estado_detalle": "abatido el 10-jun-2025 en zona rural de Páez, Cauca, por el CCOES",
+    "prioridad": 1,
+    "recompensa_cop": 500,
+    "ubicacion_posible": "Cauca (Páez)",
+    "departamentos": [
+      "Cauca",
+      "Huila",
+      "Valle del Cauca",
+      "Tolima",
+      "Quindio"
+    ],
+    "fuentes": [
+      "https://www.elpais.com.co/judicial/neutralizan-a-alias-cholinga-disidencias-cauca-1035.html",
+      "https://www.infobae.com/america/agencias/2025/06/11/muere-en-operacion-militar-jefe-de-las-disidencias-de-las-farc-del-suroeste-de-colombia/",
+      "https://www.elespectador.com/judicial/quien-era-cholinga-el-lider-de-las-disidencias-muerto-y-vinculado-a-atentados-en-cauca/",
+      "https://www.bluradio.com/regiones/pacifico/abatido-alias-cholinga-principal-cabecilla-de-disidencias-de-las-farc-en-el-cauca-rg10",
+      "https://www.noticiascaracol.com/colombia/disidencias-obligaron-a-comunidad-a-asistir-al-sepelio-de-alias-cholinga-rg10"
+    ]
+  },
+  {
+    "id": 6,
+    "alias": "Iván Mordisco",
+    "otros_alias": null,
+    "nombre_real": "Néstor Gregorio Vera Fernández",
+    "grupo": "EMC",
+    "estructura": "Comandante máximo del Estado Mayor Central (ala dura); ~21 frentes (Bloque Amazonas, Central Isaías Pardo, Comando Conjunto de Oriente, Occidental Jacobo Arenas)",
+    "rol": "comandante máximo",
+    "crimenes": [
+      "homicidio",
+      "narcotráfico",
+      "terrorismo",
+      "reclutamiento de menores",
+      "atentados con explosivos"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; sobrevivió a un bombardeo en Vaupés (mar-2026), el tercero del que escapa; el criminal más buscado del país",
+    "prioridad": 1,
+    "recompensa_cop": 5000,
+    "ubicacion_posible": "Guaviare, Amazonas, Cauca, Vaupés; corredor amazónico y frontera",
+    "departamentos": [
+      "Cauca",
+      "Narino",
+      "Valle del Cauca",
+      "Caqueta",
+      "Putumayo",
+      "Meta",
+      "Guaviare",
+      "Vaupes",
+      "Vichada",
+      "Amazonas",
+      "Huila",
+      "Tolima",
+      "Arauca",
+      "Casanare"
+    ],
+    "fuentes": [
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/recompensa-por-ivan-mordisco-3484341",
+      "https://cnnespanol.cnn.com/2026/05/28/colombia/quien-es-ivan-mordisco-orix",
+      "https://www.infobae.com/colombia/2026/03/29/bombardeo-contra-ivan-mordisco-ya-van-tres-veces-que-el-maximo-lider-de-las-disidencias-de-las-farc-se-salva-de-la-muerte/",
+      "https://www.infobae.com/colombia/2026/04/06/ivan-mordisco-sigue-vivo-informe-revela-que-esta-herido-aislado-y-sin-poder-en-disidencias-de-las-farc/",
+      "https://www.infobae.com/colombia/2026/07/09/estos-son-los-todopoderosos-cabecillas-a-los-que-abelardo-de-la-espriella-les-envio-un-ultimatum-alfred-ivan-mordisco-y-calarca-en-la-mira/"
+    ]
+  },
+  {
+    "id": 12,
+    "alias": "Araña",
+    "otros_alias": null,
+    "nombre_real": "Giovanny Andrés Rojas",
+    "grupo": "OTRO_GAO",
+    "estructura": "Cofundador de la Coordinadora Nacional del Ejército Bolivariano",
+    "rol": "comandante de disidencia escindida",
+    "crimenes": [
+      "narcotráfico",
+      "concierto para delinquir",
+      "homicidio"
+    ],
+    "estado": "capturado",
+    "estado_fecha": "2025-02-12",
+    "estado_detalle": "capturado el 12 de febrero de 2025 en Bogotá; la Corte Suprema de Justicia avaló su extradición a Estados Unidos en octubre de 2025",
+    "prioridad": 1,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Suroccidente colombiano / frontera",
+    "departamentos": [
+      "Putumayo",
+      "Narino",
+      "Caqueta"
+    ],
+    "fuentes": [
+      "https://insightcrime.org/colombia-organized-crime-news/segunda-marquetalia/",
+      "https://www.eltiempo.com/justicia/investigacion/quien-es-giovanny-andres-rojas-alias-arana-maximo-cabecilla-de-los-comandos-de-frontera-3426528",
+      "https://www.infobae.com/colombia/2025/10/23/la-corte-suprema-autorizo-la-extradicion-de-geovany-andres-rojas-alias-la-arana-negociador-de-los-comandos-de-la-frontera/",
+      "https://www.elcolombiano.com/colombia/geovany-andres-rojas-alias-la-arana-por-que-fue-detenido-por-fiscalia-con-suspencion-temporal-orden-captura-BI26597457",
+      "https://insightcrime.org/colombia-organized-crime-news/border-command/"
+    ]
+  },
+  {
+    "id": 11,
+    "alias": "Walter Mendoza",
+    "otros_alias": null,
+    "nombre_real": "José Vicente Lesmes",
+    "grupo": "OTRO_GAO",
+    "estructura": "Coordinadora Nacional del Ejército Bolivariano (escisión de Iván Márquez, nov-2024)",
+    "rol": "comandante de disidencia escindida",
+    "crimenes": [
+      "narcotráfico",
+      "concierto para delinquir",
+      "homicidio",
+      "rebelión"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; lidera la ruptura con Márquez junto con alias 'Araña'",
+    "prioridad": 1,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Putumayo, Nariño y suroccidente / frontera con Ecuador",
+    "departamentos": [
+      "Narino",
+      "Putumayo",
+      "Cauca",
+      "Valle del Cauca",
+      "Choco"
+    ],
+    "fuentes": [
+      "https://insightcrime.org/colombia-organized-crime-news/segunda-marquetalia/",
+      "https://insightcrime.org/colombia-organized-crime-news/jose-vicente-lesmes-alias-walter-mendoza/",
+      "https://www.infobae.com/colombia/2026/04/27/gobierno-petro-retomara-dialogos-con-disidencias-de-walter-mendoza-tras-crisis-por-actos-violentos-y-erradicacion-de-coca/",
+      "https://www.infobae.com/colombia/2026/06/17/juez-ordeno-suspender-zut-para-las-disidencias-de-walter-mendoza-en-putumayo-hasta-realizar-consulta-previa-con-resguardo-indigena/",
+      "https://www.semana.com/nacion/articulo/es-imposible-entregar-las-armas-walter-mendoza-comandante-de-la-coordinadora-del-pacifico-hablo-con-semana-sobre-la-paz-total/202517/"
+    ]
+  },
+  {
+    "id": 35,
+    "alias": "Allende",
+    "otros_alias": [
+      "Allende Huaca"
+    ],
+    "nombre_real": "Allende Perilla Sandoval",
+    "grupo": "SEGUNDA_MARQUETALIA",
+    "estructura": "Coordinadora Guerrillera del Pacífico / CNEB (Frente Alfonso Cano)",
+    "rol": "Máximo cabecilla del componente del Pacífico; vocero del CNEB en diálogos",
+    "crimenes": [
+      "narcotráfico",
+      "homicidio",
+      "pagos por asesinato de policías y militares en Nariño"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; el Gobierno lo dio por abatido (ene-2024) pero las FF.MM. confirmaron que sigue vivo; operativo en Ipiales (2026)",
+    "prioridad": 1,
+    "recompensa_cop": 1000,
+    "ubicacion_posible": "Nariño (litoral Pacífico, frontera con Ecuador)",
+    "departamentos": [
+      "Narino",
+      "Cauca",
+      "Valle del Cauca"
+    ],
+    "fuentes": [
+      "https://www.policia.gov.co/contenido/allende-perilla-sandoval",
+      "https://www.eltiempo.com/colombia/cali/cabecilla-al-servicio-de-alias-allende-segunda-marquetalia-narino-3553538",
+      "https://www.infobae.com/colombia/2024/01/22/alias-allende-mano-derecha-de-ivan-marquez-y-al-que-habian-dado-por-muerto-aparecio-en-un-video/",
+      "https://cambiocolombia.com/conflicto-armado-en-colombia/articulo/2024/1/alias-allende-otro-muerto-que-estaba-vivo-que-ocurre-en-inteligencia",
+      "https://www.eltiempo.com/colombia/cali/cayo-presunto-cabecilla-al-servicio-de-alias-allende-de-segunda-marquetalia-por-asesinatos-pertenece-al-grupo-que-ha-estado-en-dialogos-en-narino-3553538"
+    ]
+  },
+  {
+    "id": 9,
+    "alias": "Iván Márquez",
+    "otros_alias": null,
+    "nombre_real": "Luciano Marín Arango",
+    "grupo": "SEGUNDA_MARQUETALIA",
+    "estructura": "Fundador y jefe máximo de la Segunda Marquetalia",
+    "rol": "comandante máximo / determinador (caso Uribe)",
+    "crimenes": [
+      "rebelión",
+      "concierto para delinquir",
+      "narcotráfico",
+      "homicidio",
+      "determinador del magnicidio de Miguel Uribe Turbay"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "prófugo; la Fiscalía ordenó su captura (24-mar-2026) como determinador del magnicidio de Miguel Uribe Turbay y la Interpol emitió circular roja (10-abr-2026); la inteligencia colombiana lo ubica en Venezuela",
+    "prioridad": 1,
+    "recompensa_cop": 5000,
+    "ubicacion_posible": "Venezuela",
+    "departamentos": [
+      "Narino",
+      "Putumayo",
+      "Cauca",
+      "Valle del Cauca",
+      "Norte de Santander",
+      "Arauca"
+    ],
+    "fuentes": [
+      "https://www.elcolombiano.com/colombia/ordenan-captura-ivan-marquez-asesinato-miguel-uribe-GI34875254",
+      "https://cambiocolombia.com/pais/articulo/2026/4/interpol-circular-roja-segunda-marquetalia-uribe/",
+      "https://www.infobae.com/colombia/2026/03/09/ivan-marquez-estaria-vivo-y-en-venezuela-la-inteligencia-colombiana-lo-habria-ubicado-a-finales-del-2025/",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ivan-marquez-y-la-ultima-informacion-que-se-tiene-del-paradero-del-jefe-de-la-segunda-marquetalia-3447061",
+      "https://www.elheraldo.co/colombia/2026/04/10/magnicidio-de-miguel-uribe-interpol-emite-circular-roja-contra-alias-ivan-marquez-y-zarco-aldinever/"
+    ]
+  },
+  {
+    "id": 45,
+    "alias": "Cristian Camilo González Ardila",
+    "otros_alias": null,
+    "nombre_real": "Cristian Camilo González Ardila",
+    "grupo": "CASO_MIGUEL_URIBE",
+    "estructura": "Célula sicarial",
+    "rol": "apoyo logístico (facilitar la huida en moto; el plan falló)",
+    "crimenes": [
+      "homicidio agravado",
+      "porte ilegal de armas"
+    ],
+    "estado": "sometido",
+    "estado_fecha": null,
+    "estado_detalle": "se entregó voluntariamente; en detención preventiva y en juicio (sin condena en firme a jun-2026)",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Bogotá",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.infobae.com/colombia/2025/09/03/siete-capturados-por-el-crimen-del-precandidato/",
+      "https://www.semana.com/nacion/articulo/magnicidio-miguel-uribe-turbay-el-motociclista-encargado-de-extraer-al-menor-de-edad-tras-el-crimen-acepto-los-cargos/202656/",
+      "https://www.infobae.com/colombia/2025/12/16/cristian-camilo-gonzalez-ardila-presunto-involucrado-en-magnicidio-de-miguel-uribe-turbay-fue-acusado-formalmente-por-la-fiscalia/",
+      "https://www.semana.com/nacion/articulo/magnicidio-miguel-uribe-turbay-victimas-rechazan-el-acuerdo-de-la-fiscalia-con-el-motociclista-a-cargo-del-plan-de-fuga/202631/",
+      "https://www.elheraldo.co/colombia/2026/07/04/motociclista-que-facilitaria-la-fuga-del-menor-senalado-de-disparar-contra-miguel-uribe-acepto-los-cargos/"
+    ]
+  },
+  {
+    "id": 39,
+    "alias": "El Costeño",
+    "otros_alias": [
+      "Chipi"
+    ],
+    "nombre_real": "Elder José Arteaga Hernández",
+    "grupo": "CASO_MIGUEL_URIBE",
+    "estructura": "Coordinador operativo de la célula sicarial (nexo con la Segunda Marquetalia)",
+    "rol": "coordinador logístico / determinador operativo",
+    "crimenes": [
+      "homicidio agravado",
+      "concierto para delinquir",
+      "uso de menores para cometer delitos",
+      "fabricación/tráfico de armas"
+    ],
+    "estado": "capturado",
+    "estado_fecha": null,
+    "estado_detalle": "capturado el 5-jul-2025; condenado a ~21 años mediante preacuerdo; reclutó a los participantes, asignó roles y entregó el arma al menor",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Bogotá",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.infobae.com/colombia/2025/07/11/como-el-costeno-manipulo-al-joven-sicario/",
+      "https://www.infobae.com/colombia/2026/07/01/condenan-a-alias-el-costeno-y-el-hermano-por-su-papel-en-el-atentado-contra-miguel-uribe-tras-lograr-un-preacuerdo-con-la-fiscalia/",
+      "https://www.semana.com/nacion/articulo/magnicidio-de-miguel-uribe-turbay-condenan-a-el-costeno-el-cerebro-del-atentado-al-senador-y-precandidato-presidencial/202645/",
+      "https://www.infobae.com/colombia/2025/07/05/policia-nacional-entrega-nuevos-detalles-de-la-captura-de-alias-el-costeno-por-el-ataque-a-miguel-uribe/",
+      "https://cambiocolombia.com/justicia/articulo/2025/6/quien-es-elder-jose-arteaga-el-prontuario-criminal-del-hombre-que-coordino-el-atentado"
+    ]
+  },
+  {
+    "id": 44,
+    "alias": "El Hermano",
+    "otros_alias": null,
+    "nombre_real": "William Fernando González Cruz",
+    "grupo": "CASO_MIGUEL_URIBE",
+    "estructura": "Célula sicarial",
+    "rol": "coordinador logístico (planeación, selección del menor, vehículo de huida)",
+    "crimenes": [
+      "homicidio agravado",
+      "concierto para delinquir",
+      "tráfico de armas",
+      "uso de menores",
+      "destrucción de evidencia"
+    ],
+    "estado": "capturado",
+    "estado_fecha": null,
+    "estado_detalle": "capturado (2025); en juicio (sin condena en firme a jun-2026)",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Bogotá",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.infobae.com/colombia/2025/09/03/siete-capturados-por-el-crimen-del-precandidato/",
+      "https://www.infobae.com/colombia/2026/07/01/condenan-a-alias-el-costeno-y-el-hermano-por-su-papel-en-el-atentado-contra-miguel-uribe-tras-lograr-un-preacuerdo-con-la-fiscalia/",
+      "https://www.infobae.com/colombia/2025/06/20/en-imagenes-asi-fue-la-captura-de-alias-el-hermano-cuarto-capturado-por-el-intento-de-sicariato-contra-miguel-uribe-turbay/",
+      "https://www.elheraldo.co/colombia/2026/07/01/juez-avala-preacuerdo-con-alias-el-costeno-y-el-hermano-por-el-asesinato-de-miguel-uribe-turbay/",
+      "https://www.infobae.com/colombia/2025/12/01/alias-el-hermano-fue-acusado-formalmente-por-la-fiscalia-como-articulador-del-crimen-del-senador-miguel-uribe-turbay/"
+    ]
+  },
+  {
+    "id": 43,
+    "alias": "El Veneco",
+    "otros_alias": null,
+    "nombre_real": "Carlos Eduardo Mora González",
+    "grupo": "CASO_MIGUEL_URIBE",
+    "estructura": "Célula sicarial",
+    "rol": "conductor / logística (reconocimiento del sitio, condujo el vehículo)",
+    "crimenes": [
+      "homicidio agravado",
+      "porte ilegal de armas",
+      "uso de menores"
+    ],
+    "estado": "capturado",
+    "estado_fecha": null,
+    "estado_detalle": "capturado (2025); condenado a 21 años",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Bogotá",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.infobae.com/colombia/2025/09/03/siete-capturados-por-el-crimen-del-precandidato/",
+      "https://www.infobae.com/colombia/2026/03/06/magnicidio-miguel-uribe-turbay-condenaron-a-21-anos-de-carcel-a-carlos-eduardo-mora-por-la-logistica-del-atentado/",
+      "https://www.semana.com/nacion/articulo/magnicidio-de-miguel-uribe-turbay-condenan-a-21-anos-de-prision-a-carlos-eduardo-mora-gonzalez/202606/",
+      "https://www.elespectador.com/judicial/caso-miguel-uribe-carlos-eduardo-mora-alias-veneco-fue-sentenciado-a-21-anos-de-carcel/",
+      "https://www.eltiempo.com/justicia/delitos/leen-condena-a-21-anos-de-carcel-contra-carlos-eduardo-mora-por-el-magnicidio-de-miguel-uribe-turbay-3537883"
+    ]
+  },
+  {
+    "id": 40,
+    "alias": "El Viejo",
+    "otros_alias": null,
+    "nombre_real": "Simeón Pérez Marroquín",
+    "grupo": "CASO_MIGUEL_URIBE",
+    "estructura": "Eslabón de coordinación/pago de la red sicarial",
+    "rol": "coordinador logístico / pagador",
+    "crimenes": [
+      "homicidio agravado",
+      "concierto para delinquir",
+      "uso de menores"
+    ],
+    "estado": "capturado",
+    "estado_fecha": null,
+    "estado_detalle": "capturado (inicios de 2026); condenado a 22 años",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Bogotá / Cundinamarca",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.infobae.com/colombia/2026/03/20/fiscalia-alista-capturas-magnicidio-uribe-pagador/",
+      "https://cambiocolombia.com/pais/articulo/2026/3/condenan-a-22-anos-de-prision-a-alias-el-viejo-el-intermediario-del-magnicidio-de-miguel-uribe-turbay/",
+      "https://www.elespectador.com/judicial/condenan-a-22-anos-de-carcel-a-alias-el-viejo-por-crimen-de-miguel-uribe-turbay/",
+      "https://www.infobae.com/colombia/2026/03/20/condenaron-a-el-viejo-pieza-clave-del-asesinato-de-miguel-uribe-turbay-pagara-mas-de-22-anos-de-prision/",
+      "https://www.eltiempo.com/justicia/delitos/atencion-alias-el-viejo-acepto-ser-el-eslabon-clave-en-el-crimen-de-miguel-uribe-y-pagara-22-anos-de-carcel-3541970"
+    ]
+  },
+  {
+    "id": 42,
+    "alias": "Gabriela",
+    "otros_alias": null,
+    "nombre_real": "Katherine Andrea Martínez",
+    "grupo": "CASO_MIGUEL_URIBE",
+    "estructura": "Célula sicarial",
+    "rol": "coordinadora logística (planeación, transporte del arma, supervisión)",
+    "crimenes": [
+      "concierto para delinquir agravado",
+      "homicidio agravado",
+      "uso de menores"
+    ],
+    "estado": "capturado",
+    "estado_fecha": null,
+    "estado_detalle": "capturada (2025); condenada a 21 años y 2 meses",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Bogotá",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.infobae.com/colombia/2025/09/03/siete-capturados-por-el-crimen-del-precandidato/",
+      "https://www.semana.com/nacion/articulo/magnicidio-de-miguel-uribe-turbay-condenan-a-21-anos-de-prision-a-alias-gabriela/202603/",
+      "https://www.elespectador.com/judicial/condenan-a-21-anos-de-carcel-a-alias-gabriela-por-atentado-contra-miguel-uribe-turbay/",
+      "https://www.infobae.com/colombia/2025/06/16/este-fue-el-momento-exacto-de-la-captura-de-alias-gabriela-implicada-en-el-atentado-contra-miguel-uribe/",
+      "https://www.vanguardia.com/colombia/2026/02/23/caso-miguel-uribe-turbay-alias-gabriela-fue-condenada-por-el-magnicidio/"
+    ]
+  },
+  {
+    "id": 41,
+    "alias": "Harold",
+    "otros_alias": null,
+    "nombre_real": "Harold Daniel Barragán Ovalle",
+    "grupo": "CASO_MIGUEL_URIBE",
+    "estructura": "Célula sicarial",
+    "rol": "coordinador logístico (contactó al menor sicario y coordinó la huida)",
+    "crimenes": [
+      "homicidio agravado",
+      "concierto para delinquir",
+      "uso de menores",
+      "tráfico de armas"
+    ],
+    "estado": "capturado",
+    "estado_fecha": null,
+    "estado_detalle": "capturado (2025); condenado a 21 años y 4 meses",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Bogotá",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.infobae.com/colombia/2025/09/03/siete-capturados-por-el-crimen-del-precandidato/",
+      "https://www.infobae.com/colombia/2026/05/06/la-justicia-avalo-la-condena-de-21-anos-de-carcel-contra-harold-barragan-ovalle-por-el-magnicidio-de-miguel-uribe-turbay/",
+      "https://www.elespectador.com/judicial/condenan-a-21-anos-de-carcel-al-septimo-implicado-en-el-asesinato-de-miguel-uribe/",
+      "https://www.elcolombiano.com/colombia/condena-harold-daniel-barragan-asesinato-miguel-uribe-PE36236696",
+      "https://www.lafm.com.co/orden-publico/magnicidio-miguel-uribe-21-anos-condena-harold-398489"
+    ]
+  },
+  {
+    "id": 38,
+    "alias": "Tianz",
+    "otros_alias": null,
+    "nombre_real": "Reservado (menor de 15 años al momento del atentado)",
+    "grupo": "CASO_MIGUEL_URIBE",
+    "estructura": "Sicario material reclutado por la red",
+    "rol": "sicario (autor material del disparo)",
+    "crimenes": [
+      "magnicidio",
+      "porte ilegal de armas"
+    ],
+    "estado": "capturado",
+    "estado_fecha": null,
+    "estado_detalle": "capturado el 7-jun-2025 en la escena; condenado a 7 años (máximo del sistema de responsabilidad penal adolescente)",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Bogotá (Parque El Golfito, Fontibón)",
+    "departamentos": null,
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Intento_de_asesinato_de_Miguel_Uribe_Turbay",
+      "https://www.infobae.com/colombia/2025/08/27/condenan-a-7-anos-a-menor-de-edad-senalado-de-ser-el-sicario-que-asesino-a-miguel-uribe-turbay/",
+      "https://www.france24.com/es/minuto-a-minuto/20250827-joven-que-atent%C3%B3-contra-presidenciable-en-colombia-es-sentenciado-a-7-a%C3%B1os-de-reclusi%C3%B3n",
+      "https://www.infobae.com/colombia/2025/10/08/justicia-ratifica-condena-de-7-anos-contra-menor-implicado-en-asesinato-de-miguel-uribe-turbay/",
+      "https://cnnespanol.cnn.com/2025/08/11/colombia/que-paso-atentado-miguel-uribe-turbay-sospechosos-orix"
+    ]
+  },
+  {
+    "id": 33,
+    "alias": "32",
+    "otros_alias": [
+      "Carlos"
+    ],
+    "nombre_real": "Pedro Eliseo Villalba Quintero",
+    "grupo": "CLAN_DEL_GOLFO",
+    "estructura": "Junta directiva del EGC",
+    "rol": "Cabecilla de la junta directiva",
+    "crimenes": [
+      "homicidio",
+      "narcotráfico",
+      "concierto para delinquir"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; lista de más buscados del Clan del Golfo (Policía)",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Antioquia / Urabá / Córdoba",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.elespectador.com/judicial/chiquito-malo-y-los-12-lideres-mas-buscados-del-clan-del-golfo/",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/esta-es-la-cupula-del-clan-del-golfo-que-esta-en-la-mira-de-las-autoridades-ofrecen-millonaria-recompensa-3450599",
+      "https://www.elnuevosiglo.com.co/politica/al-menos-20-cabecillas-de-grupos-armados-serian-declarados-por-de-la-espriella-objetivo",
+      "https://www.elespectador.com/judicial/quienes-son-alias-chiquito-malo-y-los-12-lideres-mas-buscados-del-clan-del-golfo-noticias-hoy/",
+      "https://www.policia.gov.co/contenido/clan-del-golfo-9"
+    ]
+  },
+  {
+    "id": 30,
+    "alias": "Bigotes",
+    "otros_alias": null,
+    "nombre_real": "Luis Enrique Nisperuza Bedoya",
+    "grupo": "CLAN_DEL_GOLFO",
+    "estructura": "Junta directiva / Estado Mayor del EGC",
+    "rol": "Cabecilla de primer nivel de la cúpula",
+    "crimenes": [
+      "homicidio de líderes sociales",
+      "narcotráfico",
+      "concierto para delinquir"
+    ],
+    "estado": "capturado",
+    "estado_fecha": "2026-03-25",
+    "estado_detalle": "capturado el 25 de marzo de 2026 en Cáceres (Bajo Cauca antioqueño); cerebro financiero de la subestructura Roberto Vargas Gutiérrez",
+    "prioridad": 3,
+    "recompensa_cop": 1640,
+    "ubicacion_posible": "Urabá / Antioquia / Córdoba",
+    "departamentos": [
+      "Antioquia"
+    ],
+    "fuentes": [
+      "https://www.elespectador.com/judicial/chiquito-malo-y-los-12-lideres-mas-buscados-del-clan-del-golfo/",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cupula-del-clan-del-golfo-recompensa-3450599",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-caceres-a-alias-bigotes-senalado-dinamizador-financiero-del-clan-del-golfo-en-antioquia-3542929",
+      "https://www.semana.com/nacion/articulo/golpe-al-corazon-financiero-del-clan-del-golfo-cayo-alias-bigotes-quien-manejaba-la-fortuna-criminal-en-antioquia/202642/",
+      "https://www.infobae.com/colombia/2026/03/25/cayo-en-antioquia-alias-bigotes-principal-dinamizador-de-ingresos-ilicitos-del-clan-del-golfo/",
+      "https://www.policia.gov.co/noticia/fuerzas-militares-policia-nacional-capturan-al-principal-dinamizador-ingresos-ilicitos-del"
+    ]
+  },
+  {
+    "id": 31,
+    "alias": "Boika",
+    "otros_alias": null,
+    "nombre_real": "Juan Ezequiel Mosquera Morelo",
+    "grupo": "CLAN_DEL_GOLFO",
+    "estructura": "Cúpula / Estado Mayor del EGC",
+    "rol": "Cabecilla de la junta directiva",
+    "crimenes": [
+      "homicidio de líderes sociales",
+      "narcotráfico"
+    ],
+    "estado": "capturado",
+    "estado_fecha": "2026-03-21",
+    "estado_detalle": "capturado el 21 de marzo de 2026 en Apartadó (Antioquia); era el segundo cabecilla de la estructura en el Magdalena Medio",
+    "prioridad": 3,
+    "recompensa_cop": 640,
+    "ubicacion_posible": "Antioquia / Chocó / Urabá",
+    "departamentos": [
+      "Antioquia"
+    ],
+    "fuentes": [
+      "https://www.elespectador.com/judicial/chiquito-malo-y-los-12-lideres-mas-buscados-del-clan-del-golfo/",
+      "https://www.infobae.com/colombia/2026/03/21/cayo-alias-boica-segundo-cabecilla-del-clan-del-golfo-en-antioquia/",
+      "https://www.radiosantafe.com/2026/03/21/cayo-alias-boika-segundo-cabecilla-del-clan-del-golfo-3-integrantes-fueron-abatidos-y-3-capturados/",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/esta-es-la-cupula-del-clan-del-golfo-que-esta-en-la-mira-de-las-autoridades-ofrecen-millonaria-recompensa-3450599"
+    ]
+  },
+  {
+    "id": 17,
+    "alias": "Flaco Monseñor",
+    "otros_alias": null,
+    "nombre_real": "José Alberto Vega Albarán",
+    "grupo": "CLAN_DEL_GOLFO",
+    "estructura": "Nuevo en la cúpula (2026); antes comandó el frente Pablo Montalvo en Chocó",
+    "rol": "cabecilla de frente",
+    "crimenes": [
+      "narcotráfico",
+      "homicidio",
+      "disputa territorial con el ELN por corredores de coca"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Chocó",
+    "departamentos": [
+      "Choco",
+      "Antioquia"
+    ],
+    "fuentes": [
+      "https://www.elcolombiano.com/colombia/nueva-cupula-clan-del-golfo-2026-NG33530508",
+      "https://www.infobae.com/colombia/2026/02/13/clan-del-golfo-incluyo-a-dos-peligrosos-cabecillas-en-su-cupula-tras-la-muerte-de-alias-gonzalito-este-es-su-prontuario-criminal/",
+      "https://www.elcolombiano.com/colombia/nueva-cupula-clan-del-golfo-2026-reorganizacion-cabecillas-NG33530508",
+      "https://www.semana.com/nacion/medellin/articulo/quienes-son-los-nuevos-integrantes-de-la-cupula-del-clan-del-golfo-que-aparecen-en-el-mas-reciente-video/202652/"
+    ]
+  },
+  {
+    "id": 34,
+    "alias": "La Crespa",
+    "otros_alias": null,
+    "nombre_real": "Noris María Villarreal Cárdenas",
+    "grupo": "CLAN_DEL_GOLFO",
+    "estructura": "Mando medio del EGC",
+    "rol": "Cabecilla de nivel medio",
+    "crimenes": [
+      "homicidio",
+      "extorsión",
+      "concierto para delinquir"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; lista de más buscados del Clan del Golfo (mar-2026)",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Antioquia / Córdoba / Sucre",
+    "departamentos": [
+      "Cordoba"
+    ],
+    "fuentes": [
+      "https://www.elespectador.com/judicial/chiquito-malo-y-los-12-lideres-mas-buscados-del-clan-del-golfo/",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/esta-es-la-cupula-del-clan-del-golfo-que-esta-en-la-mira-de-las-autoridades-ofrecen-millonaria-recompensa-3450599",
+      "https://www.elespectador.com/judicial/quienes-son-alias-chiquito-malo-y-los-12-lideres-mas-buscados-del-clan-del-golfo-noticias-hoy/"
+    ]
+  },
+  {
+    "id": 32,
+    "alias": "Martillo",
+    "otros_alias": null,
+    "nombre_real": "Rafael Jaimes Caicedo",
+    "grupo": "CLAN_DEL_GOLFO",
+    "estructura": "Cúpula / Estado Mayor del EGC",
+    "rol": "Cabecilla de nivel directivo",
+    "crimenes": [
+      "homicidio",
+      "narcotráfico",
+      "concierto para delinquir"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; lista '12 más buscados' (Policía, mar-2026)",
+    "prioridad": 3,
+    "recompensa_cop": 640,
+    "ubicacion_posible": "Antioquia / Córdoba",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.elespectador.com/judicial/chiquito-malo-y-los-12-lideres-mas-buscados-del-clan-del-golfo/",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/esta-es-la-cupula-del-clan-del-golfo-que-esta-en-la-mira-de-las-autoridades-ofrecen-millonaria-recompensa-3450599",
+      "https://www.infobae.com/colombia/2026/03/19/ff-mm-dieron-a-conocer-el-cartel-de-los-mas-buscados-del-clan-del-golfo-por-amenazas-y-asesinatos-contra-lideres-sociales-y-firmantes-de-paz-en-colombia/",
+      "https://www.elespectador.com/judicial/quienes-son-alias-chiquito-malo-y-los-12-lideres-mas-buscados-del-clan-del-golfo-noticias-hoy/"
+    ]
+  },
+  {
+    "id": 16,
+    "alias": "Richard",
+    "otros_alias": [
+      "Deivy",
+      "58"
+    ],
+    "nombre_real": "Wilmar Mejía Úsuga",
+    "grupo": "CLAN_DEL_GOLFO",
+    "estructura": "Nuevo en la cúpula (2026); comandante del Bloque Central de Urabá (+1.000 hombres); exdesertor de las FARC",
+    "rol": "cabecilla de bloque",
+    "crimenes": [
+      "homicidio",
+      "narcotráfico",
+      "ataques a la Fuerza Pública y a contratistas mineros"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Urabá antioqueño",
+    "departamentos": [
+      "Antioquia",
+      "Cordoba"
+    ],
+    "fuentes": [
+      "https://www.elcolombiano.com/colombia/nueva-cupula-clan-del-golfo-2026-NG33530508",
+      "https://www.infobae.com/colombia/2026/02/13/clan-del-golfo-incluyo-a-dos-peligrosos-cabecillas-en-su-cupula-tras-la-muerte-de-alias-gonzalito-este-es-su-prontuario-criminal/",
+      "https://www.elcolombiano.com/colombia/nueva-cupula-clan-del-golfo-2026-reorganizacion-cabecillas-NG33530508",
+      "https://www.elcolombiano.com/antioquia/policia-ofrece-recompensas-por-integrantes-del-clan-del-golfo-responsables-de-asesinar-policias-AI18102031",
+      "https://www.semana.com/nacion/medellin/articulo/quienes-son-los-nuevos-integrantes-de-la-cupula-del-clan-del-golfo-que-aparecen-en-el-mas-reciente-video/202652/"
+    ]
+  },
+  {
+    "id": 18,
+    "alias": "Alfred",
+    "otros_alias": null,
+    "nombre_real": "Robinson Navarro Flórez",
+    "grupo": "ELN",
+    "estructura": "Frente de Guerra Nororiental (Catatumbo)",
+    "rol": "Cabecilla de frente",
+    "crimenes": [
+      "homicidio",
+      "rebelión",
+      "terrorismo",
+      "extorsión"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; en el cartel del ELN (ene-2025) y declarado objetivo militar por De la Espriella (2026)",
+    "prioridad": 3,
+    "recompensa_cop": 500,
+    "ubicacion_posible": "Norte de Santander (Catatumbo)",
+    "departamentos": [
+      "Norte de Santander"
+    ],
+    "fuentes": [
+      "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-publica-cartel-de-los-mas-buscados-del-ELN-250125.aspx",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cartel-mas-buscados-del-eln-en-el-catatumbo-3433867",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/quienes-son-los-cabecillas-del-eln-y-del-frente-33-en-catatumbo-a-los-que-de-la-espriella-declaro-objetivo-militar-y-les-dio-un-ultimatum-3569953",
+      "https://www.elespectador.com/judicial/abelardo-de-la-espriella-declara-objetivos-militares-a-jefes-de-eln-y-de-las-disidencias-en-catatumbo/",
+      "https://www.infobae.com/colombia/2026/07/09/estos-son-los-todopoderosos-cabecillas-a-los-que-abelardo-de-la-espriella-les-envio-un-ultimatum-alfred-ivan-mordisco-y-calarca-en-la-mira/"
+    ]
+  },
+  {
+    "id": 19,
+    "alias": "Arbey",
+    "otros_alias": null,
+    "nombre_real": "Óscar Ramiro Pérez Álvarez",
+    "grupo": "ELN",
+    "estructura": "Frente de Guerra Nororiental (Catatumbo)",
+    "rol": "Cabecilla",
+    "crimenes": [
+      "homicidio",
+      "rebelión",
+      "extorsión"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; cartel del ELN (ene-2025)",
+    "prioridad": 3,
+    "recompensa_cop": 500,
+    "ubicacion_posible": "Norte de Santander (Catatumbo)",
+    "departamentos": [
+      "Norte de Santander"
+    ],
+    "fuentes": [
+      "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-publica-cartel-de-los-mas-buscados-del-ELN-250125.aspx",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-publica-el-cartel-de-los-mas-buscados-del-eln-en-el-catatumbo-dan-3-000-millones-por-sus-cabecillas-3433867",
+      "https://www.elpais.com.co/colombia/cartel-de-los-mas-buscados-en-el-catatumbo-ofrecen-hasta-500-millones-por-tres-cabecillas-del-eln-1928.html"
+    ]
+  },
+  {
+    "id": 22,
+    "alias": "El Profe",
+    "otros_alias": [
+      "Cendales"
+    ],
+    "nombre_real": "William Ernesto Cruz Lizcano",
+    "grupo": "ELN",
+    "estructura": "Estructura financiera del ELN (COCE / finanzas)",
+    "rol": "Jefe financiero (~24 años en el ELN)",
+    "crimenes": [
+      "financiación del terrorismo",
+      "amenazas y homicidios de líderes sociales",
+      "narcotráfico"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; cartel de MinDefensa/FF.MM. de más buscados por asesinatos de líderes sociales (feb-2026)",
+    "prioridad": 3,
+    "recompensa_cop": 1000,
+    "ubicacion_posible": "Antioquia / Arauca / Caquetá / Chocó / Meta",
+    "departamentos": [
+      "Arauca",
+      "Norte de Santander"
+    ],
+    "fuentes": [
+      "https://www.elespectador.com/judicial/cartel-de-los-mas-buscados-por-asesinatos-de-lideres-sociales/",
+      "https://www.infobae.com/colombia/2026/02/16/mindefensa-recompensas-cabecillas-eln-disidencias/",
+      "https://www.elespectador.com/judicial/este-es-el-cartel-de-los-mas-buscados-por-amenazas-y-asesinatos-de-lideres-sociales/",
+      "https://www.infobae.com/colombia/2026/02/16/ministerio-de-defensa-mantiene-millonarias-recompensas-por-cabecillas-del-eln-y-disidencias-de-las-farc-le-dijeron-no-a-la-paz-y-si-al-crimen/"
+    ]
+  },
+  {
+    "id": 23,
+    "alias": "Gavilán",
+    "otros_alias": [
+      "Mono"
+    ],
+    "nombre_real": "Isidro López Serrano",
+    "grupo": "ELN",
+    "estructura": null,
+    "rol": "Cabecilla (cartel de líderes sociales)",
+    "crimenes": [
+      "amenazas y homicidios de líderes sociales y sus familias"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; cartel MinDefensa/FF.MM. (feb-2026)",
+    "prioridad": 3,
+    "recompensa_cop": 1000,
+    "ubicacion_posible": "Antioquia / Arauca / Caquetá / Chocó / Meta",
+    "departamentos": [
+      "Arauca"
+    ],
+    "fuentes": [
+      "https://www.elespectador.com/judicial/cartel-de-los-mas-buscados-por-asesinatos-de-lideres-sociales/",
+      "https://www.elespectador.com/judicial/este-es-el-cartel-de-los-mas-buscados-por-amenazas-y-asesinatos-de-lideres-sociales/",
+      "https://www.infobae.com/colombia/2026/02/16/ministerio-de-defensa-mantiene-millonarias-recompensas-por-cabecillas-del-eln-y-disidencias-de-las-farc-le-dijeron-no-a-la-paz-y-si-al-crimen/"
+    ]
+  },
+  {
+    "id": 20,
+    "alias": "Gonzalo Satélite",
+    "otros_alias": null,
+    "nombre_real": "Leonel Salazar Roa",
+    "grupo": "ELN",
+    "estructura": "Frente de Guerra Nororiental (Catatumbo)",
+    "rol": "Cabecilla",
+    "crimenes": [
+      "homicidio",
+      "rebelión",
+      "extorsión"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; cartel del ELN (ene-2025)",
+    "prioridad": 3,
+    "recompensa_cop": 500,
+    "ubicacion_posible": "Norte de Santander (Catatumbo)",
+    "departamentos": [
+      "Norte de Santander"
+    ],
+    "fuentes": [
+      "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-publica-cartel-de-los-mas-buscados-del-ELN-250125.aspx",
+      "https://insightcrime.org/news/brief/belligerent-eln-front-kills-five-colombian-soldiers-catatumbo-border-area/",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-publica-el-cartel-de-los-mas-buscados-del-eln-en-el-catatumbo-dan-3-000-millones-por-sus-cabecillas-3433867",
+      "https://www.laopinion.co/judicial/gonzalo-satelite-responsable-de-ataque-convoy-militar-en-tibu"
+    ]
+  },
+  {
+    "id": 3,
+    "alias": "Pablito",
+    "otros_alias": null,
+    "nombre_real": "Gustavo Aníbal Giraldo Quinchara",
+    "grupo": "ELN",
+    "estructura": "COCE (tercer jefe) — jefe militar; comandante del Frente de Guerra Oriental (Arauca)",
+    "rol": "cabecilla de frente / jefe militar",
+    "crimenes": [
+      "homicidio",
+      "terrorismo",
+      "desaparición forzada",
+      "reclutamiento de menores",
+      "narcotráfico/extorsión en Arauca"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; objetivo de alto valor, incluido en la lista entregada a EE.UU.",
+    "prioridad": 3,
+    "recompensa_cop": 5000,
+    "ubicacion_posible": "Arauca, Boyacá, Casanare y franja fronteriza con Venezuela",
+    "departamentos": [
+      "Arauca",
+      "Boyaca",
+      "Casanare",
+      "Norte de Santander",
+      "Vichada"
+    ],
+    "fuentes": [
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/mapa-actual-del-eln-3554972",
+      "https://www.semana.com/nacion/articulo/sin-alias-pablito-frente-de-guerra-oriental-del-eln/202328/",
+      "https://insightcrime.org/colombia-organized-crime-news/gustavo-anibal-giraldo-alias-pablito/",
+      "https://www.eltiempo.com/politica/proceso-de-paz/quien-es-pablito-el-sanguinario-jefe-del-eln-que-esta-detras-de-la-barbarie-en-el-catatumbo-3420187",
+      "https://www.elcolombiano.com/colombia/mindefensa-anuncia-acciones-por-amenaza-de-paro-armado-del-eln-y-recompensa-de-5000-millones-por-alias-pablito-KA31756084",
+      "https://www.infobae.com/colombia/2026/03/07/ministro-de-defensa-informo-cuales-fueron-los-resultados-del-megaoperativo-del-ejercito-contra-el-eln-en-arauca/",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-expediente-criminal-contra-alias-pablito-jefe-del-eln-al-que-petro-reseno-como-objetivo-de-alto-valor-en-cita-con-trump-3530086"
+    ]
+  },
+  {
+    "id": 2,
+    "alias": "Pablo Beltrán",
+    "otros_alias": null,
+    "nombre_real": "Israel Ramírez Pineda",
+    "grupo": "ELN",
+    "estructura": "COCE — comandante político y jefe del equipo negociador",
+    "rol": "cabecilla del Comando Central / jefe negociador",
+    "crimenes": [
+      "homicidio",
+      "secuestro",
+      "terrorismo (por el ataque a la Escuela General Santander, 2019)"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; ~109 órdenes de captura",
+    "prioridad": 3,
+    "recompensa_cop": 3284,
+    "ubicacion_posible": "Alterna Venezuela y zonas de retaguardia del ELN",
+    "departamentos": [
+      "Antioquia",
+      "Arauca",
+      "Bolivar",
+      "Cauca",
+      "Cesar",
+      "Choco",
+      "Narino",
+      "Norte de Santander"
+    ],
+    "fuentes": [
+      "https://www.infobae.com/colombia/2025/04/13/ministerio-de-defensa-publico-lista-de-los-cabecillas-mas-buscados-del-eln/",
+      "https://www.bluradio.com/judicial/publican-cartel-de-los-cabecillas-del-eln-rg10",
+      "https://www.elespectador.com/colombia-20/conflicto/quien-es-pablo-beltran-jefe-negociador-del-eln-con-el-gobierno-petro/",
+      "https://www.eltiempo.com/politica/proceso-de-paz/las-siete-principales-fichas-del-eln-en-la-mesa-de-dialogo-que-estan-en-la-mira-de-las-autoridades-tras-reactivacion-de-las-ordenes-de-captura-3420262",
+      "https://elheraldo.co/colombia/condenan-gabino-y-pablo-beltran-32-anos-de-carcel-695730",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-publica-el-cartel-de-los-mas-buscados-del-eln-en-el-catatumbo-dan-3-000-millones-por-sus-cabecillas-3433867",
+      "https://www.infobae.com/colombia/2025/09/09/reaparecio-pablo-beltran-segundo-comandante-del-eln-y-quien-era-el-jefe-del-equipo-negociador-en-el-proceso-de-paz-con-el-gobierno/"
+    ]
+  },
+  {
+    "id": 5,
+    "alias": "Ramiro Vargas",
+    "otros_alias": null,
+    "nombre_real": "Rafael Sierra Granados",
+    "grupo": "ELN",
+    "estructura": "COCE — responsable de asuntos internacionales",
+    "rol": "cabecilla del Comando Central",
+    "crimenes": [
+      "rebelión",
+      "concierto para delinquir",
+      "financiación de estructura armada"
+    ],
+    "estado": "fallecido",
+    "estado_fecha": null,
+    "estado_detalle": "falleció en 2021, hecho dado a conocer en febrero de 2022; ya no es un objetivo activo",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Venezuela / retaguardia estratégica",
+    "departamentos": [
+      "Arauca",
+      "Bolivar",
+      "Cesar",
+      "Norte de Santander"
+    ],
+    "fuentes": [
+      "https://insightcrime.org/colombia-organized-crime-news/eln-profile/",
+      "https://www.elcolombiano.com/colombia/paz-y-derechos-humanos/ramiro-vargas-jefe-guerrillero-del-eln-murio-en-2021-MF16571508",
+      "https://www.vanguardia.com/colombia/2022/02/11/ramiro-vargas-el-otro-comandante-de-la-cupula-del-eln-que-murio-en-2021-y-lo-mantuvieron-en-secreto/",
+      "https://www.eltiempo.com/archivo/documento/CMS-16549778",
+      "https://www.eltiempo.com/justicia/investigacion/expiden-circular-roja-contra-antonio-garcia-y-ramiro-vargas-del-eln-290282",
+      "https://www.elheraldo.co/colombia/orden-de-captura-comando-del-eln-por-homicidio-del-fundador-de-la-opinion-844849"
+    ]
+  },
+  {
+    "id": 21,
+    "alias": "Silvana Guerrero",
+    "otros_alias": null,
+    "nombre_real": "Luz Amanda Payares Payares",
+    "grupo": "ELN",
+    "estructura": "Frente de Guerra Nororiental (Catatumbo)",
+    "rol": "Cabecilla (única mujer del cartel del ELN en el Catatumbo)",
+    "crimenes": [
+      "homicidio",
+      "rebelión",
+      "acciones contra la población civil"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; cartel del ELN (ene-2025)",
+    "prioridad": 3,
+    "recompensa_cop": 100,
+    "ubicacion_posible": "Norte de Santander (Catatumbo)",
+    "departamentos": [
+      "Norte de Santander"
+    ],
+    "fuentes": [
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cartel-mas-buscados-del-eln-en-el-catatumbo-3433867",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-publica-el-cartel-de-los-mas-buscados-del-eln-en-el-catatumbo-dan-3-000-millones-por-sus-cabecillas-3433867",
+      "https://www.las2orillas.co/silvana-guerrero-la-comandante-del-frente-mas-duro-del-eln-que-le-huye-a-los-bombardeos-de-petro-en-el-catatumbo/",
+      "https://www.elespectador.com/colombia-20/conflicto/silvana-guerrero-la-mujer-guerrillera-que-integra-la-delegacion-de-paz-del-ejercito-de-liberacion-nacional/",
+      "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-publica-cartel-de-los-mas-buscados-del-ELN-250125.aspx"
+    ]
+  },
+  {
+    "id": 29,
+    "alias": "Juancho",
+    "otros_alias": null,
+    "nombre_real": "Carlos Yanid Perilla Prieto",
+    "grupo": "EMC",
+    "estructura": "Frente 4 - Bloque Magdalena Medio (EMBF de Calarcá)",
+    "rol": "Cabecilla del Bloque Magdalena Medio; envío de oro ilegal a Dubái y alianzas con carteles mexicanos",
+    "crimenes": [
+      "minería ilegal / contrabando de oro",
+      "narcotráfico",
+      "concierto para delinquir"
+    ],
+    "estado": "capturado",
+    "estado_fecha": null,
+    "estado_detalle": "capturado en ago-2025",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Frontera Antioquia–Bolívar (Magdalena Medio)",
+    "departamentos": [
+      "Antioquia",
+      "Bolivar",
+      "Norte de Santander"
+    ],
+    "fuentes": [
+      "https://www.infobae.com/colombia/2025/08/25/cayo-juancho-bloque-magdalena-medio-oro-dubai/",
+      "https://www.infobae.com/colombia/2025/08/25/cayo-juancho-cabecilla-del-bloque-magdalena-medio-que-coordinaba-el-envio-de-oro-ilegal-hacia-dubai-y-consolido-alianzas-con-carteles-mexicanos/",
+      "https://www.eltiempo.com/colombia/santander/alias-la-firma-el-peligroso-delincuente-que-se-escondia-en-floridablanca-hacia-envios-de-oro-hacia-dubai-y-era-el-enlace-con-carteles-mexicanos-3484783",
+      "https://www.bluradio.com/regiones/santanderes/capturaron-en-floridablanca-alias-firma-cabecilla-de-las-farc-del-bloque-magdalena-medio-rg10"
+    ]
+  },
+  {
+    "id": 28,
+    "alias": "La Morocha",
+    "otros_alias": null,
+    "nombre_real": "Diana Milena Agudelo Salazar",
+    "grupo": "EMC",
+    "estructura": "GAOR Rodrigo Cadete (EMBF de Calarcá)",
+    "rol": "Jefa de comisión / mando local",
+    "crimenes": [
+      "amenaza a menores",
+      "trabajos forzados",
+      "órdenes de homicidio"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; recompensa MinDefensa (mar-2026)",
+    "prioridad": 3,
+    "recompensa_cop": 200,
+    "ubicacion_posible": "Caquetá",
+    "departamentos": [
+      "Caqueta"
+    ],
+    "fuentes": [
+      "https://www.infobae.com/colombia/2026/03/31/recompensa-cabecillas-disidencias-calarca-caqueta/",
+      "https://www.infobae.com/colombia/2025/08/19/ministerio-de-defensa-divulgo-el-cartel-de-los-mas-buscados-de-las-disidencias-al-mando-de-alias-calarca/",
+      "https://www.noticiasrcn.com/colombia/aumenta-recompensa-por-la-morocha-responsable-del-reclutamiento-de-menores-en-caqueta-1007433",
+      "https://www.infobae.com/colombia/2026/03/31/estos-son-los-cabecillas-de-las-disidencias-de-calarca-que-amenazaron-a-cinco-ninos-en-caqueta-el-ministro-de-defensa-anuncio-millonaria-recompensa/",
+      "https://www.lafm.com.co/orden-publico/ninos-rescatados-selva-caqueta-alias-morocha-auria-perdomo-disidencias-calarca-ejercito-395001"
+    ]
+  },
+  {
+    "id": 7,
+    "alias": "Marlon",
+    "otros_alias": null,
+    "nombre_real": "Iván Jacobo Idrobo Arredondo",
+    "grupo": "EMC",
+    "estructura": "Comandante del Comando Coordinador de Occidente (EMC de Mordisco) en Cauca",
+    "rol": "cabecilla de bloque",
+    "crimenes": [
+      "homicidio",
+      "varios atentados terroristas en 2026",
+      "narcotráfico"
+    ],
+    "estado": "abatido",
+    "estado_fecha": null,
+    "estado_detalle": "abatido el 20-jun-2026 en operación militar en Buenaventura (Valle del Cauca)",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Cauca / Valle del Cauca (Buenaventura)",
+    "departamentos": [
+      "Cauca",
+      "Valle del Cauca"
+    ],
+    "fuentes": [
+      "https://www.infobae.com/colombia/2026/06/24/futuro-de-las-disidencias-tras-la-caida-de-marlon/",
+      "https://www.elcolombiano.com/colombia/alias-marlon-fue-dado-de-baja-por-que-AK37976688",
+      "https://www.infobae.com/colombia/2026/06/22/revelan-nuevos-detalles-del-operativo-contra-marlon-lider-de-las-disidencias-que-fue-abatido-por-el-ejercito-milicianos-se-llevaron-su-cuerpo/",
+      "https://www.semana.com/confidenciales/articulo/presidente-petro-se-refirio-a-la-muerte-de-alias-marlon-cabecilla-de-las-disidencias-de-las-farc-en-el-cauca/202656/",
+      "https://www.infobae.com/america/agencias/2026/07/03/el-ejercito-de-colombia-reafirma-la-muerte-de-marlon-y-descarta-el-video-manipulado-que-lo-desmiente/"
+    ]
+  },
+  {
+    "id": 27,
+    "alias": "Urías Perdomo",
+    "otros_alias": [
+      "Cotiz"
+    ],
+    "nombre_real": "Juan Antonio Agudelo Salazar",
+    "grupo": "EMC",
+    "estructura": "GAOR Rodrigo Cadete (EMBF de Calarcá)",
+    "rol": "Principal cabecilla del Rodrigo Cadete en Caquetá",
+    "crimenes": [
+      "amenaza a menores",
+      "reclutamiento forzado",
+      "ataques a población civil"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; recompensa anunciada por MinDefensa (mar-2026)",
+    "prioridad": 3,
+    "recompensa_cop": 400,
+    "ubicacion_posible": "Caquetá (Cartagena del Chairá)",
+    "departamentos": [
+      "Caqueta"
+    ],
+    "fuentes": [
+      "https://www.infobae.com/colombia/2026/03/31/recompensa-cabecillas-disidencias-calarca-caqueta/",
+      "https://www.infobae.com/colombia/2025/08/19/ministerio-de-defensa-divulgo-el-cartel-de-los-mas-buscados-de-las-disidencias-al-mando-de-alias-calarca/",
+      "https://www.semana.com/nacion/articulo/la-fiscalia-ordena-liberar-a-disidentes-de-las-farc-alias-oliver-y-alias-urias-que-viajaban-en-camionetas-de-la-unp/202429/",
+      "https://www.infobae.com/colombia/2024/08/05/cabecilla-de-las-disidencias-capturado-en-la-caravana-de-la-unp-y-luego-liberado-por-ser-vocero-en-dialogos-con-el-gobierno-petro-volvio-a-extorsionar/",
+      "https://www.elcolombiano.com/colombia/cabecilla-de-las-disidencias-aprovecha-la-suspension-de-su-captura-para-extorsionar-CB25175351"
+    ]
+  },
+  {
+    "id": 37,
+    "alias": "Bendito Menor",
+    "otros_alias": [
+      "Naín"
+    ],
+    "nombre_real": "Naín Andrés Pérez Toncel",
+    "grupo": "OTRO_GAO",
+    "estructura": "Autodefensas Conquistadoras de la Sierra Nevada (ACSN, sucesoras de 'Los Pachenca')",
+    "rol": "Principal cabecilla de la ACSN",
+    "crimenes": [
+      "narcotráfico",
+      "homicidio",
+      "extorsión",
+      "amenazas a la Fuerza Pública"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; reapareció en Riohacha (7-jul-2026) y De la Espriella lo declaró objetivo de alto valor",
+    "prioridad": 3,
+    "recompensa_cop": 1000,
+    "ubicacion_posible": "La Guajira / Magdalena (Riohacha, Sierra Nevada)",
+    "departamentos": [
+      "Magdalena",
+      "La Guajira",
+      "Cesar"
+    ],
+    "fuentes": [
+      "https://www.infobae.com/colombia/2026/07/09/de-la-espriella-nain-bendito-menor-acsn-objetivo-de-alto-valor/",
+      "https://elpilon.com.co/judicial/quien-es-alias-bendito-menor-recompensa",
+      "https://www.infobae.com/colombia/2026/07/09/de-la-espriella-tambien-sentencio-a-nain-o-bendito-menor-cabecilla-de-autodefensas-conquistadores-de-la-sierra-objetivo-de-alto-valor/",
+      "https://www.eltiempo.com/justicia/investigacion/prepare-todo-para-capturar-o-dar-de-baja-a-este-rufian-la-orden-de-abelardo-de-la-espriella-para-dar-con-alias-bendito-menor-3570114",
+      "https://www.semana.com/nacion/articulo/este-es-alias-bendito-menor-el-capo-invisible-del-caribe-que-amenazo-al-presidente-petro-y-burlo-una-operacion-militar/202620/",
+      "https://www.elheraldo.co/la-guajira/2026/04/19/alias-bendito-menor-reaparecio-en-un-video-desafiando-a-las-autoridades-1000-millones-dando-vuelta/"
+    ]
+  },
+  {
+    "id": 48,
+    "alias": "Enrique Marulanda",
+    "otros_alias": null,
+    "nombre_real": "Alberto Cruz Lobo",
+    "grupo": "SEGUNDA_MARQUETALIA",
+    "estructura": "Cúpula de la Segunda Marquetalia",
+    "rol": "coautor / determinador",
+    "crimenes": [
+      "magnicidio (homicidio agravado)",
+      "concierto para delinquir"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; una de las 7 órdenes de captura de la Fiscalía por el magnicidio (24-mar-2026); prófugo",
+    "prioridad": 3,
+    "recompensa_cop": 2000,
+    "ubicacion_posible": "Venezuela / corredores fronterizos",
+    "departamentos": [
+      "Meta"
+    ],
+    "fuentes": [
+      "https://www.elespectador.com/judicial/ordenan-capturar-altos-mandos-de-la-segunda-marquetalia-por-crimen-de-miguel-uribe-turbay/",
+      "https://www.infobae.com/colombia/2026/03/24/estos-son-los-perfiles-de-los-criminales-de-la-segunda-marquetalia-buscados-por-el-asesinato-de-miguel-uribe-turbay/",
+      "https://www.elheraldo.co/colombia/2026/04/10/magnicidio-de-miguel-uribe-interpol-emite-circular-roja-contra-alias-ivan-marquez-y-zarco-aldinever/",
+      "https://cambiocolombia.com/articulo/conflicto/el-hijo-de-tirofijo-fue-el-que-leyo-el-comunicado-de-la-segunda-marquetalia"
+    ]
+  },
+  {
+    "id": 49,
+    "alias": "Gonzalo",
+    "otros_alias": [
+      "Chalo"
+    ],
+    "nombre_real": "Diógenes Medina",
+    "grupo": "SEGUNDA_MARQUETALIA",
+    "estructura": "Cúpula de la Segunda Marquetalia",
+    "rol": "coautor / determinador",
+    "crimenes": [
+      "magnicidio (homicidio agravado)",
+      "concierto para delinquir"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; una de las 7 órdenes de captura de la Fiscalía por el magnicidio (24-mar-2026); prófugo",
+    "prioridad": 3,
+    "recompensa_cop": 2000,
+    "ubicacion_posible": "Venezuela / corredores fronterizos",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.elespectador.com/judicial/ordenan-capturar-altos-mandos-de-la-segunda-marquetalia-por-crimen-de-miguel-uribe-turbay/",
+      "https://www.infobae.com/colombia/2026/03/24/estos-son-los-perfiles-de-los-criminales-de-la-segunda-marquetalia-buscados-por-el-asesinato-de-miguel-uribe-turbay/",
+      "https://www.semana.com/nacion/articulo/interpol-expidio-circular-roja-contra-seis-integrantes-de-la-segunda-marquetalia-por-el-magnicidio-de-miguel-uribe-turbay/202627/"
+    ]
+  },
+  {
+    "id": 10,
+    "alias": "John 40",
+    "otros_alias": [
+      "Jhon 40"
+    ],
+    "nombre_real": "Géner García Molina",
+    "grupo": "SEGUNDA_MARQUETALIA",
+    "estructura": "Cabecilla mayor y principal financiador; ex Frente Acacio Medina / Comandos de la Frontera",
+    "rol": "cabecilla financiero / narcotráfico",
+    "crimenes": [
+      "narcotráfico a gran escala",
+      "concierto para delinquir",
+      "homicidio",
+      "coautor del magnicidio de Miguel Uribe"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; orden de captura por el magnicidio de Uribe; 'el guerrillero más rico de Colombia'",
+    "prioridad": 3,
+    "recompensa_cop": 4000,
+    "ubicacion_posible": "Guaviare, Vichada, Guainía y Amazonas venezolano (serranía de Yapacana)",
+    "departamentos": [
+      "Vichada",
+      "Guainia",
+      "Guaviare",
+      "Meta"
+    ],
+    "fuentes": [
+      "https://insightcrime.org/colombia-organized-crime-news/gener-garcia-molina-alias-jhon-40/",
+      "https://www.elcolombiano.com/colombia/john-40-jefe-de-disidencias-fue-sacado-de-lista-de-terroristas-OG16109698",
+      "https://www.swissinfo.ch/spa/ordenan-captura-de-7-jefes-de-disidencia-de-farc-implicados-en-magnicidio-de-uribe-turbay/91152559",
+      "https://www.infobae.com/colombia/2026/01/06/ministro-de-defensa-pedro-sanchez-hablo-del-exodo-de-cabecillas-del-eln-farc-y-lideres-criminales-a-colombia-tras-captura-de-nicolas-maduro/",
+      "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-alianza-criminal-entre-el-eln-y-la-segunda-marquetalia-por-el-oro-negro-en-vichada-y-guainia-3442184"
+    ]
+  },
+  {
+    "id": 36,
+    "alias": "Pitufo",
+    "otros_alias": [
+      "Marquetalia"
+    ],
+    "nombre_real": "Teodulio Anacona Papamija",
+    "grupo": "SEGUNDA_MARQUETALIA",
+    "estructura": "Comandos de la Frontera (al servicio de alias Araña)",
+    "rol": "Cabecilla financiero; cultivo, procesamiento y rutas de cocaína a Ecuador y Perú",
+    "crimenes": [
+      "narcotráfico",
+      "financiación del terrorismo",
+      "conspiración para apoyar organización terrorista (EE.UU.)"
+    ],
+    "estado": "capturado",
+    "estado_fecha": null,
+    "estado_detalle": "capturado el 3-feb-2026 en Puerto Asís (FF.MM./Policía/Fiscalía/DEA); circular roja de Interpol; acusado en EE.UU.",
+    "prioridad": 3,
+    "recompensa_cop": null,
+    "ubicacion_posible": "Putumayo (frontera con Ecuador)",
+    "departamentos": [
+      "Putumayo",
+      "Narino"
+    ],
+    "fuentes": [
+      "https://www.infobae.com/colombia/2026/02/03/alias-pitufo-capturado-frontera-ecuador-interpol-eeuu/",
+      "https://www.semana.com/nacion/articulo/asi-fue-capturado-alias-pitufo-comandos-de-frontera/202649/",
+      "https://www.infobae.com/colombia/2026/02/03/alias-pitufo-fue-capturado-en-la-frontera-con-ecuador-tenia-circular-roja-de-interpol-y-es-requerido-por-ee-uu/",
+      "https://www.elespectador.com/judicial/alias-pitufo-jefe-financiero-de-disidencias-de-arana-fue-capturado-en-putumayo/",
+      "https://www.semana.com/nacion/articulo/asi-fue-capturado-alias-pitufo-hombre-de-confianza-de-alias-arana-cabecilla-de-los-comandos-de-frontera/202649/",
+      "https://www.infobae.com/colombia/2026/04/07/acusan-en-estados-unidos-por-terrorismo-y-narcotrafico-a-pitufo-jefe-de-los-comandos-de-frontera/",
+      "https://www.eltiempo.com/justicia/investigacion/el-indictment-en-california-en-contra-de-teudulio-anacona-papamija-alias-pitufo-cabecilla-de-comandos-de-frontera-3545870"
+    ]
+  },
+  {
+    "id": 47,
+    "alias": "Rumba",
+    "otros_alias": [
+      "Rusbel"
+    ],
+    "nombre_real": "Jhon Jairo Bedoya Arias",
+    "grupo": "SEGUNDA_MARQUETALIA",
+    "estructura": "Cúpula de la Segunda Marquetalia",
+    "rol": "coautor / determinador",
+    "crimenes": [
+      "magnicidio (homicidio agravado)",
+      "concierto para delinquir",
+      "uso de menores"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; una de las 7 órdenes de captura de la Fiscalía por el magnicidio (24-mar-2026); prófugo",
+    "prioridad": 3,
+    "recompensa_cop": 2000,
+    "ubicacion_posible": "Venezuela / corredores fronterizos",
+    "departamentos": null,
+    "fuentes": [
+      "https://www.elespectador.com/judicial/ordenan-capturar-altos-mandos-de-la-segunda-marquetalia-por-crimen-de-miguel-uribe-turbay/",
+      "https://www.infobae.com/colombia/2026/03/24/estos-son-los-perfiles-de-los-criminales-de-la-segunda-marquetalia-buscados-por-el-asesinato-de-miguel-uribe-turbay/",
+      "https://www.swissinfo.ch/spa/ordenan-captura-de-7-jefes-de-disidencia-de-farc-implicados-en-magnicidio-de-uribe-turbay/91152559",
+      "https://cnnespanol.cnn.com/2026/03/24/colombia/fiscalia-colombia-capturar-jefes-disidencias-farc-atentado-uribe-turbay-orix",
+      "https://www.elheraldo.co/colombia/2026/04/10/magnicidio-de-miguel-uribe-interpol-emite-circular-roja-contra-alias-ivan-marquez-y-zarco-aldinever/"
+    ]
+  },
+  {
+    "id": 50,
+    "alias": "Yako",
+    "otros_alias": [
+      "Yoko"
+    ],
+    "nombre_real": "Kendric Téllez Álvarez",
+    "grupo": "SEGUNDA_MARQUETALIA",
+    "estructura": "Exintegrante del frente 53 de las FARC; enlace entre la Segunda Marquetalia y la banda urbana que ejecutó el crimen",
+    "rol": "coautor / enlace",
+    "crimenes": [
+      "magnicidio (homicidio agravado)",
+      "concierto para delinquir",
+      "uso de menores"
+    ],
+    "estado": "buscado",
+    "estado_fecha": null,
+    "estado_detalle": "buscado; una de las 7 órdenes de captura de la Fiscalía por el magnicidio (24-mar-2026); prófugo",
+    "prioridad": 3,
+    "recompensa_cop": 500,
+    "ubicacion_posible": "Venezuela / corredores fronterizos",
+    "departamentos": [
+      "Bogota D.C."
+    ],
+    "fuentes": [
+      "https://www.elespectador.com/judicial/ordenan-capturar-altos-mandos-de-la-segunda-marquetalia-por-crimen-de-miguel-uribe-turbay/",
+      "https://www.infobae.com/colombia/2026/03/23/quien-es-yako-enlace-clave-con-la-segunda-marquetalia-en-el-atentado-contra-miguel-uribe-y-mencionado-por-el-viejo-cuenta-con-orden-de-captura/",
+      "https://www.semana.com/nacion/articulo/este-es-alias-yako-de-la-segunda-marquetalia-quien-participo-en-el-magnicidio-de-miguel-uribe-turbay-estaria-en-venezuela/202646/",
+      "https://www.infobae.com/colombia/2026/04/03/victimas-de-las-farc-pidieron-a-la-jep-expulsar-y-ordenar-la-captura-preventiva-de-alias-yako-pieza-clave-en-el-magnicidio-de-miguel-uribe-turbay/",
+      "https://www.elespectador.com/judicial/la-jep-evalua-expulsion-de-alias-yako-por-posible-relacion-con-asesinato-de-miguel-uribe/",
+      "https://www.swissinfo.ch/spa/ordenan-captura-de-7-jefes-de-disidencia-de-farc-implicados-en-magnicidio-de-uribe-turbay/91152559"
+    ]
+  },
+  {
+    "id": 46,
+    "alias": "Zarco Aldinever",
+    "otros_alias": [
+      "El Zarco",
+      "Zarco Aldiniver"
+    ],
+    "nombre_real": "José Manuel Sierra Sabogal",
+    "grupo": "SEGUNDA_MARQUETALIA",
+    "estructura": "Comandante de la Segunda Marquetalia (hombre de confianza de Iván Márquez)",
+    "rol": "determinador / coordinador intelectual del magnicidio de Miguel Uribe",
+    "crimenes": [
+      "magnicidio",
+      "concierto para delinquir",
+      "uso de menores",
+      "terrorismo"
+    ],
+    "estado": "fallecido",
+    "estado_fecha": "2025-08-05",
+    "estado_detalle": "reportado muerto el 5 de agosto de 2025 en un ataque del ELN; su muerte fue confirmada oficialmente por la Oficina del Comisionado de Paz en julio de 2026",
+    "prioridad": 3,
+    "recompensa_cop": 4000,
+    "ubicacion_posible": "Venezuela / frontera",
+    "departamentos": [
+      "Meta",
+      "Cundinamarca",
+      "Boyaca",
+      "Arauca"
+    ],
+    "fuentes": [
+      "https://cnnespanol.cnn.com/2026/03/24/colombia/fiscalia-capturar-jefes-disidencias-atentado-uribe-orix",
+      "https://www.infobae.com/colombia/2025/08/05/segunda-marquetalia-confirmo-la-muerte-de-alias-zarco-aldinever-considerado-el-cerebro-del-atentado-a-miguel-uribe-turbay/",
+      "https://www.infobae.com/colombia/2026/07/05/quien-era-el-zarco-aldinever-mando-clave-de-la-segunda-marquetalia-y-senalado-del-magnicidio-de-miguel-uribe-turbay/",
+      "https://www.elcolombiano.com/colombia/zarco-aldinever-vivo-o-muerto-orden-de-captura-magnicidio-miguel-uribe-segunda-marquetalia-AI34872662",
+      "https://cnnespanol.cnn.com/2025/08/11/colombia/colombia-reporta-muerte-zarco-aldinever-uribe-turbay-orix"
+    ]
+  }
+]
