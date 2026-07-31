@@ -1,22 +1,22 @@
 {
   "meta": {
-    "generado": "2026-07-30T04:01:40.426954+00:00",
+    "generado": "2026-07-31T04:01:25.574527+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": true,
-    "total": 192,
-    "total_crudo": 255,
-    "operaciones": 106,
+    "total": 207,
+    "total_crudo": 270,
+    "operaciones": 115,
     "recompensas_total_cop": 49042
   },
   "conteo_calibracion": {
     "bajas": 17,
-    "capturas": 160,
-    "sometimientos": 15,
+    "capturas": 173,
+    "sometimientos": 17,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 192,
-    "en_reportado": 101,
-    "operaciones": 105
+    "total": 207,
+    "en_reportado": 109,
+    "operaciones": 114
   },
   "conteo_oficial": {
     "bajas": 0,
@@ -30,13 +30,13 @@
   },
   "conteo_total": {
     "bajas": 17,
-    "capturas": 160,
-    "sometimientos": 15,
+    "capturas": 173,
+    "sometimientos": 17,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 192,
-    "en_reportado": 101,
-    "operaciones": 105
+    "total": 207,
+    "en_reportado": 109,
+    "operaciones": 114
   },
   "serie_diaria": [
     {
@@ -204,38 +204,38 @@
     {
       "fecha": "2026-07-27",
       "bajas": 1,
-      "capturas": 6,
+      "capturas": 7,
       "sometimientos": 2,
       "desmovilizaciones": 0,
       "sin_desglose": 0,
-      "total": 9
+      "total": 10
     },
     {
       "fecha": "2026-07-28",
       "bajas": 0,
-      "capturas": 14,
+      "capturas": 15,
       "sometimientos": 0,
       "desmovilizaciones": 0,
       "sin_desglose": 0,
-      "total": 14
+      "total": 15
     },
     {
       "fecha": "2026-07-29",
       "bajas": 0,
-      "capturas": 12,
+      "capturas": 18,
       "sometimientos": 1,
       "desmovilizaciones": 0,
       "sin_desglose": 0,
-      "total": 13
+      "total": 19
     },
     {
       "fecha": "2026-07-30",
       "bajas": 1,
-      "capturas": 0,
-      "sometimientos": 0,
+      "capturas": 5,
+      "sometimientos": 2,
       "desmovilizaciones": 0,
       "sin_desglose": 0,
-      "total": 1
+      "total": 8
     }
   ],
   "materiales": [
@@ -267,7 +267,7 @@
       "clave": "dinero_cop",
       "label": "Dinero",
       "unidad": "COP",
-      "valor": 1869401654
+      "valor": 2001401654
     },
     {
       "clave": "laboratorios",
@@ -334,12 +334,12 @@
     {
       "departamento": "Chocó",
       "bajas": 0,
-      "capturas": 3,
+      "capturas": 4,
       "sometimientos": 9,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 12,
-      "operaciones": 3,
+      "personas": 13,
+      "operaciones": 4,
       "lat": 5.71,
       "lon": -76.78
     },
@@ -395,13 +395,25 @@
       "departamento": "Caquetá",
       "bajas": 0,
       "capturas": 3,
-      "sometimientos": 2,
+      "sometimientos": 3,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 5,
-      "operaciones": 5,
+      "personas": 6,
+      "operaciones": 6,
       "lat": 1.3,
       "lon": -75.52
+    },
+    {
+      "departamento": "Putumayo",
+      "bajas": 0,
+      "capturas": 4,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 4,
+      "operaciones": 3,
+      "lat": 0.43,
+      "lon": -75.53
     },
     {
       "departamento": "Magdalena",
@@ -418,14 +430,38 @@
     {
       "departamento": "Bolívar",
       "bajas": 1,
-      "capturas": 2,
+      "capturas": 3,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 4,
+      "operaciones": 4,
+      "lat": 8.67,
+      "lon": -74.03
+    },
+    {
+      "departamento": "Cesar",
+      "bajas": 0,
+      "capturas": 3,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 3,
-      "operaciones": 3,
-      "lat": 8.67,
-      "lon": -74.03
+      "operaciones": 4,
+      "lat": 9.8,
+      "lon": -73.35
+    },
+    {
+      "departamento": "Valle del Cauca",
+      "bajas": 0,
+      "capturas": 2,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 2,
+      "operaciones": 2,
+      "lat": 3.8,
+      "lon": -76.63
     },
     {
       "departamento": "Sucre",
@@ -440,18 +476,6 @@
       "lon": -75.4
     },
     {
-      "departamento": "Cesar",
-      "bajas": 0,
-      "capturas": 2,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 2,
-      "operaciones": 3,
-      "lat": 9.8,
-      "lon": -73.35
-    },
-    {
       "departamento": "Córdoba",
       "bajas": 0,
       "capturas": 2,
@@ -462,18 +486,6 @@
       "operaciones": 1,
       "lat": 8.33,
       "lon": -75.93
-    },
-    {
-      "departamento": "Valle del Cauca",
-      "bajas": 0,
-      "capturas": 2,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 2,
-      "operaciones": 2,
-      "lat": 3.8,
-      "lon": -76.63
     },
     {
       "departamento": "Casanare",
@@ -514,7 +526,46 @@
   ],
   "operaciones": [
     {
-      "id": 106,
+      "id": 115,
+      "slug": "2026-07-30-captura-clan_del_golfo-choco",
+      "operacion_id": "2026-07-30-captura-clan_del_golfo-choco",
+      "fecha": "2026-07-30",
+      "org": "CLAN_DEL_GOLFO",
+      "grupo_detalle": null,
+      "departamento": "Chocó",
+      "municipio": "Quibdó",
+      "lugar": null,
+      "fuerza": [
+        "EJERCITO"
+      ],
+      "bajas": 0,
+      "capturas": 1,
+      "sometimientos": 0,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 1,
+      "materiales": {},
+      "aliases": [
+        "jefe de finanzas"
+      ],
+      "descripcion": "El Ejército capturó en Quibdó a un jefe de finanzas del Clan del Golfo.",
+      "estado_verificacion": "reportado",
+      "reportado_oficialmente": false,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://colmundoradio.com.co/ejercito-captura-en-quibdo-a-jefe-de-finanzas-del-clan-del-golfo/",
+          "tipo": "agregador",
+          "medio": "Fuente periodística",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-30"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 114,
       "slug": "2026-07-30-baja-segunda_marquetalia-cauca",
       "operacion_id": "2026-07-30-baja-segunda_marquetalia-cauca",
       "fecha": "2026-07-30",
@@ -550,10 +601,239 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 105,
+      "id": 51,
+      "slug": "2026-07-30-captura-otro_gao-putumayo",
+      "operacion_id": "2026-07-30-captura-otro_gao-putumayo",
+      "fecha": "2026-07-30",
+      "org": "OTRO_GAO",
+      "grupo_detalle": null,
+      "departamento": "Putumayo",
+      "municipio": null,
+      "lugar": null,
+      "fuerza": [
+        "EJERCITO",
+        "POLICIA"
+      ],
+      "bajas": 0,
+      "capturas": 3,
+      "sometimientos": 0,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 3,
+      "materiales": {
+        "dinero_cop": 92000000
+      },
+      "aliases": [],
+      "descripcion": "Una operación coordinada entre el Ejército Nacional y la Policía Nacional permitió capturar a tres presuntos integrantes de la red de apoyo de los Comandos de Frontera e incautar droga, armas y más de 92 millones de pesos en Putumayo.",
+      "estado_verificacion": "confirmado",
+      "reportado_oficialmente": true,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://www.ejercito.mil.co/ejercito-nacional-debilita-la-estructura-logistica-y-financiera-de-los-comandos-de-frontera-en-putumayo",
+          "tipo": "oficial",
+          "medio": "Ejército Nacional",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-30"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 50,
+      "slug": "2026-07-30-operacion-desconocido-putumayo",
+      "operacion_id": "2026-07-30-operacion-desconocido-putumayo",
+      "fecha": "2026-07-30",
+      "org": "DESCONOCIDO",
+      "grupo_detalle": null,
+      "departamento": "Putumayo",
+      "municipio": "Puerto Leguízamo",
+      "lugar": null,
+      "fuerza": [
+        "EJERCITO",
+        "POLICIA"
+      ],
+      "bajas": 0,
+      "capturas": 0,
+      "sometimientos": 0,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 0,
+      "materiales": {},
+      "aliases": [],
+      "descripcion": "Se incautó combustible y dos embarcaciones utilizadas para el procesamiento de narcóticos.",
+      "estado_verificacion": "confirmado",
+      "reportado_oficialmente": true,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://www.ejercito.mil.co/fuerza-publica-capturo-a-un-hombre-e-incauto-combustible-utilizado-para-el-procesamiento-de-narcoticos-en-putumayo",
+          "tipo": "oficial",
+          "medio": "Ejército Nacional",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-30"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 49,
+      "slug": "2026-07-30-captura-desconocido-putumayo",
+      "operacion_id": "2026-07-30-captura-desconocido-putumayo",
+      "fecha": "2026-07-30",
+      "org": "DESCONOCIDO",
+      "grupo_detalle": null,
+      "departamento": "Putumayo",
+      "municipio": "Puerto Leguízamo",
+      "lugar": null,
+      "fuerza": [
+        "EJERCITO",
+        "POLICIA"
+      ],
+      "bajas": 0,
+      "capturas": 1,
+      "sometimientos": 0,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 1,
+      "materiales": {},
+      "aliases": [],
+      "descripcion": "La Fuerza Pública capturó a un hombre durante operaciones de control fluvial en Putumayo.",
+      "estado_verificacion": "confirmado",
+      "reportado_oficialmente": true,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://www.ejercito.mil.co/fuerza-publica-capturo-a-un-hombre-e-incauto-combustible-utilizado-para-el-procesamiento-de-narcoticos-en-putumayo",
+          "tipo": "oficial",
+          "medio": "Ejército Nacional",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-30"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 48,
+      "slug": "2026-07-30-sometimiento-embf-op",
+      "operacion_id": "2026-07-30-sometimiento-embf-op",
+      "fecha": "2026-07-30",
+      "org": "EMBF",
+      "grupo_detalle": "Bloque Magdalena Medio",
+      "departamento": null,
+      "municipio": null,
+      "lugar": null,
+      "fuerza": [
+        "EJERCITO"
+      ],
+      "bajas": 0,
+      "capturas": 0,
+      "sometimientos": 1,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 1,
+      "materiales": {},
+      "aliases": [],
+      "descripcion": "Un integrante del Bloque Magdalena Medio del Grupo Armado Organizado residual E33 se sometió voluntariamente a las tropas de la Fuerza de Tarea Vulcano en el Catatumbo.",
+      "estado_verificacion": "confirmado",
+      "reportado_oficialmente": true,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://www.ejercito.mil.co/un-integrante-del-bloque-magdalena-medio-del-gao-r-e33-se-sometio-voluntariamente-a-las-tropas-de-la-fuerza-de-tarea-vulcano-en-el-catatumbo",
+          "tipo": "oficial",
+          "medio": "Ejército Nacional",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-30"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 47,
+      "slug": "2026-07-30-sometimiento-otro_gao-caqueta",
+      "operacion_id": "2026-07-30-sometimiento-otro_gao-caqueta",
+      "fecha": "2026-07-30",
+      "org": "OTRO_GAO",
+      "grupo_detalle": null,
+      "departamento": "Caquetá",
+      "municipio": null,
+      "lugar": null,
+      "fuerza": [
+        "EJERCITO"
+      ],
+      "bajas": 0,
+      "capturas": 0,
+      "sometimientos": 1,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 1,
+      "materiales": {
+        "dinero_cop": 40000000
+      },
+      "aliases": [
+        "Marlon Díaz"
+      ],
+      "descripcion": "Un integrante del GAO se sometió a la justicia, siendo el hombre de confianza de un cabecilla y parte de su esquema de seguridad.",
+      "estado_verificacion": "confirmado",
+      "reportado_oficialmente": true,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://www.ejercito.mil.co/ejercito-nacional-asesto-un-contundente-golpe-a-las-finanzas-de-la-estructura-residual-rodrigo-cadete-un-integrante-sometido-a-la-justicia-y-40-millones-incautados-producto-de-extorsiones",
+          "tipo": "oficial",
+          "medio": "Ejército Nacional",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-30"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 113,
+      "slug": "2026-07-29-captura-clan_del_golfo-op",
+      "operacion_id": "2026-07-29-captura-clan_del_golfo-op",
+      "fecha": "2026-07-29",
+      "org": "CLAN_DEL_GOLFO",
+      "grupo_detalle": null,
+      "departamento": null,
+      "municipio": "Donmatías",
+      "lugar": null,
+      "fuerza": [],
+      "bajas": 0,
+      "capturas": 6,
+      "sometimientos": 0,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 6,
+      "materiales": {},
+      "aliases": [],
+      "descripcion": "La Fuerza Pública capturó a 6 personas vinculadas al Clan del Golfo y destruyó dragas de minería ilegal en Donmatías.",
+      "estado_verificacion": "reportado",
+      "reportado_oficialmente": false,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://h13n.com/clan-del-golfo-mineria-ilegal-en-donmatias/",
+          "tipo": "agregador",
+          "medio": "Fuente periodística",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-29"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 112,
       "slug": "2026-07-29-captura-clan_del_golfo-antioquia",
       "operacion_id": "2026-07-29-captura-clan_del_golfo-antioquia",
       "fecha": "2026-07-29",
@@ -591,10 +871,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 104,
+      "id": 111,
       "slug": "2026-07-29-operacion-desconocido-cauca",
       "operacion_id": "2026-07-29-operacion-desconocido-cauca",
       "fecha": "2026-07-29",
@@ -630,10 +910,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 103,
+      "id": 110,
       "slug": "2026-07-29-captura-otro_gao-op",
       "operacion_id": "2026-07-29-captura-otro_gao-op",
       "fecha": "2026-07-29",
@@ -669,10 +949,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 45,
+      "id": 46,
       "slug": "2026-07-29-sometimiento-clan_del_golfo-choco",
       "operacion_id": "2026-07-29-sometimiento-clan_del_golfo-choco",
       "fecha": "2026-07-29",
@@ -706,10 +986,49 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 102,
+      "id": 109,
+      "slug": "2026-07-28-captura-emc-bolivar",
+      "operacion_id": "2026-07-28-captura-emc-bolivar",
+      "fecha": "2026-07-28",
+      "org": "EMC",
+      "grupo_detalle": "Estructura 37",
+      "departamento": "Bolívar",
+      "municipio": "Santa Rosa del Sur",
+      "lugar": "vereda La Cabaña",
+      "fuerza": [
+        "EJERCITO"
+      ],
+      "bajas": 0,
+      "capturas": 1,
+      "sometimientos": 0,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 1,
+      "materiales": {},
+      "aliases": [
+        "Pescado Picho"
+      ],
+      "descripcion": "Tropas de la Fuerza de Despliegue Rápido N.° 9 lograron la captura de alias Pescado Picho, presunto cabecilla de la red de apoyo a estructuras residuales del GAO-r Estructura 37.",
+      "estado_verificacion": "reportado",
+      "reportado_oficialmente": false,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://santamarta24horas.com/ejercito-nacional-asesta-duro-golpe-al-gao-r-estructura-37-en-el-sur-de-bolivar-capturado-alias-pescado-picho/",
+          "tipo": "agregador",
+          "medio": "Fuente periodística",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-28"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 108,
       "slug": "2026-07-28-captura-clan_del_golfo-meta",
       "operacion_id": "2026-07-28-captura-clan_del_golfo-meta",
       "fecha": "2026-07-28",
@@ -745,10 +1064,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 101,
+      "id": 107,
       "slug": "2026-07-28-operacion-eln-op-2",
       "operacion_id": "2026-07-28-operacion-eln-op-2",
       "fecha": "2026-07-28",
@@ -782,10 +1101,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 100,
+      "id": 106,
       "slug": "2026-07-28-operacion-eln-casanare",
       "operacion_id": "2026-07-28-operacion-eln-casanare",
       "fecha": "2026-07-28",
@@ -819,49 +1138,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 99,
-      "slug": "2026-07-28-captura-otro_gao-bolivar",
-      "operacion_id": "2026-07-28-captura-otro_gao-bolivar",
-      "fecha": "2026-07-28",
-      "org": "OTRO_GAO",
-      "grupo_detalle": null,
-      "departamento": "Bolívar",
-      "municipio": null,
-      "lugar": null,
-      "fuerza": [
-        "EJERCITO"
-      ],
-      "bajas": 0,
-      "capturas": 1,
-      "sometimientos": 0,
-      "desmovilizaciones": 0,
-      "sin_desglose": 0,
-      "total_neutralizados": 1,
-      "materiales": {},
-      "aliases": [
-        "Pescado Picho"
-      ],
-      "descripcion": "Alias Pescado Picho fue capturado tras una operación del Ejército en el sur de Bolívar.",
-      "estado_verificacion": "reportado",
-      "reportado_oficialmente": false,
-      "incluido_en_conteo": true,
-      "fuentes": [
-        {
-          "url": "https://caracol.com.co/2026/07/28/capturado-alias-pescado-picho-tras-operacion-del-ejercito-en-el-sur-de-bolivar/",
-          "tipo": "medio_nacional",
-          "medio": "Caracol Radio",
-          "fecha_consulta": null,
-          "fecha_publicacion": "2026-07-28"
-        }
-      ],
-      "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
-    },
-    {
-      "id": 98,
+      "id": 105,
       "slug": "2026-07-28-operacion-eln-op",
       "operacion_id": "2026-07-28-operacion-eln-op",
       "fecha": "2026-07-28",
@@ -899,10 +1179,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 97,
+      "id": 104,
       "slug": "2026-07-28-operacion-desconocido-valle-del-cauca",
       "operacion_id": "2026-07-28-operacion-desconocido-valle-del-cauca",
       "fecha": "2026-07-28",
@@ -938,51 +1218,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 44,
-      "slug": "2026-07-28-captura-otro_gao-op",
-      "operacion_id": "2026-07-28-captura-otro_gao-op",
-      "fecha": "2026-07-28",
-      "org": "OTRO_GAO",
-      "grupo_detalle": "Estructura 33",
-      "departamento": null,
-      "municipio": "Ocaña",
-      "lugar": null,
-      "fuerza": [
-        "EJERCITO",
-        "POLICIA"
-      ],
-      "bajas": 0,
-      "capturas": 5,
-      "sometimientos": 0,
-      "desmovilizaciones": 0,
-      "sin_desglose": 0,
-      "total_neutralizados": 5,
-      "materiales": {
-        "armas": 1,
-        "explosivos_kg": 1
-      },
-      "aliases": [],
-      "descripcion": "En el operativo fueron capturados cinco presuntos integrantes de la Estructura 33, además se incautaron un arma de fuego, una granada de fragmentación, munición, estupefacientes, equipos de comunicación y motocicletas.",
-      "estado_verificacion": "confirmado",
-      "reportado_oficialmente": true,
-      "incluido_en_conteo": true,
-      "fuentes": [
-        {
-          "url": "https://www.ejercito.mil.co/golpe-al-gaor-estructura-33-ejercito-y-policia-capturan-a-cinco-presuntos-integrantes-en-ocana",
-          "tipo": "oficial",
-          "medio": "Ejército Nacional",
-          "fecha_consulta": null,
-          "fecha_publicacion": "2026-07-28"
-        }
-      ],
-      "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
-    },
-    {
-      "id": 43,
+      "id": 45,
       "slug": "2026-07-28-captura-otro_gao-antioquia",
       "operacion_id": "2026-07-28-captura-otro_gao-antioquia",
       "fecha": "2026-07-28",
@@ -1027,7 +1266,101 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 33,
+      "slug": "2026-07-28-captura-otro_gao-bolivar",
+      "operacion_id": "2026-07-28-captura-otro_gao-bolivar",
+      "fecha": "2026-07-28",
+      "org": "OTRO_GAO",
+      "grupo_detalle": null,
+      "departamento": "Bolívar",
+      "municipio": null,
+      "lugar": null,
+      "fuerza": [
+        "EJERCITO"
+      ],
+      "bajas": 0,
+      "capturas": 1,
+      "sometimientos": 0,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 1,
+      "materiales": {},
+      "aliases": [
+        "Pescado Picho"
+      ],
+      "descripcion": "Alias Pescado Picho fue capturado tras una operación del Ejército en el sur de Bolívar.",
+      "estado_verificacion": "corroborado",
+      "reportado_oficialmente": false,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://caracol.com.co/2026/07/28/capturado-alias-pescado-picho-tras-operacion-del-ejercito-en-el-sur-de-bolivar/",
+          "tipo": "medio_nacional",
+          "medio": "Caracol Radio",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-28"
+        },
+        {
+          "url": "https://noticiaselboom.com/capturan-a-alias-pescado-picho-senalado-de-dirigir-ataques-con-drones-contra-el-ejercito/",
+          "tipo": "agregador",
+          "medio": "Fuente periodística",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-29"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 32,
+      "slug": "2026-07-28-captura-otro_gao-op",
+      "operacion_id": "2026-07-28-captura-otro_gao-op",
+      "fecha": "2026-07-28",
+      "org": "OTRO_GAO",
+      "grupo_detalle": "Estructura 33",
+      "departamento": null,
+      "municipio": "Ocaña",
+      "lugar": null,
+      "fuerza": [
+        "EJERCITO",
+        "POLICIA"
+      ],
+      "bajas": 0,
+      "capturas": 5,
+      "sometimientos": 0,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 5,
+      "materiales": {
+        "armas": 1,
+        "explosivos_kg": 1
+      },
+      "aliases": [],
+      "descripcion": "En el operativo fueron capturados cinco presuntos integrantes de la Estructura 33, además se incautaron un arma de fuego, una granada de fragmentación, munición, estupefacientes, equipos de comunicación y motocicletas.",
+      "estado_verificacion": "confirmado",
+      "reportado_oficialmente": true,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://www.ejercito.mil.co/golpe-al-gaor-estructura-33-ejercito-y-policia-capturan-a-cinco-presuntos-integrantes-en-ocana",
+          "tipo": "oficial",
+          "medio": "Ejército Nacional",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-28"
+        },
+        {
+          "url": "https://elfrente.com.co/cinco-capturados-con-armamento-explosivos-droga-y-equipos-de-comunicacion-en-ocana/",
+          "tipo": "agregador",
+          "medio": "Fuente periodística",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-30"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 31,
@@ -1090,10 +1423,47 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 96,
+      "id": 103,
+      "slug": "2026-07-27-captura-eln-cesar",
+      "operacion_id": "2026-07-27-captura-eln-cesar",
+      "fecha": "2026-07-27",
+      "org": "ELN",
+      "grupo_detalle": "Frente Camilo Torres Restrepo",
+      "departamento": "Cesar",
+      "municipio": "Chimichagua",
+      "lugar": null,
+      "fuerza": [
+        "EJERCITO"
+      ],
+      "bajas": 0,
+      "capturas": 1,
+      "sometimientos": 0,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 1,
+      "materiales": {},
+      "aliases": [],
+      "descripcion": "Un presunto integrante del ELN fue capturado por tropas del Ejército Nacional durante una operación militar en Chimichagua, Cesar.",
+      "estado_verificacion": "reportado",
+      "reportado_oficialmente": false,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://www.diariodelcesar.com/archivos/343871/ejercito-capturo-a-presunto-integrante-del-eln-tras-combates/",
+          "tipo": "agregador",
+          "medio": "Fuente periodística",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-27"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 102,
       "slug": "2026-07-27-operacion-eln-op",
       "operacion_id": "2026-07-27-operacion-eln-op",
       "fecha": "2026-07-27",
@@ -1127,10 +1497,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 95,
+      "id": 101,
       "slug": "2026-07-27-baja-eln-op",
       "operacion_id": "2026-07-27-baja-eln-op",
       "fecha": "2026-07-27",
@@ -1164,10 +1534,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 94,
+      "id": 100,
       "slug": "2026-07-27-operacion-eln-casanare",
       "operacion_id": "2026-07-27-operacion-eln-casanare",
       "fecha": "2026-07-27",
@@ -1201,10 +1571,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 42,
+      "id": 44,
       "slug": "2026-07-27-operacion-desconocido-huila",
       "operacion_id": "2026-07-27-operacion-desconocido-huila",
       "fecha": "2026-07-27",
@@ -1241,10 +1611,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 41,
+      "id": 43,
       "slug": "2026-07-27-captura-desconocido-huila",
       "operacion_id": "2026-07-27-captura-desconocido-huila",
       "fecha": "2026-07-27",
@@ -1281,10 +1651,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 40,
+      "id": 42,
       "slug": "2026-07-27-sometimiento-emc-op",
       "operacion_id": "2026-07-27-sometimiento-emc-op",
       "fecha": "2026-07-27",
@@ -1318,10 +1688,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 39,
+      "id": 41,
       "slug": "2026-07-27-captura-embf-huila",
       "operacion_id": "2026-07-27-captura-embf-huila",
       "fecha": "2026-07-27",
@@ -1357,10 +1727,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 38,
+      "id": 40,
       "slug": "2026-07-27-captura-otro_gao-cauca",
       "operacion_id": "2026-07-27-captura-otro_gao-cauca",
       "fecha": "2026-07-27",
@@ -1396,7 +1766,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 14,
@@ -1473,10 +1843,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 93,
+      "id": 99,
       "slug": "2026-07-26-captura-emc-caqueta",
       "operacion_id": "2026-07-26-captura-emc-caqueta",
       "fecha": "2026-07-26",
@@ -1512,7 +1882,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 30,
@@ -1558,84 +1928,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 4,
-      "slug": "2026-07-26-operacion-eln-casanare",
-      "operacion_id": "2026-07-26-operacion-eln-casanare",
-      "fecha": "2026-07-26",
-      "org": "ELN",
-      "grupo_detalle": null,
-      "departamento": "Casanare",
-      "municipio": null,
-      "lugar": null,
-      "fuerza": [
-        "EJERCITO"
-      ],
-      "bajas": 0,
-      "capturas": 0,
-      "sometimientos": 0,
-      "desmovilizaciones": 0,
-      "sin_desglose": 0,
-      "total_neutralizados": 0,
-      "materiales": {
-        "dinero_cop": 100000000
-      },
-      "aliases": [],
-      "descripcion": "Además de la baja, se realizó una incautación millonaria de material de guerra durante la operación.",
-      "estado_verificacion": "confirmado",
-      "reportado_oficialmente": true,
-      "incluido_en_conteo": true,
-      "fuentes": [
-        {
-          "url": "https://www.ejercito.mil.co/ejercito-nacional-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-abundante-material-de-guerra-en-casanare",
-          "tipo": "oficial",
-          "medio": "Ejército Nacional",
-          "fecha_consulta": null,
-          "fecha_publicacion": "2026-07-27"
-        },
-        {
-          "url": "https://www.ejercito.mil.co/ejercito-nacional-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-abundante-material-de-guerra-en-casanare-643147",
-          "tipo": "oficial",
-          "medio": "Ejército Nacional",
-          "fecha_consulta": null,
-          "fecha_publicacion": "2026-07-27"
-        },
-        {
-          "url": "https://www.semana.com/nacion/articulo/video-operacion-del-ejercito-contra-el-eln-en-casanare-dejo-un-muerto-y-millonaria-incautacion-de-guerra/202618/",
-          "tipo": "medio_nacional",
-          "medio": "Semana",
-          "fecha_consulta": null,
-          "fecha_publicacion": "2026-07-26"
-        },
-        {
-          "url": "https://lachivadeuraba.com/ejercito-reporto-la-muerte-de-un-integrante-del-eln-y-la-incautacion-de-material-de-guerra/",
-          "tipo": "agregador",
-          "medio": "Fuente periodística",
-          "fecha_consulta": null,
-          "fecha_publicacion": "2026-07-28"
-        },
-        {
-          "url": "https://noticiasenlinea.com.co/ejercito-nacional-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-abundante-material-de-guerra-en-casanare/",
-          "tipo": "agregador",
-          "medio": "Fuente periodística",
-          "fecha_consulta": null,
-          "fecha_publicacion": "2026-07-27"
-        },
-        {
-          "url": "https://www.collector.com.tr/1004578587/video-operacion-del-ejercito-contra-el-eln-en-casanare-dejo-un-muerto-y-millonar",
-          "tipo": "agregador",
-          "medio": "Fuente periodística",
-          "fecha_consulta": null,
-          "fecha_publicacion": "2026-07-26"
-        }
-      ],
-      "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
-    },
-    {
-      "id": 3,
       "slug": "2026-07-26-baja-eln-casanare",
       "operacion_id": "2026-07-26-baja-eln-casanare",
       "fecha": "2026-07-26",
@@ -1734,10 +2030,91 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 92,
+      "id": 2,
+      "slug": "2026-07-26-operacion-eln-casanare",
+      "operacion_id": "2026-07-26-operacion-eln-casanare",
+      "fecha": "2026-07-26",
+      "org": "ELN",
+      "grupo_detalle": null,
+      "departamento": "Casanare",
+      "municipio": null,
+      "lugar": null,
+      "fuerza": [
+        "EJERCITO"
+      ],
+      "bajas": 0,
+      "capturas": 0,
+      "sometimientos": 0,
+      "desmovilizaciones": 0,
+      "sin_desglose": 0,
+      "total_neutralizados": 0,
+      "materiales": {
+        "dinero_cop": 100000000
+      },
+      "aliases": [],
+      "descripcion": "Además de la baja, se realizó una incautación millonaria de material de guerra durante la operación.",
+      "estado_verificacion": "confirmado",
+      "reportado_oficialmente": true,
+      "incluido_en_conteo": true,
+      "fuentes": [
+        {
+          "url": "https://www.ejercito.mil.co/ejercito-nacional-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-abundante-material-de-guerra-en-casanare",
+          "tipo": "oficial",
+          "medio": "Ejército Nacional",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-27"
+        },
+        {
+          "url": "https://www.ejercito.mil.co/ejercito-nacional-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-abundante-material-de-guerra-en-casanare-643147",
+          "tipo": "oficial",
+          "medio": "Ejército Nacional",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-27"
+        },
+        {
+          "url": "https://www.semana.com/nacion/articulo/video-operacion-del-ejercito-contra-el-eln-en-casanare-dejo-un-muerto-y-millonaria-incautacion-de-guerra/202618/",
+          "tipo": "medio_nacional",
+          "medio": "Semana",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-26"
+        },
+        {
+          "url": "https://lachivadeuraba.com/ejercito-reporto-la-muerte-de-un-integrante-del-eln-y-la-incautacion-de-material-de-guerra/",
+          "tipo": "agregador",
+          "medio": "Fuente periodística",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-28"
+        },
+        {
+          "url": "https://noticiasenlinea.com.co/ejercito-nacional-neutraliza-en-combate-a-un-integrante-del-eln-e-incauta-abundante-material-de-guerra-en-casanare/",
+          "tipo": "agregador",
+          "medio": "Fuente periodística",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-27"
+        },
+        {
+          "url": "https://www.collector.com.tr/1004578587/video-operacion-del-ejercito-contra-el-eln-en-casanare-dejo-un-muerto-y-millonar",
+          "tipo": "agregador",
+          "medio": "Fuente periodística",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-26"
+        },
+        {
+          "url": "https://www.diariodelcesar.com/archivos/343871/ejercito-capturo-a-presunto-integrante-del-eln-tras-combates/",
+          "tipo": "agregador",
+          "medio": "Fuente periodística",
+          "fecha_consulta": null,
+          "fecha_publicacion": "2026-07-27"
+        }
+      ],
+      "notas_revision": [],
+      "actualizado": "2026-07-31 04:01:22.255074+00"
+    },
+    {
+      "id": 98,
       "slug": "2026-07-25-captura-otro_gao-op",
       "operacion_id": "2026-07-25-captura-otro_gao-op",
       "fecha": "2026-07-25",
@@ -1774,10 +2151,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 91,
+      "id": 97,
       "slug": "2026-07-25-baja-emc-narino",
       "operacion_id": "2026-07-25-baja-emc-narino",
       "fecha": "2026-07-25",
@@ -1812,10 +2189,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 90,
+      "id": 96,
       "slug": "2026-07-25-captura-emc-cauca",
       "operacion_id": "2026-07-25-captura-emc-cauca",
       "fecha": "2026-07-25",
@@ -1859,10 +2236,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 37,
+      "id": 39,
       "slug": "2026-07-25-operacion-otro_gao-narino",
       "operacion_id": "2026-07-25-operacion-otro_gao-narino",
       "fecha": "2026-07-25",
@@ -1896,7 +2273,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 29,
@@ -1941,10 +2318,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 89,
+      "id": 95,
       "slug": "2026-07-24-operacion-otro_gao-caqueta",
       "operacion_id": "2026-07-24-operacion-otro_gao-caqueta",
       "fecha": "2026-07-24",
@@ -1981,10 +2358,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 88,
+      "id": 94,
       "slug": "2026-07-24-captura-otro_gao-antioquia",
       "operacion_id": "2026-07-24-captura-otro_gao-antioquia",
       "fecha": "2026-07-24",
@@ -2023,10 +2400,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 87,
+      "id": 93,
       "slug": "2026-07-24-baja-clan_del_golfo-antioquia",
       "operacion_id": "2026-07-24-baja-clan_del_golfo-antioquia",
       "fecha": "2026-07-24",
@@ -2060,10 +2437,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 86,
+      "id": 92,
       "slug": "2026-07-24-operacion-clan_del_golfo-tolima",
       "operacion_id": "2026-07-24-operacion-clan_del_golfo-tolima",
       "fecha": "2026-07-24",
@@ -2101,10 +2478,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 36,
+      "id": 38,
       "slug": "2026-07-24-sometimiento-otro_gao-caqueta",
       "operacion_id": "2026-07-24-sometimiento-otro_gao-caqueta",
       "fecha": "2026-07-24",
@@ -2145,7 +2522,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 28,
@@ -2199,7 +2576,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 27,
@@ -2246,10 +2623,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 85,
+      "id": 91,
       "slug": "2026-07-23-baja-emc-cauca",
       "operacion_id": "2026-07-23-baja-emc-cauca",
       "fecha": "2026-07-23",
@@ -2285,10 +2662,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 84,
+      "id": 90,
       "slug": "2026-07-23-captura-embf-meta",
       "operacion_id": "2026-07-23-captura-embf-meta",
       "fecha": "2026-07-23",
@@ -2324,10 +2701,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 83,
+      "id": 89,
       "slug": "2026-07-23-operacion-desconocido-op",
       "operacion_id": "2026-07-23-operacion-desconocido-op",
       "fecha": "2026-07-23",
@@ -2363,10 +2740,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 82,
+      "id": 88,
       "slug": "2026-07-23-baja-emc-op",
       "operacion_id": "2026-07-23-baja-emc-op",
       "fecha": "2026-07-23",
@@ -2400,10 +2777,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 81,
+      "id": 87,
       "slug": "2026-07-23-captura-otro_gao-santander",
       "operacion_id": "2026-07-23-captura-otro_gao-santander",
       "fecha": "2026-07-23",
@@ -2439,10 +2816,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 35,
+      "id": 37,
       "slug": "2026-07-23-operacion-eln-op",
       "operacion_id": "2026-07-23-operacion-eln-op",
       "fecha": "2026-07-23",
@@ -2478,10 +2855,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 80,
+      "id": 86,
       "slug": "2026-07-22-operacion-otro_gao-la-guajira",
       "operacion_id": "2026-07-22-operacion-otro_gao-la-guajira",
       "fecha": "2026-07-22",
@@ -2517,10 +2894,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 79,
+      "id": 85,
       "slug": "2026-07-22-captura-otro_gao-op-3",
       "operacion_id": "2026-07-22-captura-otro_gao-op-3",
       "fecha": "2026-07-22",
@@ -2557,10 +2934,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 78,
+      "id": 84,
       "slug": "2026-07-22-captura-emc-op",
       "operacion_id": "2026-07-22-captura-emc-op",
       "fecha": "2026-07-22",
@@ -2595,10 +2972,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 77,
+      "id": 83,
       "slug": "2026-07-22-operacion-desconocido-op",
       "operacion_id": "2026-07-22-operacion-desconocido-op",
       "fecha": "2026-07-22",
@@ -2632,10 +3009,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 76,
+      "id": 82,
       "slug": "2026-07-22-captura-otro_gao-op-2",
       "operacion_id": "2026-07-22-captura-otro_gao-op-2",
       "fecha": "2026-07-22",
@@ -2670,10 +3047,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 75,
+      "id": 81,
       "slug": "2026-07-22-operacion-desconocido-narino",
       "operacion_id": "2026-07-22-operacion-desconocido-narino",
       "fecha": "2026-07-22",
@@ -2707,7 +3084,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 26,
@@ -2751,7 +3128,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 25,
@@ -2796,7 +3173,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 13,
@@ -2851,7 +3228,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 12,
@@ -2902,7 +3279,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 8,
@@ -2965,7 +3342,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 6,
@@ -3048,10 +3425,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 74,
+      "id": 80,
       "slug": "2026-07-21-captura-eln-norte-de-santander",
       "operacion_id": "2026-07-21-captura-eln-norte-de-santander",
       "fecha": "2026-07-21",
@@ -3099,10 +3476,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 34,
+      "id": 36,
       "slug": "2026-07-21-operacion-desconocido-quindio",
       "operacion_id": "2026-07-21-operacion-desconocido-quindio",
       "fecha": "2026-07-21",
@@ -3138,7 +3515,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 24,
@@ -3188,7 +3565,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 23,
@@ -3232,7 +3609,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 11,
@@ -3287,7 +3664,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 10,
@@ -3372,10 +3749,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 2,
+      "id": 3,
       "slug": "2026-07-21-captura-clan_del_golfo-cesar",
       "operacion_id": "2026-07-21-captura-clan_del_golfo-cesar",
       "fecha": "2026-07-21",
@@ -3461,10 +3838,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 73,
+      "id": 79,
       "slug": "2026-07-20-operacion-desconocido-op",
       "operacion_id": "2026-07-20-operacion-desconocido-op",
       "fecha": "2026-07-20",
@@ -3502,10 +3879,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 72,
+      "id": 78,
       "slug": "2026-07-20-operacion-clan_del_golfo-magdalena",
       "operacion_id": "2026-07-20-operacion-clan_del_golfo-magdalena",
       "fecha": "2026-07-20",
@@ -3539,10 +3916,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 71,
+      "id": 77,
       "slug": "2026-07-20-captura-clan_del_golfo-magdalena",
       "operacion_id": "2026-07-20-captura-clan_del_golfo-magdalena",
       "fecha": "2026-07-20",
@@ -3578,10 +3955,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 33,
+      "id": 35,
       "slug": "2026-07-20-captura-eln-antioquia",
       "operacion_id": "2026-07-20-captura-eln-antioquia",
       "fecha": "2026-07-20",
@@ -3640,10 +4017,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 70,
+      "id": 76,
       "slug": "2026-07-19-operacion-clan_del_golfo-op",
       "operacion_id": "2026-07-19-operacion-clan_del_golfo-op",
       "fecha": "2026-07-19",
@@ -3677,10 +4054,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 69,
+      "id": 75,
       "slug": "2026-07-19-captura-clan_del_golfo-op",
       "operacion_id": "2026-07-19-captura-clan_del_golfo-op",
       "fecha": "2026-07-19",
@@ -3714,10 +4091,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 68,
+      "id": 74,
       "slug": "2026-07-19-baja-segunda_marquetalia-op",
       "operacion_id": "2026-07-19-baja-segunda_marquetalia-op",
       "fecha": "2026-07-19",
@@ -3757,13 +4134,13 @@
       "notas_revision": [
         {
           "nota": "Existe información pública contradictoria sobre si alias 'Ñeque' y 'Marlon' fueron realmente dados de baja. Se excluye del conteo hasta corroborar.",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 32,
+      "id": 34,
       "slug": "2026-07-19-captura-embf-meta",
       "operacion_id": "2026-07-19-captura-embf-meta",
       "fecha": "2026-07-19",
@@ -3802,13 +4179,13 @@
       "notas_revision": [
         {
           "nota": "Captura y hallazgo de 220 kg de pentolita del mismo operativo (venían como registros separados).",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 67,
+      "id": 73,
       "slug": "2026-07-18-captura-emc-op",
       "operacion_id": "2026-07-18-captura-emc-op",
       "fecha": "2026-07-18",
@@ -3843,10 +4220,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 66,
+      "id": 72,
       "slug": "2026-07-18-baja-otro_gao-antioquia",
       "operacion_id": "2026-07-18-baja-otro_gao-antioquia",
       "fecha": "2026-07-18",
@@ -3882,10 +4259,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 65,
+      "id": 71,
       "slug": "2026-07-18-captura-eln-antioquia",
       "operacion_id": "2026-07-18-captura-eln-antioquia",
       "fecha": "2026-07-18",
@@ -3923,10 +4300,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 64,
+      "id": 70,
       "slug": "2026-07-18-captura-segunda_marquetalia-meta",
       "operacion_id": "2026-07-18-captura-segunda_marquetalia-meta",
       "fecha": "2026-07-18",
@@ -3967,10 +4344,10 @@
       "notas_revision": [
         {
           "nota": "Captura de alias Jimmi y 220 kg de explosivos del mismo operativo. Los 220 kg podrían solaparse con el hallazgo de Puerto Rico; pendiente de corroborar.",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 22,
@@ -4038,7 +4415,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 21,
@@ -4087,10 +4464,10 @@
       "notas_revision": [
         {
           "nota": "Combate en Jericó (2 bajas) y hallazgo de caleta de armas consolidados en una operación.",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 5,
@@ -4165,10 +4542,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 63,
+      "id": 69,
       "slug": "2026-07-17-captura-clan_del_golfo-sucre",
       "operacion_id": "2026-07-17-captura-clan_del_golfo-sucre",
       "fecha": "2026-07-17",
@@ -4206,10 +4583,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 62,
+      "id": 68,
       "slug": "2026-07-17-captura-eln-norte-de-santander",
       "operacion_id": "2026-07-17-captura-eln-norte-de-santander",
       "fecha": "2026-07-17",
@@ -4243,10 +4620,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 61,
+      "id": 67,
       "slug": "2026-07-17-operacion-desconocido-antioquia",
       "operacion_id": "2026-07-17-operacion-desconocido-antioquia",
       "fecha": "2026-07-17",
@@ -4283,7 +4660,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 20,
@@ -4327,7 +4704,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 19,
@@ -4372,7 +4749,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 18,
@@ -4416,10 +4793,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 60,
+      "id": 66,
       "slug": "2026-07-16-operacion-desconocido-op",
       "operacion_id": "2026-07-16-operacion-desconocido-op",
       "fecha": "2026-07-16",
@@ -4455,10 +4832,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 59,
+      "id": 65,
       "slug": "2026-07-16-captura-clan_del_golfo-bolivar",
       "operacion_id": "2026-07-16-captura-clan_del_golfo-bolivar",
       "fecha": "2026-07-16",
@@ -4501,10 +4878,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 58,
+      "id": 64,
       "slug": "2026-07-16-captura-emc-huila",
       "operacion_id": "2026-07-16-captura-emc-huila",
       "fecha": "2026-07-16",
@@ -4542,10 +4919,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 46,
+      "id": 52,
       "slug": "2026-07-16-captura-emc-narino",
       "operacion_id": "2026-07-16-captura-emc-narino",
       "fecha": "2026-07-16",
@@ -4604,10 +4981,10 @@
       "notas_revision": [
         {
           "nota": "Captura de 2 disidentes e incautación de armas del mismo operativo.",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 17,
@@ -4653,7 +5030,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 1,
@@ -4791,13 +5168,13 @@
       "notas_revision": [
         {
           "nota": "Cuatro reportes del mismo operativo (captura del jefe de finanzas del Frente Dagoberto Ramos) consolidados en una sola operación.",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 57,
+      "id": 63,
       "slug": "2026-07-14-captura-clan_del_golfo-magdalena-2",
       "operacion_id": "2026-07-14-captura-clan_del_golfo-magdalena-2",
       "fecha": "2026-07-14",
@@ -4833,10 +5210,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 56,
+      "id": 62,
       "slug": "2026-07-14-captura-segunda_marquetalia-tolima",
       "operacion_id": "2026-07-14-captura-segunda_marquetalia-tolima",
       "fecha": "2026-07-14",
@@ -4872,7 +5249,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 16,
@@ -4917,7 +5294,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 15,
@@ -4966,13 +5343,13 @@
       "notas_revision": [
         {
           "nota": "Interdicción marítima en el Pacífico: 212 kg de cocaína y 3 tripulantes capturados (aparecían como incautación y captura por separado).",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 55,
+      "id": 61,
       "slug": "2026-07-13-operacion-desconocido-narino",
       "operacion_id": "2026-07-13-operacion-desconocido-narino",
       "fecha": "2026-07-13",
@@ -5008,10 +5385,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 54,
+      "id": 60,
       "slug": "2026-07-13-captura-embf-op",
       "operacion_id": "2026-07-13-captura-embf-op",
       "fecha": "2026-07-13",
@@ -5047,10 +5424,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 53,
+      "id": 59,
       "slug": "2026-07-13-captura-clan_del_golfo-norte-de-santander",
       "operacion_id": "2026-07-13-captura-clan_del_golfo-norte-de-santander",
       "fecha": "2026-07-13",
@@ -5084,10 +5461,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 49,
+      "id": 55,
       "slug": "2026-07-13-captura-emc-valle-del-cauca",
       "operacion_id": "2026-07-13-captura-emc-valle-del-cauca",
       "fecha": "2026-07-13",
@@ -5135,13 +5512,13 @@
       "notas_revision": [
         {
           "nota": "Captura de alias 'El Indio' y 'J' (Frente 57). La mención de 'Diamante' en uno de los reportes era errónea: 'Diamante' fue dado de baja en Bolívar, no capturado en el Valle.",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 48,
+      "id": 54,
       "slug": "2026-07-13-sometimiento-emc-huila",
       "operacion_id": "2026-07-13-sometimiento-emc-huila",
       "fecha": "2026-07-13",
@@ -5184,10 +5561,10 @@
       "notas_revision": [
         {
           "nota": "Sometimiento de 3 integrantes del frente Ismael Ruiz reportado en dos departamentos (Huila/Tolima); probable mismo hecho, consolidado.",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 7,
@@ -5249,13 +5626,13 @@
       "notas_revision": [
         {
           "nota": "Muerte de alias 'Diamante' reportada cuatro veces con cifras contradictorias (1 a 3). El registro de '3 neutralizados' era el consolidado de Diamante más las 2 bajas de Jericó. Se cuenta 1 baja.",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 52,
+      "id": 58,
       "slug": "2026-07-11-operacion-segunda_marquetalia-op",
       "operacion_id": "2026-07-11-operacion-segunda_marquetalia-op",
       "fecha": "2026-07-11",
@@ -5292,10 +5669,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 51,
+      "id": 57,
       "slug": "2026-07-11-captura-segunda_marquetalia-op",
       "operacion_id": "2026-07-11-captura-segunda_marquetalia-op",
       "fecha": "2026-07-11",
@@ -5332,7 +5709,7 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
       "id": 9,
@@ -5383,10 +5760,10 @@
         }
       ],
       "notas_revision": [],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 50,
+      "id": 56,
       "slug": "2026-07-08-captura-emc-cauca",
       "operacion_id": "2026-07-08-captura-emc-cauca",
       "fecha": "2026-07-08",
@@ -5423,13 +5800,13 @@
       "notas_revision": [
         {
           "nota": "Captura de 2 cabecillas e incautación asociada (sin cantidades precisas) consolidadas.",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     },
     {
-      "id": 47,
+      "id": 53,
       "slug": "2026-07-07-sometimiento-clan_del_golfo-choco",
       "operacion_id": "2026-07-07-sometimiento-clan_del_golfo-choco",
       "fecha": "2026-07-07",
@@ -5475,10 +5852,10 @@
       "notas_revision": [
         {
           "nota": "Sometimiento de 8 integrantes reportado dos veces (fechas distintas) más el material entregado.",
-          "fecha": "2026-07-30"
+          "fecha": "2026-07-31"
         }
       ],
-      "actualizado": "2026-07-30 04:01:37.24507+00"
+      "actualizado": "2026-07-31 04:01:22.255074+00"
     }
   ],
   "organizaciones": [
@@ -5488,10 +5865,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 8,
-      "ops": 14,
+      "personas": 9,
+      "ops": 15,
       "bajas": 2,
-      "capturas": 6,
+      "capturas": 7,
       "sometimientos": 0
     },
     {
@@ -5500,10 +5877,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 48,
-      "ops": 18,
+      "personas": 49,
+      "ops": 19,
       "bajas": 8,
-      "capturas": 36,
+      "capturas": 37,
       "sometimientos": 4
     },
     {
@@ -5512,11 +5889,11 @@
       "largo": "Estado Mayor de los Bloques y Frentes, facción de alias 'Calarcá'",
       "tipo": "disidencia FARC",
       "color": "#6c5ce7",
-      "personas": 8,
-      "ops": 5,
+      "personas": 9,
+      "ops": 6,
       "bajas": 0,
       "capturas": 7,
-      "sometimientos": 1
+      "sometimientos": 2
     },
     {
       "key": "SEGUNDA_MARQUETALIA",
@@ -5536,10 +5913,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 39,
-      "ops": 22,
+      "personas": 46,
+      "ops": 24,
       "bajas": 5,
-      "capturas": 25,
+      "capturas": 32,
       "sometimientos": 9
     },
     {
@@ -5560,11 +5937,11 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 67,
-      "ops": 23,
+      "personas": 71,
+      "ops": 25,
       "bajas": 1,
-      "capturas": 65,
-      "sometimientos": 1
+      "capturas": 68,
+      "sometimientos": 2
     },
     {
       "key": "DESCONOCIDO",
@@ -5572,16 +5949,16 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 3,
-      "ops": 16,
+      "personas": 4,
+      "ops": 18,
       "bajas": 0,
-      "capturas": 3,
+      "capturas": 4,
       "sometimientos": 0
     }
   ],
   "correcciones": [
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-29-captura-clan_del_golfo-antioquia",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-29-captura-clan_del_golfo-antioquia",
@@ -5591,7 +5968,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-27-captura-embf-caqueta",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-29-sometimiento-embf-op",
@@ -5601,7 +5978,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-28-captura-emc-norte-de-santander",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-29-captura-emc-op",
@@ -5611,7 +5988,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-24-captura-clan_del_golfo-cordoba",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-27-captura-clan_del_golfo-cordoba",
@@ -5621,7 +5998,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-27-captura-embf-caqueta",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-26-captura-embf-caqueta",
@@ -5631,7 +6008,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-25-captura-emc-cauca",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-25-captura-emc-cauca",
@@ -5641,7 +6018,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-16-captura-emc-cauca",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-24-captura-emc-cauca",
@@ -5651,7 +6028,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-24-sometimiento-otro_gao-caqueta",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-24-sometimiento-otro_gao-caqueta",
@@ -5661,7 +6038,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-28-captura-otro_gao-antioquia",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-24-captura-otro_gao-antioquia",
@@ -5671,7 +6048,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-16-captura-emc-cauca",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-24-operacion-emc-cauca",
@@ -5681,7 +6058,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-16-captura-emc-cauca",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-24-captura-emc-cauca",
@@ -5691,7 +6068,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-16-captura-emc-cauca",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-24-captura-emc-cauca",
@@ -5701,7 +6078,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-21-captura-eln-norte-de-santander",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-22-captura-eln-norte-de-santander",
@@ -5711,7 +6088,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-20-captura-eln-antioquia",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-21-captura-eln-antioquia",
@@ -5721,7 +6098,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-18-captura-clan_del_golfo-antioquia",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-21-captura-clan_del_golfo-antioquia",
@@ -5731,7 +6108,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-21-captura-segunda_marquetalia-meta",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-21-operacion-segunda_marquetalia-meta",
@@ -5741,7 +6118,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-20-captura-eln-antioquia",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-21-captura-eln-antioquia",
@@ -5751,7 +6128,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-20-captura-eln-antioquia",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-19-captura-eln-antioquia",
@@ -5761,7 +6138,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-16-captura-clan_del_golfo-bolivar",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-17-captura-clan_del_golfo-bolivar",
@@ -5771,7 +6148,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-16-captura-emc-cauca",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-16-captura-emc-cauca",
@@ -5781,7 +6158,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-27-captura-embf-caqueta",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-27-captura-embf-caqueta",
@@ -5791,7 +6168,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-21-captura-eln-santander",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-23-captura-eln-santander",
@@ -5801,7 +6178,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-21-captura-clan_del_golfo-cesar",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-22-captura-clan_del_golfo-cesar",
@@ -5811,7 +6188,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-21-captura-clan_del_golfo-cesar",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-22-captura-clan_del_golfo-op",
@@ -5821,7 +6198,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-22-captura-emc-cauca",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-23-captura-emc-cauca",
@@ -5831,7 +6208,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-18-captura-emc-antioquia",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-21-captura-emc-antioquia",
@@ -5841,7 +6218,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-16-captura-emc-cauca",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-19-captura-emc-cauca",
@@ -5851,7 +6228,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-21-captura-eln-santander",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-21-captura-eln-santander",
@@ -5861,7 +6238,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-26-baja-eln-casanare",
       "campo": "duplicado_auto",
       "valor_anterior": "2026-07-27-baja-eln-casanare",
@@ -5871,7 +6248,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-19-baja-segunda_marquetalia-op",
       "campo": "estado_verificacion",
       "valor_anterior": "reportado",
@@ -5881,7 +6258,7 @@
       "delta_total": -2
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-18-captura-segunda_marquetalia-meta",
       "campo": "duplicados",
       "valor_anterior": "2 registros (ids [15, 16])",
@@ -5891,7 +6268,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-13-captura-emc-valle-del-cauca",
       "campo": "duplicados",
       "valor_anterior": "2 registros (ids [31, 30])",
@@ -5901,7 +6278,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-13-sometimiento-emc-huila",
       "campo": "duplicados",
       "valor_anterior": "2 registros (ids [18, 41])",
@@ -5911,7 +6288,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-14-captura-otro_gao-choco",
       "campo": "duplicados",
       "valor_anterior": "2 registros (ids [1, 24])",
@@ -5921,7 +6298,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-07-sometimiento-clan_del_golfo-choco",
       "campo": "duplicados",
       "valor_anterior": "2 registros (ids [45, 44])",
@@ -5931,7 +6308,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-08-captura-emc-cauca",
       "campo": "duplicados",
       "valor_anterior": "2 registros (ids [39, 40])",
@@ -5941,7 +6318,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-16-captura-emc-narino",
       "campo": "duplicados",
       "valor_anterior": "2 registros (ids [13, 14])",
@@ -5951,7 +6328,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-19-captura-embf-meta",
       "campo": "duplicados",
       "valor_anterior": "2 registros (ids [3, 4])",
@@ -5961,7 +6338,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-18-baja-clan_del_golfo-antioquia",
       "campo": "duplicados",
       "valor_anterior": "3 registros (ids [11, 6, 12])",
@@ -5971,7 +6348,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-12-baja-clan_del_golfo-bolivar",
       "campo": "duplicados",
       "valor_anterior": "4 registros (ids [25, 26, 28, 32])",
@@ -5981,7 +6358,7 @@
       "delta_total": 0
     },
     {
-      "fecha": "2026-07-30",
+      "fecha": "2026-07-31",
       "operacion_slug": "2026-07-16-captura-emc-cauca",
       "campo": "duplicados",
       "valor_anterior": "4 registros (ids [19, 27, 29, 35])",
@@ -6101,6 +6478,12 @@
       ],
       "recompensa_cop": 5000,
       "noticias": [
+        {
+          "titulo": "Operación Agamenón contra el Clan del Golfo no ha terminado",
+          "url": "https://www.elnuevosiglo.com.co/nacion/operacion-agamenon-contra-el-clan-del-golfo-no-ha-terminado",
+          "fuente": "BUSQUEDA_EXA",
+          "fecha": "2026-07-25"
+        },
         {
           "titulo": "Cae alias 'Diamante', cabecilla del Clan del Golfo que sembraba miedo en El Bagre y Segovia",
           "url": "https://www.lafm.com.co/orden-publico/cae-alias-diamante-cabecilla-clan-del-golfo-operacion-justiciero-antioquia-404811",
@@ -8813,6 +9196,12 @@
       "recompensa_cop": 1000,
       "noticias": [
         {
+          "titulo": "Horóscopo del Profesor Salomón hoy 30 de julio: Piscis y Escorpión con grandes pronósticos",
+          "url": "https://caracol.com.co/2026/07/30/horoscopo-del-profesor-salomon-hoy-30-de-julio-piscis-y-escorpion-con-grandes-pronosticos/",
+          "fuente": "CARACOL_RADIO",
+          "fecha": "2026-07-30"
+        },
+        {
           "titulo": "¿Quién era Alberto Jasso? El profesor mexicano que murió tras una denuncia de presunto abuso",
           "url": "https://laopinion.co/sucesos/quien-era-alberto-jasso-el-profesor-mexicano-que-murio-tras-una-denuncia-de-presunto-abuso",
           "fuente": "LA_OPINION",
@@ -8835,12 +9224,6 @@
           "url": "https://caracol.com.co/2026/07/24/horoscopo-del-profesor-salomon-hoy-24-de-julio-leo-y-geminis-con-grandes-pronosticos/",
           "fuente": "CARACOL_RADIO",
           "fecha": "2026-07-24"
-        },
-        {
-          "titulo": "Horóscopo de HOY 23 de julio con el Profesor Salomón: ¿Qué están haciendo mal los signos?",
-          "url": "https://caracol.com.co/2026/07/23/horoscopo-de-hoy-23-de-julio-con-el-profesor-salomon-que-estan-haciendo-mal-los-signos/",
-          "fuente": "CARACOL_RADIO",
-          "fecha": "2026-07-23"
         }
       ]
     },
