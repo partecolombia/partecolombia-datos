@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-08-01T04:01:48.061767+00:00",
+    "generado": "2026-08-02T04:02:06.346077+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": true,
     "total": 224,
@@ -15,7 +15,7 @@
     "desmovilizaciones": 0,
     "sin_desglose": 0,
     "total": 224,
-    "en_reportado": 124,
+    "en_reportado": 123,
     "operaciones": 122
   },
   "conteo_oficial": {
@@ -35,7 +35,7 @@
     "desmovilizaciones": 0,
     "sin_desglose": 0,
     "total": 224,
-    "en_reportado": 124,
+    "en_reportado": 123,
     "operaciones": 122
   },
   "mapa_departamentos": [
