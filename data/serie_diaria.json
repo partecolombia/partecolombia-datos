@@ -214,5 +214,32 @@
     "desmovilizaciones": 0,
     "sin_desglose": 0,
     "total": 8
+  },
+  {
+    "fecha": "2026-08-01",
+    "bajas": 1,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 3
+  },
+  {
+    "fecha": "2026-08-02",
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 2
+  },
+  {
+    "fecha": "2026-08-03",
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 2
   }
 ]

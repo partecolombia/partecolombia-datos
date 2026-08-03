@@ -1,22 +1,22 @@
 {
   "meta": {
-    "generado": "2026-08-02T04:02:06.346077+00:00",
+    "generado": "2026-08-03T04:01:44.509602+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": true,
-    "total": 224,
-    "total_crudo": 287,
-    "operaciones": 123,
+    "total": 231,
+    "total_crudo": 295,
+    "operaciones": 130,
     "recompensas_total_cop": 49042
   },
   "conteo_calibracion": {
-    "bajas": 21,
-    "capturas": 186,
+    "bajas": 22,
+    "capturas": 192,
     "sometimientos": 17,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 224,
-    "en_reportado": 123,
-    "operaciones": 122
+    "total": 231,
+    "en_reportado": 129,
+    "operaciones": 129
   },
   "conteo_oficial": {
     "bajas": 0,
@@ -29,14 +29,14 @@
     "operaciones": 0
   },
   "conteo_total": {
-    "bajas": 21,
-    "capturas": 186,
+    "bajas": 22,
+    "capturas": 192,
     "sometimientos": 17,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 224,
-    "en_reportado": 123,
-    "operaciones": 122
+    "total": 231,
+    "en_reportado": 129,
+    "operaciones": 129
   },
   "mapa_departamentos": [
     {
@@ -71,7 +71,7 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 18,
-      "operaciones": 7,
+      "operaciones": 9,
       "lat": 2.53,
       "lon": -75.52999999999999
     },
@@ -88,6 +88,18 @@
       "lon": -75.23
     },
     {
+      "departamento": "Cauca",
+      "bajas": 3,
+      "capturas": 11,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 14,
+      "operaciones": 10,
+      "lat": 2.5300000000000002,
+      "lon": -76.80999999999999
+    },
+    {
       "departamento": "Chocó",
       "bajas": 0,
       "capturas": 4,
@@ -100,27 +112,15 @@
       "lon": -76.78
     },
     {
-      "departamento": "Cauca",
-      "bajas": 3,
-      "capturas": 9,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 12,
-      "operaciones": 8,
-      "lat": 2.53,
-      "lon": -76.81
-    },
-    {
       "departamento": "Santander",
       "bajas": 0,
-      "capturas": 11,
+      "capturas": 13,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 11,
-      "operaciones": 2,
-      "lat": 6.92,
+      "personas": 13,
+      "operaciones": 3,
+      "lat": 6.919999999999999,
       "lon": -73.15
     },
     {
@@ -196,6 +196,18 @@
       "lon": -75.53
     },
     {
+      "departamento": "Vichada",
+      "bajas": 3,
+      "capturas": 0,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 3,
+      "operaciones": 3,
+      "lat": 4.44,
+      "lon": -69.28
+    },
+    {
       "departamento": "Cesar",
       "bajas": 0,
       "capturas": 3,
@@ -230,18 +242,6 @@
       "operaciones": 1,
       "lat": 9.17,
       "lon": -75.4
-    },
-    {
-      "departamento": "Vichada",
-      "bajas": 2,
-      "capturas": 0,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 2,
-      "operaciones": 2,
-      "lat": 4.44,
-      "lon": -69.28
     },
     {
       "departamento": "Córdoba",
@@ -311,10 +311,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 9,
-      "ops": 15,
+      "personas": 11,
+      "ops": 17,
       "bajas": 2,
-      "capturas": 7,
+      "capturas": 9,
       "sometimientos": 0
     },
     {
@@ -347,9 +347,9 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 19,
-      "ops": 7,
-      "bajas": 1,
+      "personas": 20,
+      "ops": 9,
+      "bajas": 2,
       "capturas": 18,
       "sometimientos": 0
     },
@@ -383,10 +383,10 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 76,
-      "ops": 28,
+      "personas": 78,
+      "ops": 29,
       "bajas": 3,
-      "capturas": 71,
+      "capturas": 73,
       "sometimientos": 2
     },
     {
@@ -395,10 +395,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 6,
-      "ops": 19,
+      "personas": 8,
+      "ops": 21,
       "bajas": 0,
-      "capturas": 6,
+      "capturas": 8,
       "sometimientos": 0
     }
   ]
