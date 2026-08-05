@@ -1,22 +1,22 @@
 {
   "meta": {
-    "generado": "2026-08-04T04:01:32.199486+00:00",
+    "generado": "2026-08-05T04:01:32.885610+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": true,
-    "total": 251,
-    "total_crudo": 320,
-    "operaciones": 139,
+    "total": 329,
+    "total_crudo": 400,
+    "operaciones": 152,
     "recompensas_total_cop": 49042
   },
   "conteo_calibracion": {
-    "bajas": 29,
-    "capturas": 204,
-    "sometimientos": 18,
-    "desmovilizaciones": 0,
+    "bajas": 37,
+    "capturas": 210,
+    "sometimientos": 66,
+    "desmovilizaciones": 16,
     "sin_desglose": 0,
-    "total": 251,
-    "en_reportado": 146,
-    "operaciones": 138
+    "total": 329,
+    "en_reportado": 201,
+    "operaciones": 151
   },
   "conteo_oficial": {
     "bajas": 0,
@@ -29,16 +29,28 @@
     "operaciones": 0
   },
   "conteo_total": {
-    "bajas": 29,
-    "capturas": 204,
-    "sometimientos": 18,
-    "desmovilizaciones": 0,
+    "bajas": 37,
+    "capturas": 210,
+    "sometimientos": 66,
+    "desmovilizaciones": 16,
     "sin_desglose": 0,
-    "total": 251,
-    "en_reportado": 146,
-    "operaciones": 138
+    "total": 329,
+    "en_reportado": 201,
+    "operaciones": 151
   },
   "mapa_departamentos": [
+    {
+      "departamento": "Nariño",
+      "bajas": 13,
+      "capturas": 5,
+      "sometimientos": 32,
+      "desmov": 16,
+      "sin_desglose": 0,
+      "personas": 66,
+      "operaciones": 16,
+      "lat": 1.6000000000000003,
+      "lon": -78.08
+    },
     {
       "departamento": "Antioquia",
       "bajas": 5,
@@ -74,6 +86,18 @@
       "operaciones": 9,
       "lat": 2.53,
       "lon": -75.52999999999999
+    },
+    {
+      "departamento": "Santander",
+      "bajas": 0,
+      "capturas": 16,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 16,
+      "operaciones": 4,
+      "lat": 6.92,
+      "lon": -73.15
     },
     {
       "departamento": "Tolima",
@@ -122,30 +146,6 @@
       "operaciones": 4,
       "lat": 5.71,
       "lon": -76.78
-    },
-    {
-      "departamento": "Santander",
-      "bajas": 0,
-      "capturas": 13,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 13,
-      "operaciones": 3,
-      "lat": 6.919999999999999,
-      "lon": -73.15
-    },
-    {
-      "departamento": "Nariño",
-      "bajas": 8,
-      "capturas": 4,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 12,
-      "operaciones": 10,
-      "lat": 1.5999999999999999,
-      "lon": -78.08000000000001
     },
     {
       "departamento": "Norte de Santander",
@@ -232,18 +232,6 @@
       "lon": -76.63
     },
     {
-      "departamento": "Córdoba",
-      "bajas": 0,
-      "capturas": 2,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 2,
-      "operaciones": 1,
-      "lat": 8.33,
-      "lon": -75.93
-    },
-    {
       "departamento": "Sucre",
       "bajas": 0,
       "capturas": 2,
@@ -254,6 +242,18 @@
       "operaciones": 1,
       "lat": 9.17,
       "lon": -75.4
+    },
+    {
+      "departamento": "Córdoba",
+      "bajas": 0,
+      "capturas": 2,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 2,
+      "operaciones": 1,
+      "lat": 8.33,
+      "lon": -75.93
     },
     {
       "departamento": "Atlántico",
@@ -311,9 +311,9 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 14,
-      "ops": 20,
-      "bajas": 4,
+      "personas": 17,
+      "ops": 21,
+      "bajas": 7,
       "capturas": 10,
       "sometimientos": 0
     },
@@ -323,11 +323,11 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 51,
-      "ops": 21,
+      "personas": 67,
+      "ops": 23,
       "bajas": 9,
       "capturas": 37,
-      "sometimientos": 5
+      "sometimientos": 21
     },
     {
       "key": "EMBF",
@@ -347,11 +347,11 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 22,
-      "ops": 11,
+      "personas": 38,
+      "ops": 12,
       "bajas": 4,
       "capturas": 18,
-      "sometimientos": 0
+      "sometimientos": 16
     },
     {
       "key": "CLAN_DEL_GOLFO",
@@ -359,10 +359,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 57,
-      "ops": 28,
+      "personas": 60,
+      "ops": 29,
       "bajas": 6,
-      "capturas": 42,
+      "capturas": 45,
       "sometimientos": 9
     },
     {
@@ -383,11 +383,11 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 90,
-      "ops": 31,
-      "bajas": 6,
-      "capturas": 82,
-      "sometimientos": 2
+      "personas": 109,
+      "ops": 35,
+      "bajas": 8,
+      "capturas": 83,
+      "sometimientos": 18
     },
     {
       "key": "DESCONOCIDO",
@@ -395,10 +395,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 8,
-      "ops": 21,
-      "bajas": 0,
-      "capturas": 8,
+      "personas": 29,
+      "ops": 25,
+      "bajas": 3,
+      "capturas": 10,
       "sometimientos": 0
     }
   ]
