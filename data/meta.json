@@ -1,42 +1,42 @@
 {
   "meta": {
-    "generado": "2026-08-08T04:03:12.725676+00:00",
+    "generado": "2026-08-09T04:03:09.474008+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 430,
-    "total_crudo": 509,
-    "operaciones": 186,
+    "total": 436,
+    "total_crudo": 518,
+    "operaciones": 192,
     "recompensas_total_cop": 49042
   },
   "conteo_calibracion": {
     "bajas": 43,
-    "capturas": 226,
+    "capturas": 225,
     "sometimientos": 105,
     "desmovilizaciones": 16,
     "sin_desglose": 5,
-    "total": 395,
-    "en_reportado": 206,
-    "operaciones": 180
+    "total": 394,
+    "en_reportado": 202,
+    "operaciones": 179
   },
   "conteo_oficial": {
     "bajas": 1,
-    "capturas": 0,
+    "capturas": 7,
     "sometimientos": 34,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 35,
-    "en_reportado": 19,
-    "operaciones": 5
+    "total": 42,
+    "en_reportado": 20,
+    "operaciones": 12
   },
   "conteo_total": {
     "bajas": 44,
-    "capturas": 226,
+    "capturas": 232,
     "sometimientos": 139,
     "desmovilizaciones": 16,
     "sin_desglose": 5,
-    "total": 430,
-    "en_reportado": 225,
-    "operaciones": 185
+    "total": 436,
+    "en_reportado": 222,
+    "operaciones": 191
   },
   "mapa_departamentos": [
     {
@@ -52,6 +52,18 @@
       "lon": -78.07999999999998
     },
     {
+      "departamento": "Huila",
+      "bajas": 0,
+      "capturas": 26,
+      "sometimientos": 6,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 32,
+      "operaciones": 13,
+      "lat": 2.5300000000000002,
+      "lon": -75.52999999999999
+    },
+    {
       "departamento": "Antioquia",
       "bajas": 5,
       "capturas": 26,
@@ -64,28 +76,16 @@
       "lon": -75.83
     },
     {
-      "departamento": "Huila",
-      "bajas": 0,
-      "capturas": 24,
-      "sometimientos": 6,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 30,
-      "operaciones": 11,
-      "lat": 2.5300000000000002,
-      "lon": -75.52999999999999
-    },
-    {
       "departamento": "Meta",
       "bajas": 0,
-      "capturas": 24,
+      "capturas": 26,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 24,
-      "operaciones": 8,
-      "lat": 3.27,
-      "lon": -73.08
+      "personas": 26,
+      "operaciones": 10,
+      "lat": 3.2700000000000005,
+      "lon": -73.08000000000001
     },
     {
       "departamento": "Cauca",
@@ -196,6 +196,18 @@
       "lon": -74.02999999999999
     },
     {
+      "departamento": "Magdalena",
+      "bajas": 0,
+      "capturas": 5,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 5,
+      "operaciones": 5,
+      "lat": 10.41,
+      "lon": -74.41
+    },
+    {
       "departamento": "Putumayo",
       "bajas": 0,
       "capturas": 4,
@@ -206,18 +218,6 @@
       "operaciones": 3,
       "lat": 0.43,
       "lon": -75.53
-    },
-    {
-      "departamento": "Magdalena",
-      "bajas": 0,
-      "capturas": 4,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 4,
-      "operaciones": 4,
-      "lat": 10.41,
-      "lon": -74.41
     },
     {
       "departamento": "Vichada",
@@ -323,10 +323,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 17,
-      "ops": 21,
+      "personas": 18,
+      "ops": 22,
       "bajas": 7,
-      "capturas": 10,
+      "capturas": 11,
       "sometimientos": 0
     },
     {
@@ -335,10 +335,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 109,
-      "ops": 31,
+      "personas": 110,
+      "ops": 32,
       "bajas": 11,
-      "capturas": 38,
+      "capturas": 39,
       "sometimientos": 55
     },
     {
@@ -359,10 +359,10 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 43,
-      "ops": 15,
+      "personas": 44,
+      "ops": 16,
       "bajas": 5,
-      "capturas": 19,
+      "capturas": 20,
       "sometimientos": 19
     },
     {
@@ -395,10 +395,10 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 133,
-      "ops": 42,
+      "personas": 134,
+      "ops": 43,
       "bajas": 12,
-      "capturas": 85,
+      "capturas": 86,
       "sometimientos": 36
     },
     {
@@ -407,10 +407,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 47,
-      "ops": 34,
+      "personas": 49,
+      "ops": 36,
       "bajas": 3,
-      "capturas": 10,
+      "capturas": 12,
       "sometimientos": 18
     }
   ]
