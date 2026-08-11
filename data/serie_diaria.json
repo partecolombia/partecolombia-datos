@@ -334,11 +334,20 @@
   },
   {
     "fecha": "2026-08-10",
-    "bajas": 10,
+    "bajas": 23,
     "capturas": 12,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 22
+    "total": 35
+  },
+  {
+    "fecha": "2026-08-11",
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 0
   }
 ]
