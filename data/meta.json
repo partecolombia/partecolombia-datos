@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-08-16T04:01:35.483017+00:00",
+    "generado": "2026-08-17T04:01:51.291113+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 599,
-    "total_crudo": 743,
-    "operaciones": 263,
+    "total": 604,
+    "total_crudo": 751,
+    "operaciones": 271,
     "recompensas_total_cop": 49042
   },
   "conteo_calibracion": {
@@ -20,23 +20,23 @@
   },
   "conteo_oficial": {
     "bajas": 73,
-    "capturas": 77,
+    "capturas": 81,
     "sometimientos": 45,
-    "desmovilizaciones": 0,
+    "desmovilizaciones": 1,
     "sin_desglose": 0,
-    "total": 195,
+    "total": 200,
     "en_reportado": 97,
-    "operaciones": 83
+    "operaciones": 91
   },
   "conteo_total": {
     "bajas": 126,
-    "capturas": 302,
+    "capturas": 306,
     "sometimientos": 150,
-    "desmovilizaciones": 16,
+    "desmovilizaciones": 17,
     "sin_desglose": 5,
-    "total": 599,
+    "total": 604,
     "en_reportado": 306,
-    "operaciones": 262
+    "operaciones": 270
   },
   "mapa_departamentos": [
     {
@@ -59,7 +59,7 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 63,
-      "operaciones": 32,
+      "operaciones": 33,
       "lat": 6.550000000000003,
       "lon": -75.82999999999997
     },
@@ -148,6 +148,18 @@
       "lon": -72.5
     },
     {
+      "departamento": "Cesar",
+      "bajas": 0,
+      "capturas": 9,
+      "sometimientos": 0,
+      "desmov": 1,
+      "sin_desglose": 0,
+      "personas": 10,
+      "operaciones": 8,
+      "lat": 9.799999999999999,
+      "lon": -73.35000000000001
+    },
+    {
       "departamento": "Caquetá",
       "bajas": 1,
       "capturas": 4,
@@ -172,26 +184,14 @@
       "lon": -76.63
     },
     {
-      "departamento": "Cesar",
-      "bajas": 0,
-      "capturas": 6,
+      "departamento": "Bolívar",
+      "bajas": 1,
+      "capturas": 5,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 6,
-      "operaciones": 6,
-      "lat": 9.799999999999999,
-      "lon": -73.35000000000001
-    },
-    {
-      "departamento": "Bolívar",
-      "bajas": 1,
-      "capturas": 4,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 5,
-      "operaciones": 7,
+      "operaciones": 8,
       "lat": 8.67,
       "lon": -74.02999999999999
     },
@@ -335,10 +335,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 29,
-      "ops": 34,
+      "personas": 33,
+      "ops": 36,
       "bajas": 15,
-      "capturas": 13,
+      "capturas": 16,
       "sometimientos": 1
     },
     {
@@ -383,10 +383,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 103,
-      "ops": 50,
+      "personas": 104,
+      "ops": 53,
       "bajas": 20,
-      "capturas": 74,
+      "capturas": 75,
       "sometimientos": 9
     },
     {
@@ -420,7 +420,7 @@
       "tipo": "sin determinar",
       "color": "#4a5568",
       "personas": 69,
-      "ops": 47,
+      "ops": 50,
       "bajas": 10,
       "capturas": 25,
       "sometimientos": 18
