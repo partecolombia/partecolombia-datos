@@ -365,8 +365,8 @@
     "capturas": 5,
     "sometimientos": 3,
     "desmovilizaciones": 0,
-    "sin_desglose": 0,
-    "total": 10
+    "sin_desglose": 2,
+    "total": 12
   },
   {
     "fecha": "2026-08-14",
@@ -388,12 +388,21 @@
   },
   {
     "fecha": "2026-08-16",
-    "bajas": 0,
+    "bajas": 1,
     "capturas": 4,
     "sometimientos": 0,
     "desmovilizaciones": 1,
     "sin_desglose": 0,
-    "total": 5
+    "total": 6
+  },
+  {
+    "fecha": "2026-08-17",
+    "bajas": 0,
+    "capturas": 4,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 4
   },
   {
     "fecha": "2026-09-08",
