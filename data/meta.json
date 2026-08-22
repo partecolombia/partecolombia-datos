@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-08-21T04:01:48.335675+00:00",
+    "generado": "2026-08-22T04:01:58.496622+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 667,
-    "total_crudo": 831,
-    "operaciones": 315,
+    "total": 669,
+    "total_crudo": 834,
+    "operaciones": 321,
     "recompensas_total_cop": 49042
   },
   "conteo_calibracion": {
@@ -21,33 +21,33 @@
   "conteo_oficial": {
     "bajas": 76,
     "capturas": 136,
-    "sometimientos": 47,
+    "sometimientos": 49,
     "desmovilizaciones": 1,
     "sin_desglose": 2,
-    "total": 262,
-    "en_reportado": 144,
-    "operaciones": 134
+    "total": 264,
+    "en_reportado": 138,
+    "operaciones": 140
   },
   "conteo_total": {
     "bajas": 130,
     "capturas": 361,
-    "sometimientos": 152,
+    "sometimientos": 154,
     "desmovilizaciones": 17,
     "sin_desglose": 7,
-    "total": 667,
-    "en_reportado": 354,
-    "operaciones": 314
+    "total": 669,
+    "en_reportado": 348,
+    "operaciones": 320
   },
   "mapa_departamentos": [
     {
       "departamento": "Nariño",
       "bajas": 18,
       "capturas": 5,
-      "sometimientos": 102,
+      "sometimientos": 104,
       "desmov": 16,
       "sin_desglose": 0,
-      "personas": 141,
-      "operaciones": 24,
+      "personas": 143,
+      "operaciones": 25,
       "lat": 1.6000000000000005,
       "lon": -78.07999999999997
     },
@@ -384,7 +384,7 @@
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
       "personas": 119,
-      "ops": 60,
+      "ops": 61,
       "bajas": 20,
       "capturas": 90,
       "sometimientos": 9
@@ -407,11 +407,11 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 186,
-      "ops": 68,
+      "personas": 188,
+      "ops": 69,
       "bajas": 22,
       "capturas": 126,
-      "sometimientos": 38
+      "sometimientos": 40
     },
     {
       "key": "DESCONOCIDO",
@@ -420,7 +420,7 @@
       "tipo": "sin determinar",
       "color": "#4a5568",
       "personas": 83,
-      "ops": 58,
+      "ops": 62,
       "bajas": 10,
       "capturas": 39,
       "sometimientos": 18
