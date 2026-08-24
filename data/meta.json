@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-08-23T04:01:35.136007+00:00",
+    "generado": "2026-08-24T04:01:37.206557+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 701,
-    "total_crudo": 866,
-    "operaciones": 333,
+    "total": 714,
+    "total_crudo": 885,
+    "operaciones": 341,
     "recompensas_total_cop": 49042
   },
   "conteo_calibracion": {
@@ -20,23 +20,23 @@
   },
   "conteo_oficial": {
     "bajas": 80,
-    "capturas": 164,
+    "capturas": 176,
     "sometimientos": 49,
-    "desmovilizaciones": 1,
+    "desmovilizaciones": 2,
     "sin_desglose": 2,
-    "total": 296,
-    "en_reportado": 162,
-    "operaciones": 152
+    "total": 309,
+    "en_reportado": 167,
+    "operaciones": 160
   },
   "conteo_total": {
     "bajas": 134,
-    "capturas": 389,
+    "capturas": 401,
     "sometimientos": 154,
-    "desmovilizaciones": 17,
+    "desmovilizaciones": 18,
     "sin_desglose": 7,
-    "total": 701,
-    "en_reportado": 372,
-    "operaciones": 332
+    "total": 714,
+    "en_reportado": 377,
+    "operaciones": 340
   },
   "mapa_departamentos": [
     {
@@ -126,12 +126,12 @@
     {
       "departamento": "Cesar",
       "bajas": 0,
-      "capturas": 14,
+      "capturas": 19,
       "sometimientos": 0,
-      "desmov": 1,
+      "desmov": 2,
       "sin_desglose": 0,
-      "personas": 15,
-      "operaciones": 11,
+      "personas": 21,
+      "operaciones": 14,
       "lat": 9.799999999999999,
       "lon": -73.35000000000001
     },
@@ -143,7 +143,7 @@
       "desmov": 0,
       "sin_desglose": 2,
       "personas": 15,
-      "operaciones": 11,
+      "operaciones": 12,
       "lat": 7.950000000000002,
       "lon": -72.5
     },
@@ -184,6 +184,18 @@
       "lon": -74.02999999999999
     },
     {
+      "departamento": "Guaviare",
+      "bajas": 1,
+      "capturas": 7,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 8,
+      "operaciones": 7,
+      "lat": 2.0399999999999996,
+      "lon": -72.33
+    },
+    {
       "departamento": "Valle del Cauca",
       "bajas": 4,
       "capturas": 3,
@@ -196,16 +208,16 @@
       "lon": -76.63
     },
     {
-      "departamento": "Guaviare",
-      "bajas": 1,
-      "capturas": 5,
+      "departamento": "Magdalena",
+      "bajas": 0,
+      "capturas": 7,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 6,
-      "operaciones": 6,
-      "lat": 2.0399999999999996,
-      "lon": -72.33
+      "personas": 7,
+      "operaciones": 7,
+      "lat": 10.409999999999998,
+      "lon": -74.40999999999998
     },
     {
       "departamento": "Sucre",
@@ -218,18 +230,6 @@
       "operaciones": 2,
       "lat": 9.17,
       "lon": -75.4
-    },
-    {
-      "departamento": "Magdalena",
-      "bajas": 0,
-      "capturas": 5,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 5,
-      "operaciones": 6,
-      "lat": 10.409999999999998,
-      "lon": -74.40999999999998
     },
     {
       "departamento": "Putumayo",
@@ -335,8 +335,8 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 38,
-      "ops": 41,
+      "personas": 39,
+      "ops": 42,
       "bajas": 18,
       "capturas": 16,
       "sometimientos": 1
@@ -371,10 +371,10 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 62,
-      "ops": 23,
+      "personas": 64,
+      "ops": 24,
       "bajas": 14,
-      "capturas": 26,
+      "capturas": 28,
       "sometimientos": 22
     },
     {
@@ -383,10 +383,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 146,
-      "ops": 68,
+      "personas": 154,
+      "ops": 71,
       "bajas": 24,
-      "capturas": 113,
+      "capturas": 121,
       "sometimientos": 9
     },
     {
@@ -419,10 +419,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 83,
-      "ops": 64,
+      "personas": 85,
+      "ops": 67,
       "bajas": 10,
-      "capturas": 39,
+      "capturas": 41,
       "sometimientos": 18
     }
   ]
