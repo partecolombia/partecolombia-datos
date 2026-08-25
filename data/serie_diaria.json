@@ -461,11 +461,20 @@
   {
     "fecha": "2026-08-23",
     "bajas": 0,
-    "capturas": 2,
+    "capturas": 5,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 2
+    "total": 5
+  },
+  {
+    "fecha": "2026-08-24",
+    "bajas": 0,
+    "capturas": 59,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 59
   },
   {
     "fecha": "2026-09-08",
