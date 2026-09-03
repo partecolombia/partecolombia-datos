@@ -506,6 +506,30 @@
     ]
   },
   {
+    "id": 51,
+    "alias": "Tigre",
+    "otros_alias": [
+      "Pintado"
+    ],
+    "nombre_real": null,
+    "grupo": "EMC",
+    "estructura": "Frente Carolina Ramírez",
+    "rol": "Cabecilla del Frente Carolina Ramírez y hombre de confianza de Iván Mordisco",
+    "crimenes": null,
+    "estado": "abatido",
+    "estado_fecha": "2026-09-01",
+    "estado_detalle": "Abatido el 1 de septiembre de 2026 en el tercer bombardeo de la Operación Azarías, en Guaviare. La baja fue confirmada de forma individual por el Gobierno y la prensa nacional.",
+    "prioridad": 2,
+    "recompensa_cop": null,
+    "ubicacion_posible": null,
+    "departamentos": null,
+    "fuentes": [
+      "https://www.elespectador.com/  — «Muere alias 'Tigre', alfil de Mordisco, y otros 19 presuntos disidentes en tercer bombardeo ordenado por De la Espriella» (1-sep-2026)",
+      "https://www.eltiempo.com/ — «De La Espriella confirma golpe a disidencias de 'Mordisco': en bombardeo fue dado de baja alias Tigre» (1-sep-2026)",
+      "https://noticias.caracoltv.com/ — «Bombardeo en Guaviare deja 20 muertos: uno era hombre de confianza de Mordisco» (1-sep-2026)"
+    ]
+  },
+  {
     "id": 45,
     "alias": "Cristian Camilo González Ardila",
     "otros_alias": null,
@@ -1337,9 +1361,9 @@
       "reclutamiento forzado",
       "ataques a población civil"
     ],
-    "estado": "buscado",
-    "estado_fecha": null,
-    "estado_detalle": "buscado; recompensa anunciada por MinDefensa (mar-2026)",
+    "estado": "abatido",
+    "estado_fecha": "2024-08-27",
+    "estado_detalle": "Juan Antonio Agudelo Salazar, conocido como 'Urías Perdomo', fue abatido en un bombardeo a un complejo de campamentos artesanales.",
     "prioridad": 3,
     "recompensa_cop": 400,
     "ubicacion_posible": "Caquetá (Cartagena del Chairá)",
