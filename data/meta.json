@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-09-03T04:39:14.049951+00:00",
+    "generado": "2026-09-04T04:02:01.416919+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 807,
-    "total_crudo": 2925,
-    "operaciones": 388,
+    "total": 840,
+    "total_crudo": 2962,
+    "operaciones": 394,
     "recompensas_total_cop": 48642
   },
   "conteo_calibracion": {
@@ -19,24 +19,24 @@
     "operaciones": 168
   },
   "conteo_oficial": {
-    "bajas": 118,
-    "capturas": 332,
+    "bajas": 138,
+    "capturas": 345,
     "sometimientos": 29,
     "desmovilizaciones": 2,
     "sin_desglose": 39,
-    "total": 520,
-    "en_reportado": 194,
-    "operaciones": 215
+    "total": 553,
+    "en_reportado": 214,
+    "operaciones": 221
   },
   "conteo_total": {
-    "bajas": 156,
-    "capturas": 537,
+    "bajas": 176,
+    "capturas": 550,
     "sometimientos": 68,
     "desmovilizaciones": 2,
     "sin_desglose": 44,
-    "total": 807,
-    "en_reportado": 341,
-    "operaciones": 383
+    "total": 840,
+    "en_reportado": 361,
+    "operaciones": 389
   },
   "mapa_departamentos": [
     {
@@ -88,6 +88,30 @@
       "lon": -76.80999999999997
     },
     {
+      "departamento": "Tolima",
+      "bajas": 0,
+      "capturas": 24,
+      "sometimientos": 3,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 27,
+      "operaciones": 9,
+      "lat": 3.8700000000000006,
+      "lon": -75.23
+    },
+    {
+      "departamento": "Nariño",
+      "bajas": 12,
+      "capturas": 11,
+      "sometimientos": 2,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 25,
+      "operaciones": 21,
+      "lat": 1.6000000000000003,
+      "lon": -78.07999999999998
+    },
+    {
       "departamento": "Santander",
       "bajas": 2,
       "capturas": 22,
@@ -95,21 +119,9 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 24,
-      "operaciones": 8,
+      "operaciones": 9,
       "lat": 6.920000000000001,
       "lon": -73.14999999999999
-    },
-    {
-      "departamento": "Tolima",
-      "bajas": 0,
-      "capturas": 20,
-      "sometimientos": 3,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 23,
-      "operaciones": 8,
-      "lat": 3.8700000000000006,
-      "lon": -75.23
     },
     {
       "departamento": "Huila",
@@ -124,18 +136,6 @@
       "lon": -75.52999999999999
     },
     {
-      "departamento": "Cesar",
-      "bajas": 0,
-      "capturas": 20,
-      "sometimientos": 0,
-      "desmov": 2,
-      "sin_desglose": 0,
-      "personas": 22,
-      "operaciones": 15,
-      "lat": 9.8,
-      "lon": -73.35
-    },
-    {
       "departamento": "Norte de Santander",
       "bajas": 4,
       "capturas": 16,
@@ -148,16 +148,16 @@
       "lon": -72.5
     },
     {
-      "departamento": "Nariño",
-      "bajas": 12,
-      "capturas": 7,
-      "sometimientos": 2,
-      "desmov": 0,
+      "departamento": "Cesar",
+      "bajas": 0,
+      "capturas": 20,
+      "sometimientos": 0,
+      "desmov": 2,
       "sin_desglose": 0,
-      "personas": 21,
-      "operaciones": 20,
-      "lat": 1.6000000000000003,
-      "lon": -78.07999999999998
+      "personas": 22,
+      "operaciones": 15,
+      "lat": 9.8,
+      "lon": -73.35
     },
     {
       "departamento": "Bolívar",
@@ -268,18 +268,6 @@
       "lon": -75.93
     },
     {
-      "departamento": "La Guajira",
-      "bajas": 0,
-      "capturas": 3,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 3,
-      "operaciones": 4,
-      "lat": 11.35,
-      "lon": -72.52
-    },
-    {
       "departamento": "Vichada",
       "bajas": 3,
       "capturas": 0,
@@ -290,6 +278,18 @@
       "operaciones": 3,
       "lat": 4.44,
       "lon": -69.28
+    },
+    {
+      "departamento": "La Guajira",
+      "bajas": 0,
+      "capturas": 3,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 3,
+      "operaciones": 4,
+      "lat": 11.35,
+      "lon": -72.52
     },
     {
       "departamento": "Arauca",
@@ -314,6 +314,18 @@
       "operaciones": 1,
       "lat": 10.68,
       "lon": -75.17
+    },
+    {
+      "departamento": "Caldas",
+      "bajas": 0,
+      "capturas": 2,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 2,
+      "operaciones": 1,
+      "lat": 5.3,
+      "lon": -75.57
     },
     {
       "departamento": "Bogotá D.C.",
@@ -347,10 +359,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 40,
-      "ops": 42,
-      "bajas": 14,
-      "capturas": 21,
+      "personas": 63,
+      "ops": 45,
+      "bajas": 34,
+      "capturas": 24,
       "sometimientos": 1
     },
     {
@@ -383,10 +395,10 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 56,
-      "ops": 23,
+      "personas": 60,
+      "ops": 24,
       "bajas": 12,
-      "capturas": 38,
+      "capturas": 42,
       "sometimientos": 6
     },
     {
@@ -396,7 +408,7 @@
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
       "personas": 234,
-      "ops": 85,
+      "ops": 86,
       "bajas": 20,
       "capturas": 189,
       "sometimientos": 25
@@ -419,10 +431,10 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 168,
-      "ops": 71,
+      "personas": 174,
+      "ops": 72,
       "bajas": 8,
-      "capturas": 127,
+      "capturas": 133,
       "sometimientos": 6
     },
     {

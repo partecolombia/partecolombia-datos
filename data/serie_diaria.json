@@ -559,20 +559,29 @@
   },
   {
     "fecha": "2026-09-02",
-    "bajas": 2,
-    "capturas": 52,
+    "bajas": 22,
+    "capturas": 59,
     "sometimientos": 8,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 62
+    "total": 89
   },
   {
     "fecha": "2026-09-03",
     "bajas": 0,
-    "capturas": 1,
+    "capturas": 7,
     "sometimientos": 1,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 2
+    "total": 8
+  },
+  {
+    "fecha": "2026-09-04",
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 0
   }
 ]
