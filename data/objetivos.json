@@ -1394,9 +1394,9 @@
       "extorsión",
       "amenazas a la Fuerza Pública"
     ],
-    "estado": "buscado",
-    "estado_fecha": null,
-    "estado_detalle": "buscado; reapareció en Riohacha (7-jul-2026) y De la Espriella lo declaró objetivo de alto valor",
+    "estado": "abatido",
+    "estado_fecha": "2026-09-04",
+    "estado_detalle": "Naín Andrés Pérez Toncel, alias 'Bendito Menor', y su pareja, Rosa Angélica Tarazona, alias 'La Bebesita', fueron dados de baja en un operativo de la Policía Nacional en Riohacha.",
     "prioridad": 3,
     "recompensa_cop": 1000,
     "ubicacion_posible": "La Guajira / Magdalena (Riohacha, Sierra Nevada)",
