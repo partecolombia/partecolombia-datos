@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-09-06T04:02:00.745533+00:00",
+    "generado": "2026-09-07T04:01:38.807548+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 885,
-    "total_crudo": 3100,
-    "operaciones": 412,
+    "total": 895,
+    "total_crudo": 3129,
+    "operaciones": 418,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
@@ -16,27 +16,27 @@
     "sin_desglose": 5,
     "total": 287,
     "en_reportado": 147,
-    "operaciones": 168
+    "operaciones": 169
   },
   "conteo_oficial": {
     "bajas": 149,
-    "capturas": 377,
+    "capturas": 387,
     "sometimientos": 31,
     "desmovilizaciones": 2,
     "sin_desglose": 39,
-    "total": 598,
-    "en_reportado": 260,
-    "operaciones": 238
+    "total": 608,
+    "en_reportado": 257,
+    "operaciones": 243
   },
   "conteo_total": {
     "bajas": 187,
-    "capturas": 582,
+    "capturas": 592,
     "sometimientos": 70,
     "desmovilizaciones": 2,
     "sin_desglose": 44,
-    "total": 885,
-    "en_reportado": 407,
-    "operaciones": 406
+    "total": 895,
+    "en_reportado": 404,
+    "operaciones": 412
   },
   "mapa_departamentos": [
     {
@@ -90,14 +90,14 @@
     {
       "departamento": "Nariño",
       "bajas": 19,
-      "capturas": 11,
+      "capturas": 12,
       "sometimientos": 2,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 32,
-      "operaciones": 22,
+      "personas": 33,
+      "operaciones": 24,
       "lat": 1.6000000000000005,
-      "lon": -78.07999999999998
+      "lon": -78.07999999999997
     },
     {
       "departamento": "Tolima",
@@ -215,8 +215,8 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 9,
-      "operaciones": 6,
-      "lat": 11.35,
+      "operaciones": 7,
+      "lat": 11.349999999999998,
       "lon": -72.52
     },
     {
@@ -230,6 +230,18 @@
       "operaciones": 5,
       "lat": 0.43,
       "lon": -75.53
+    },
+    {
+      "departamento": "Arauca",
+      "bajas": 0,
+      "capturas": 7,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 7,
+      "operaciones": 3,
+      "lat": 7.080000000000001,
+      "lon": -70.76
     },
     {
       "departamento": "Magdalena",
@@ -256,18 +268,6 @@
       "lon": -75.4
     },
     {
-      "departamento": "Córdoba",
-      "bajas": 0,
-      "capturas": 4,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 4,
-      "operaciones": 3,
-      "lat": 8.33,
-      "lon": -75.93
-    },
-    {
       "departamento": "Casanare",
       "bajas": 1,
       "capturas": 3,
@@ -278,6 +278,18 @@
       "operaciones": 6,
       "lat": 5.329999999999999,
       "lon": -71.95
+    },
+    {
+      "departamento": "Córdoba",
+      "bajas": 0,
+      "capturas": 4,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 4,
+      "operaciones": 3,
+      "lat": 8.33,
+      "lon": -75.93
     },
     {
       "departamento": "Vichada",
@@ -304,18 +316,6 @@
       "lon": -75.57
     },
     {
-      "departamento": "Arauca",
-      "bajas": 0,
-      "capturas": 2,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 2,
-      "operaciones": 2,
-      "lat": 7.08,
-      "lon": -70.76
-    },
-    {
       "departamento": "Atlántico",
       "bajas": 0,
       "capturas": 2,
@@ -323,7 +323,7 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 2,
-      "operaciones": 1,
+      "operaciones": 2,
       "lat": 10.68,
       "lon": -75.17
     },
@@ -359,10 +359,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 64,
-      "ops": 46,
+      "personas": 69,
+      "ops": 47,
       "bajas": 34,
-      "capturas": 25,
+      "capturas": 30,
       "sometimientos": 1
     },
     {
@@ -371,10 +371,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 212,
-      "ops": 68,
+      "personas": 217,
+      "ops": 71,
       "bajas": 87,
-      "capturas": 91,
+      "capturas": 96,
       "sometimientos": 29
     },
     {
@@ -432,7 +432,7 @@
       "tipo": "GAO",
       "color": "#7f8c8d",
       "personas": 200,
-      "ops": 75,
+      "ops": 77,
       "bajas": 10,
       "capturas": 157,
       "sometimientos": 6
