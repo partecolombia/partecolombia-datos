@@ -586,29 +586,38 @@
   },
   {
     "fecha": "2026-09-04",
-    "bajas": 4,
+    "bajas": 6,
     "capturas": 25,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 29
+    "total": 31
   },
   {
     "fecha": "2026-09-05",
-    "bajas": 3,
+    "bajas": 1,
     "capturas": 7,
     "sometimientos": 2,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 12
+    "total": 10
   },
   {
     "fecha": "2026-09-06",
     "bajas": 7,
-    "capturas": 8,
+    "capturas": 9,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 15
+    "total": 16
+  },
+  {
+    "fecha": "2026-09-07",
+    "bajas": 0,
+    "capturas": 5,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 5
   }
 ]
