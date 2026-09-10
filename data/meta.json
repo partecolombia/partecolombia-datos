@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-09-09T04:02:08.280197+00:00",
+    "generado": "2026-09-10T04:01:55.021370+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 924,
-    "total_crudo": 3198,
-    "operaciones": 430,
+    "total": 929,
+    "total_crudo": 3207,
+    "operaciones": 435,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
@@ -20,23 +20,23 @@
   },
   "conteo_oficial": {
     "bajas": 150,
-    "capturas": 415,
+    "capturas": 420,
     "sometimientos": 31,
     "desmovilizaciones": 2,
     "sin_desglose": 39,
-    "total": 637,
+    "total": 642,
     "en_reportado": 282,
-    "operaciones": 255
+    "operaciones": 260
   },
   "conteo_total": {
     "bajas": 188,
-    "capturas": 620,
+    "capturas": 625,
     "sometimientos": 70,
     "desmovilizaciones": 2,
     "sin_desglose": 44,
-    "total": 924,
+    "total": 929,
     "en_reportado": 429,
-    "operaciones": 424
+    "operaciones": 429
   },
   "mapa_departamentos": [
     {
@@ -102,12 +102,12 @@
     {
       "departamento": "Norte de Santander",
       "bajas": 4,
-      "capturas": 21,
+      "capturas": 23,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 2,
-      "personas": 27,
-      "operaciones": 15,
+      "personas": 29,
+      "operaciones": 16,
       "lat": 7.950000000000002,
       "lon": -72.5
     },
@@ -150,12 +150,12 @@
     {
       "departamento": "Cesar",
       "bajas": 0,
-      "capturas": 20,
+      "capturas": 21,
       "sometimientos": 0,
       "desmov": 2,
       "sin_desglose": 0,
-      "personas": 22,
-      "operaciones": 15,
+      "personas": 23,
+      "operaciones": 16,
       "lat": 9.8,
       "lon": -73.35
     },
@@ -198,13 +198,13 @@
     {
       "departamento": "Valle del Cauca",
       "bajas": 5,
-      "capturas": 6,
+      "capturas": 7,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 11,
-      "operaciones": 11,
-      "lat": 3.8,
+      "personas": 12,
+      "operaciones": 12,
+      "lat": 3.7999999999999994,
       "lon": -76.63
     },
     {
@@ -222,12 +222,12 @@
     {
       "departamento": "La Guajira",
       "bajas": 6,
-      "capturas": 3,
+      "capturas": 4,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 9,
-      "operaciones": 7,
+      "personas": 10,
+      "operaciones": 8,
       "lat": 11.349999999999998,
       "lon": -72.52
     },
@@ -244,18 +244,6 @@
       "lon": -75.52999999999999
     },
     {
-      "departamento": "Magdalena",
-      "bajas": 0,
-      "capturas": 7,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 7,
-      "operaciones": 7,
-      "lat": 10.409999999999998,
-      "lon": -74.40999999999998
-    },
-    {
       "departamento": "Arauca",
       "bajas": 0,
       "capturas": 7,
@@ -266,6 +254,18 @@
       "operaciones": 3,
       "lat": 7.080000000000001,
       "lon": -70.76
+    },
+    {
+      "departamento": "Magdalena",
+      "bajas": 0,
+      "capturas": 7,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 7,
+      "operaciones": 7,
+      "lat": 10.409999999999998,
+      "lon": -74.40999999999998
     },
     {
       "departamento": "Sucre",
@@ -318,12 +318,12 @@
     {
       "departamento": "Atlántico",
       "bajas": 0,
-      "capturas": 3,
+      "capturas": 2,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 3,
-      "operaciones": 2,
+      "personas": 2,
+      "operaciones": 1,
       "lat": 10.68,
       "lon": -75.17
     },
@@ -359,10 +359,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 73,
-      "ops": 48,
+      "personas": 76,
+      "ops": 51,
       "bajas": 34,
-      "capturas": 34,
+      "capturas": 37,
       "sometimientos": 1
     },
     {
@@ -407,10 +407,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 251,
-      "ops": 93,
+      "personas": 252,
+      "ops": 94,
       "bajas": 24,
-      "capturas": 202,
+      "capturas": 203,
       "sometimientos": 25
     },
     {
@@ -431,10 +431,10 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 210,
-      "ops": 80,
+      "personas": 211,
+      "ops": 81,
       "bajas": 10,
-      "capturas": 167,
+      "capturas": 168,
       "sometimientos": 6
     },
     {
