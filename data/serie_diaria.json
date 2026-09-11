@@ -632,10 +632,28 @@
   {
     "fecha": "2026-09-09",
     "bajas": 0,
-    "capturas": 9,
+    "capturas": 15,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 9
+    "total": 15
+  },
+  {
+    "fecha": "2026-09-10",
+    "bajas": 0,
+    "capturas": 29,
+    "sometimientos": 1,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 30
+  },
+  {
+    "fecha": "2026-09-11",
+    "bajas": 1,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 1
   }
 ]
