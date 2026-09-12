@@ -3,8 +3,8 @@
 Conteo independiente, con fuentes, de **neutralizaciones de integrantes de grupos armados por la
 Fuerza Pública** en Colombia. Sitio: **https://partecolombia.com**
 
-**Última actualización:** 2026-09-11 · **Total:** 966 neutralizados
-(448 operaciones registradas).
+**Última actualización:** 2026-09-12 · **Total:** 991 neutralizados
+(459 operaciones registradas).
 
 ## Contenido
 | Archivo | Qué es |

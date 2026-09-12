@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-09-11T04:02:06.236453+00:00",
+    "generado": "2026-09-12T04:01:46.563514+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 966,
-    "total_crudo": 3246,
-    "operaciones": 448,
+    "total": 991,
+    "total_crudo": 3284,
+    "operaciones": 459,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
@@ -20,23 +20,23 @@
   },
   "conteo_oficial": {
     "bajas": 151,
-    "capturas": 455,
+    "capturas": 480,
     "sometimientos": 32,
     "desmovilizaciones": 2,
     "sin_desglose": 39,
-    "total": 679,
-    "en_reportado": 302,
-    "operaciones": 273
+    "total": 704,
+    "en_reportado": 311,
+    "operaciones": 284
   },
   "conteo_total": {
     "bajas": 189,
-    "capturas": 660,
+    "capturas": 685,
     "sometimientos": 71,
     "desmovilizaciones": 2,
     "sin_desglose": 44,
-    "total": 966,
-    "en_reportado": 449,
-    "operaciones": 442
+    "total": 991,
+    "en_reportado": 458,
+    "operaciones": 453
   },
   "mapa_departamentos": [
     {
@@ -59,7 +59,7 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 94,
-      "operaciones": 56,
+      "operaciones": 57,
       "lat": 6.550000000000006,
       "lon": -75.82999999999996
     },
@@ -78,14 +78,14 @@
     {
       "departamento": "Cauca",
       "bajas": 11,
-      "capturas": 21,
+      "capturas": 22,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 5,
-      "personas": 37,
-      "operaciones": 21,
-      "lat": 2.5300000000000002,
-      "lon": -76.80999999999997
+      "personas": 38,
+      "operaciones": 23,
+      "lat": 2.5300000000000007,
+      "lon": -76.80999999999996
     },
     {
       "departamento": "Nariño",
@@ -95,9 +95,9 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 37,
-      "operaciones": 27,
-      "lat": 1.6000000000000005,
-      "lon": -78.07999999999998
+      "operaciones": 28,
+      "lat": 1.6000000000000008,
+      "lon": -78.07999999999997
     },
     {
       "departamento": "Norte de Santander",
@@ -124,18 +124,6 @@
       "lon": -75.23
     },
     {
-      "departamento": "Santander",
-      "bajas": 2,
-      "capturas": 23,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 25,
-      "operaciones": 10,
-      "lat": 6.92,
-      "lon": -73.14999999999999
-    },
-    {
       "departamento": "Cesar",
       "bajas": 0,
       "capturas": 23,
@@ -148,14 +136,26 @@
       "lon": -73.35
     },
     {
+      "departamento": "Santander",
+      "bajas": 2,
+      "capturas": 23,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 25,
+      "operaciones": 10,
+      "lat": 6.92,
+      "lon": -73.14999999999999
+    },
+    {
       "departamento": "Huila",
       "bajas": 0,
-      "capturas": 17,
+      "capturas": 18,
       "sometimientos": 6,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 23,
-      "operaciones": 14,
+      "personas": 24,
+      "operaciones": 15,
       "lat": 2.5300000000000002,
       "lon": -75.52999999999999
     },
@@ -182,6 +182,18 @@
       "operaciones": 7,
       "lat": 5.71,
       "lon": -76.77999999999999
+    },
+    {
+      "departamento": "Caquetá",
+      "bajas": 1,
+      "capturas": 10,
+      "sometimientos": 3,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 14,
+      "operaciones": 13,
+      "lat": 1.3000000000000003,
+      "lon": -75.52
     },
     {
       "departamento": "La Guajira",
@@ -218,18 +230,6 @@
       "operaciones": 13,
       "lat": 3.7999999999999994,
       "lon": -76.63
-    },
-    {
-      "departamento": "Caquetá",
-      "bajas": 1,
-      "capturas": 9,
-      "sometimientos": 3,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 13,
-      "operaciones": 12,
-      "lat": 1.3000000000000003,
-      "lon": -75.52
     },
     {
       "departamento": "Córdoba",
@@ -282,11 +282,11 @@
     {
       "departamento": "Caldas",
       "bajas": 0,
-      "capturas": 5,
+      "capturas": 6,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 5,
+      "personas": 6,
       "operaciones": 2,
       "lat": 5.3,
       "lon": -75.57
@@ -359,10 +359,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 86,
-      "ops": 54,
+      "personas": 92,
+      "ops": 58,
       "bajas": 34,
-      "capturas": 47,
+      "capturas": 53,
       "sometimientos": 1
     },
     {
@@ -372,7 +372,7 @@
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
       "personas": 220,
-      "ops": 75,
+      "ops": 77,
       "bajas": 89,
       "capturas": 97,
       "sometimientos": 29
@@ -383,10 +383,10 @@
       "largo": "Estado Mayor de los Bloques y Frentes, facción de alias 'Calarcá'",
       "tipo": "disidencia FARC",
       "color": "#6c5ce7",
-      "personas": 33,
-      "ops": 15,
+      "personas": 34,
+      "ops": 16,
       "bajas": 8,
-      "capturas": 13,
+      "capturas": 14,
       "sometimientos": 2
     },
     {
@@ -407,10 +407,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 272,
-      "ops": 99,
+      "personas": 273,
+      "ops": 101,
       "bajas": 24,
-      "capturas": 223,
+      "capturas": 224,
       "sometimientos": 25
     },
     {
@@ -431,10 +431,10 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 212,
-      "ops": 82,
+      "personas": 214,
+      "ops": 83,
       "bajas": 10,
-      "capturas": 168,
+      "capturas": 170,
       "sometimientos": 7
     },
     {
@@ -443,10 +443,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 81,
-      "ops": 91,
+      "personas": 96,
+      "ops": 92,
       "bajas": 11,
-      "capturas": 69,
+      "capturas": 84,
       "sometimientos": 1
     }
   ]
