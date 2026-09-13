@@ -27,6 +27,24 @@
     "total": 0
   },
   {
+    "fecha": "2026-05-06",
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 1
+  },
+  {
+    "fecha": "2026-05-15",
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 6,
+    "total": 6
+  },
+  {
     "fecha": "2026-06-12",
     "bajas": 0,
     "capturas": 2,
@@ -650,10 +668,28 @@
   {
     "fecha": "2026-09-11",
     "bajas": 1,
-    "capturas": 24,
+    "capturas": 32,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 25
+    "total": 33
+  },
+  {
+    "fecha": "2026-09-12",
+    "bajas": 0,
+    "capturas": 7,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 7
+  },
+  {
+    "fecha": "2026-09-13",
+    "bajas": 2,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 4
   }
 ]
