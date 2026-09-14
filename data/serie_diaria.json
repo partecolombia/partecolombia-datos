@@ -685,8 +685,17 @@
   },
   {
     "fecha": "2026-09-13",
-    "bajas": 2,
-    "capturas": 2,
+    "bajas": 5,
+    "capturas": 6,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 11
+  },
+  {
+    "fecha": "2026-09-14",
+    "bajas": 1,
+    "capturas": 3,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,

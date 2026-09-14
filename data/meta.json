@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-09-13T04:02:12.124739+00:00",
+    "generado": "2026-09-14T04:01:58.219880+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1017,
-    "total_crudo": 3324,
-    "operaciones": 476,
+    "total": 1028,
+    "total_crudo": 3351,
+    "operaciones": 485,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
@@ -19,24 +19,24 @@
     "operaciones": 171
   },
   "conteo_oficial": {
-    "bajas": 153,
-    "capturas": 497,
+    "bajas": 157,
+    "capturas": 504,
     "sometimientos": 32,
     "desmovilizaciones": 2,
     "sin_desglose": 39,
-    "total": 723,
-    "en_reportado": 324,
-    "operaciones": 299
+    "total": 734,
+    "en_reportado": 325,
+    "operaciones": 308
   },
   "conteo_total": {
-    "bajas": 191,
-    "capturas": 703,
+    "bajas": 195,
+    "capturas": 710,
     "sometimientos": 71,
     "desmovilizaciones": 2,
     "sin_desglose": 50,
-    "total": 1017,
-    "en_reportado": 478,
-    "operaciones": 470
+    "total": 1028,
+    "en_reportado": 479,
+    "operaciones": 479
   },
   "mapa_departamentos": [
     {
@@ -53,13 +53,13 @@
     },
     {
       "departamento": "Antioquia",
-      "bajas": 17,
-      "capturas": 74,
+      "bajas": 18,
+      "capturas": 79,
       "sometimientos": 8,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 99,
-      "operaciones": 63,
+      "personas": 105,
+      "operaciones": 66,
       "lat": 6.550000000000007,
       "lon": -75.82999999999996
     },
@@ -102,13 +102,13 @@
     {
       "departamento": "Norte de Santander",
       "bajas": 4,
-      "capturas": 29,
+      "capturas": 31,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 2,
-      "personas": 35,
-      "operaciones": 17,
-      "lat": 7.950000000000002,
+      "personas": 37,
+      "operaciones": 18,
+      "lat": 7.950000000000001,
       "lon": -72.5
     },
     {
@@ -359,10 +359,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 98,
-      "ops": 61,
+      "personas": 100,
+      "ops": 62,
       "bajas": 34,
-      "capturas": 59,
+      "capturas": 61,
       "sometimientos": 1
     },
     {
@@ -407,10 +407,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 274,
-      "ops": 102,
-      "bajas": 24,
-      "capturas": 225,
+      "personas": 283,
+      "ops": 107,
+      "bajas": 28,
+      "capturas": 230,
       "sometimientos": 25
     },
     {
@@ -444,7 +444,7 @@
       "tipo": "sin determinar",
       "color": "#4a5568",
       "personas": 93,
-      "ops": 92,
+      "ops": 95,
       "bajas": 11,
       "capturas": 81,
       "sometimientos": 1
