@@ -1,44 +1,56 @@
 {
   "meta": {
-    "generado": "2026-09-14T04:01:58.219880+00:00",
+    "generado": "2026-09-15T04:03:15.329292+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1028,
-    "total_crudo": 3351,
-    "operaciones": 485,
+    "total": 1062,
+    "total_crudo": 3392,
+    "operaciones": 500,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
-    "bajas": 38,
+    "bajas": 39,
     "capturas": 206,
     "sometimientos": 39,
     "desmovilizaciones": 0,
     "sin_desglose": 11,
-    "total": 294,
-    "en_reportado": 154,
-    "operaciones": 171
+    "total": 295,
+    "en_reportado": 155,
+    "operaciones": 172
   },
   "conteo_oficial": {
-    "bajas": 157,
-    "capturas": 504,
-    "sometimientos": 32,
+    "bajas": 162,
+    "capturas": 531,
+    "sometimientos": 33,
     "desmovilizaciones": 2,
     "sin_desglose": 39,
-    "total": 734,
-    "en_reportado": 325,
-    "operaciones": 308
+    "total": 767,
+    "en_reportado": 349,
+    "operaciones": 322
   },
   "conteo_total": {
-    "bajas": 195,
-    "capturas": 710,
-    "sometimientos": 71,
+    "bajas": 201,
+    "capturas": 737,
+    "sometimientos": 72,
     "desmovilizaciones": 2,
     "sin_desglose": 50,
-    "total": 1028,
-    "en_reportado": 479,
-    "operaciones": 479
+    "total": 1062,
+    "en_reportado": 504,
+    "operaciones": 494
   },
   "mapa_departamentos": [
+    {
+      "departamento": "Antioquia",
+      "bajas": 18,
+      "capturas": 81,
+      "sometimientos": 8,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 107,
+      "operaciones": 71,
+      "lat": 6.550000000000007,
+      "lon": -75.82999999999996
+    },
     {
       "departamento": "Guaviare",
       "bajas": 52,
@@ -52,26 +64,14 @@
       "lon": -72.33
     },
     {
-      "departamento": "Antioquia",
-      "bajas": 18,
-      "capturas": 79,
-      "sometimientos": 8,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 105,
-      "operaciones": 66,
-      "lat": 6.550000000000007,
-      "lon": -75.82999999999996
-    },
-    {
       "departamento": "Cauca",
-      "bajas": 11,
+      "bajas": 12,
       "capturas": 23,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 11,
-      "personas": 45,
-      "operaciones": 26,
+      "personas": 46,
+      "operaciones": 27,
       "lat": 2.5300000000000007,
       "lon": -76.80999999999996
     },
@@ -88,6 +88,18 @@
       "lon": -73.08
     },
     {
+      "departamento": "Norte de Santander",
+      "bajas": 4,
+      "capturas": 32,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 2,
+      "personas": 38,
+      "operaciones": 20,
+      "lat": 7.95,
+      "lon": -72.5
+    },
+    {
       "departamento": "Nariño",
       "bajas": 19,
       "capturas": 16,
@@ -100,26 +112,14 @@
       "lon": -78.07999999999997
     },
     {
-      "departamento": "Norte de Santander",
-      "bajas": 4,
-      "capturas": 31,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 2,
-      "personas": 37,
-      "operaciones": 18,
-      "lat": 7.950000000000001,
-      "lon": -72.5
-    },
-    {
       "departamento": "Huila",
       "bajas": 0,
-      "capturas": 25,
+      "capturas": 24,
       "sometimientos": 6,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 31,
-      "operaciones": 17,
+      "personas": 30,
+      "operaciones": 16,
       "lat": 2.5300000000000002,
       "lon": -75.52999999999999
     },
@@ -136,6 +136,18 @@
       "lon": -75.23
     },
     {
+      "departamento": "Cesar",
+      "bajas": 0,
+      "capturas": 24,
+      "sometimientos": 0,
+      "desmov": 2,
+      "sin_desglose": 0,
+      "personas": 26,
+      "operaciones": 18,
+      "lat": 9.800000000000002,
+      "lon": -73.34999999999998
+    },
+    {
       "departamento": "Santander",
       "bajas": 2,
       "capturas": 23,
@@ -148,16 +160,16 @@
       "lon": -73.14999999999999
     },
     {
-      "departamento": "Cesar",
-      "bajas": 0,
-      "capturas": 23,
+      "departamento": "Valle del Cauca",
+      "bajas": 8,
+      "capturas": 15,
       "sometimientos": 0,
-      "desmov": 2,
+      "desmov": 0,
       "sin_desglose": 0,
-      "personas": 25,
-      "operaciones": 17,
-      "lat": 9.8,
-      "lon": -73.35
+      "personas": 23,
+      "operaciones": 18,
+      "lat": 3.799999999999999,
+      "lon": -76.63000000000001
     },
     {
       "departamento": "Bolívar",
@@ -172,16 +184,16 @@
       "lon": -74.02999999999999
     },
     {
-      "departamento": "Valle del Cauca",
-      "bajas": 6,
-      "capturas": 10,
+      "departamento": "La Guajira",
+      "bajas": 8,
+      "capturas": 8,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 16,
-      "operaciones": 14,
-      "lat": 3.7999999999999994,
-      "lon": -76.63
+      "operaciones": 10,
+      "lat": 11.349999999999998,
+      "lon": -72.52
     },
     {
       "departamento": "Chocó",
@@ -194,18 +206,6 @@
       "operaciones": 7,
       "lat": 5.71,
       "lon": -76.77999999999999
-    },
-    {
-      "departamento": "La Guajira",
-      "bajas": 6,
-      "capturas": 8,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 14,
-      "operaciones": 10,
-      "lat": 11.349999999999998,
-      "lon": -72.52
     },
     {
       "departamento": "Caquetá",
@@ -340,6 +340,18 @@
       "lon": -74.05
     },
     {
+      "departamento": "Amazonas",
+      "bajas": 1,
+      "capturas": 0,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 1,
+      "operaciones": 1,
+      "lat": -1.44,
+      "lon": -71.76
+    },
+    {
       "departamento": "Quindío",
       "bajas": 0,
       "capturas": 0,
@@ -359,10 +371,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 100,
-      "ops": 62,
+      "personas": 102,
+      "ops": 64,
       "bajas": 34,
-      "capturas": 61,
+      "capturas": 63,
       "sometimientos": 1
     },
     {
@@ -371,10 +383,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 234,
-      "ops": 85,
-      "bajas": 90,
-      "capturas": 110,
+      "personas": 241,
+      "ops": 90,
+      "bajas": 93,
+      "capturas": 114,
       "sometimientos": 29
     },
     {
@@ -395,10 +407,10 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 62,
-      "ops": 26,
+      "personas": 63,
+      "ops": 27,
       "bajas": 13,
-      "capturas": 43,
+      "capturas": 44,
       "sometimientos": 6
     },
     {
@@ -407,10 +419,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 283,
-      "ops": 107,
-      "bajas": 28,
-      "capturas": 230,
+      "personas": 286,
+      "ops": 113,
+      "bajas": 29,
+      "capturas": 232,
       "sometimientos": 25
     },
     {
@@ -431,11 +443,11 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 216,
-      "ops": 87,
-      "bajas": 11,
+      "personas": 219,
+      "ops": 88,
+      "bajas": 13,
       "capturas": 171,
-      "sometimientos": 7
+      "sometimientos": 8
     },
     {
       "key": "DESCONOCIDO",
@@ -443,10 +455,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 93,
+      "personas": 111,
       "ops": 95,
       "bajas": 11,
-      "capturas": 81,
+      "capturas": 99,
       "sometimientos": 1
     }
   ]
