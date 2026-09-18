@@ -727,5 +727,23 @@
     "desmovilizaciones": 0,
     "sin_desglose": 0,
     "total": 7
+  },
+  {
+    "fecha": "2026-09-17",
+    "bajas": 1,
+    "capturas": 4,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 5
+  },
+  {
+    "fecha": "2026-09-18",
+    "bajas": 1,
+    "capturas": 0,
+    "sometimientos": 4,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 5
   }
 ]
