@@ -1,54 +1,54 @@
 {
   "meta": {
-    "generado": "2026-09-19T04:02:21.373234+00:00",
+    "generado": "2026-09-20T04:02:26.811658+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1116,
-    "total_crudo": 3468,
-    "operaciones": 530,
+    "total": 1138,
+    "total_crudo": 3498,
+    "operaciones": 539,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
-    "bajas": 39,
+    "bajas": 47,
     "capturas": 206,
     "sometimientos": 39,
     "desmovilizaciones": 0,
     "sin_desglose": 11,
-    "total": 295,
-    "en_reportado": 155,
-    "operaciones": 173
+    "total": 303,
+    "en_reportado": 163,
+    "operaciones": 175
   },
   "conteo_oficial": {
-    "bajas": 170,
-    "capturas": 561,
+    "bajas": 175,
+    "capturas": 570,
     "sometimientos": 49,
     "desmovilizaciones": 2,
     "sin_desglose": 39,
-    "total": 821,
-    "en_reportado": 376,
-    "operaciones": 351
+    "total": 835,
+    "en_reportado": 375,
+    "operaciones": 358
   },
   "conteo_total": {
-    "bajas": 209,
-    "capturas": 767,
+    "bajas": 222,
+    "capturas": 776,
     "sometimientos": 88,
     "desmovilizaciones": 2,
     "sin_desglose": 50,
-    "total": 1116,
-    "en_reportado": 531,
-    "operaciones": 524
+    "total": 1138,
+    "en_reportado": 538,
+    "operaciones": 533
   },
   "mapa_departamentos": [
     {
       "departamento": "Antioquia",
-      "bajas": 19,
-      "capturas": 82,
+      "bajas": 23,
+      "capturas": 89,
       "sometimientos": 12,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 113,
-      "operaciones": 80,
-      "lat": 6.550000000000007,
+      "personas": 124,
+      "operaciones": 85,
+      "lat": 6.550000000000004,
       "lon": -75.82999999999996
     },
     {
@@ -64,6 +64,18 @@
       "lon": -72.33
     },
     {
+      "departamento": "Norte de Santander",
+      "bajas": 12,
+      "capturas": 41,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 2,
+      "personas": 55,
+      "operaciones": 24,
+      "lat": 7.949999999999998,
+      "lon": -72.5
+    },
+    {
       "departamento": "Cauca",
       "bajas": 12,
       "capturas": 26,
@@ -74,18 +86,6 @@
       "operaciones": 30,
       "lat": 2.5300000000000007,
       "lon": -76.80999999999996
-    },
-    {
-      "departamento": "Norte de Santander",
-      "bajas": 4,
-      "capturas": 41,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 2,
-      "personas": 47,
-      "operaciones": 22,
-      "lat": 7.949999999999999,
-      "lon": -72.5
     },
     {
       "departamento": "Meta",
@@ -220,6 +220,18 @@
       "lon": -76.77999999999999
     },
     {
+      "departamento": "Putumayo",
+      "bajas": 0,
+      "capturas": 13,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 13,
+      "operaciones": 7,
+      "lat": 0.43000000000000005,
+      "lon": -75.52999999999999
+    },
+    {
       "departamento": "Magdalena",
       "bajas": 0,
       "capturas": 13,
@@ -230,18 +242,6 @@
       "operaciones": 8,
       "lat": 10.409999999999998,
       "lon": -74.40999999999998
-    },
-    {
-      "departamento": "Putumayo",
-      "bajas": 0,
-      "capturas": 12,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 12,
-      "operaciones": 7,
-      "lat": 0.43000000000000005,
-      "lon": -75.52999999999999
     },
     {
       "departamento": "Córdoba",
@@ -328,6 +328,18 @@
       "lon": -75.17
     },
     {
+      "departamento": "Risaralda",
+      "bajas": 0,
+      "capturas": 1,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 1,
+      "operaciones": 2,
+      "lat": 5.02,
+      "lon": -75.99
+    },
+    {
       "departamento": "Bogotá D.C.",
       "bajas": 0,
       "capturas": 1,
@@ -352,18 +364,6 @@
       "lon": -71.76
     },
     {
-      "departamento": "Risaralda",
-      "bajas": 0,
-      "capturas": 0,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 0,
-      "operaciones": 1,
-      "lat": 5.02,
-      "lon": -75.99
-    },
-    {
       "departamento": "Quindío",
       "bajas": 0,
       "capturas": 0,
@@ -383,10 +383,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 116,
-      "ops": 70,
-      "bajas": 40,
-      "capturas": 70,
+      "personas": 126,
+      "ops": 72,
+      "bajas": 48,
+      "capturas": 72,
       "sometimientos": 2
     },
     {
@@ -395,10 +395,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 253,
-      "ops": 93,
+      "personas": 254,
+      "ops": 94,
       "bajas": 93,
-      "capturas": 115,
+      "capturas": 116,
       "sometimientos": 40
     },
     {
@@ -419,9 +419,9 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 66,
-      "ops": 29,
-      "bajas": 13,
+      "personas": 68,
+      "ops": 31,
+      "bajas": 15,
       "capturas": 47,
       "sometimientos": 6
     },
@@ -431,10 +431,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 299,
-      "ops": 123,
-      "bajas": 31,
-      "capturas": 239,
+      "personas": 308,
+      "ops": 126,
+      "bajas": 32,
+      "capturas": 247,
       "sometimientos": 29
     },
     {
@@ -456,9 +456,9 @@
       "tipo": "GAO",
       "color": "#7f8c8d",
       "personas": 228,
-      "ops": 91,
-      "bajas": 13,
-      "capturas": 180,
+      "ops": 92,
+      "bajas": 15,
+      "capturas": 178,
       "sometimientos": 8
     },
     {
