@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-09-20T04:02:26.811658+00:00",
+    "generado": "2026-09-21T04:02:33.707894+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1138,
-    "total_crudo": 3498,
-    "operaciones": 539,
+    "total": 1145,
+    "total_crudo": 3509,
+    "operaciones": 545,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
@@ -19,37 +19,37 @@
     "operaciones": 175
   },
   "conteo_oficial": {
-    "bajas": 175,
-    "capturas": 570,
+    "bajas": 179,
+    "capturas": 573,
     "sometimientos": 49,
     "desmovilizaciones": 2,
     "sin_desglose": 39,
-    "total": 835,
-    "en_reportado": 375,
-    "operaciones": 358
+    "total": 842,
+    "en_reportado": 381,
+    "operaciones": 364
   },
   "conteo_total": {
-    "bajas": 222,
-    "capturas": 776,
+    "bajas": 226,
+    "capturas": 779,
     "sometimientos": 88,
     "desmovilizaciones": 2,
     "sin_desglose": 50,
-    "total": 1138,
-    "en_reportado": 538,
-    "operaciones": 533
+    "total": 1145,
+    "en_reportado": 544,
+    "operaciones": 539
   },
   "mapa_departamentos": [
     {
       "departamento": "Antioquia",
-      "bajas": 23,
+      "bajas": 24,
       "capturas": 89,
       "sometimientos": 12,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 124,
-      "operaciones": 85,
-      "lat": 6.550000000000004,
-      "lon": -75.82999999999996
+      "personas": 125,
+      "operaciones": 86,
+      "lat": 6.550000000000003,
+      "lon": -75.82999999999994
     },
     {
       "departamento": "Guaviare",
@@ -185,14 +185,14 @@
     },
     {
       "departamento": "Valle del Cauca",
-      "bajas": 8,
+      "bajas": 9,
       "capturas": 15,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 23,
-      "operaciones": 18,
-      "lat": 3.799999999999999,
+      "personas": 24,
+      "operaciones": 19,
+      "lat": 3.7999999999999985,
       "lon": -76.63000000000001
     },
     {
@@ -220,18 +220,6 @@
       "lon": -76.77999999999999
     },
     {
-      "departamento": "Putumayo",
-      "bajas": 0,
-      "capturas": 13,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 13,
-      "operaciones": 7,
-      "lat": 0.43000000000000005,
-      "lon": -75.52999999999999
-    },
-    {
       "departamento": "Magdalena",
       "bajas": 0,
       "capturas": 13,
@@ -242,6 +230,18 @@
       "operaciones": 8,
       "lat": 10.409999999999998,
       "lon": -74.40999999999998
+    },
+    {
+      "departamento": "Putumayo",
+      "bajas": 0,
+      "capturas": 13,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 13,
+      "operaciones": 7,
+      "lat": 0.43000000000000005,
+      "lon": -75.52999999999999
     },
     {
       "departamento": "Córdoba",
@@ -258,26 +258,14 @@
     {
       "departamento": "Arauca",
       "bajas": 0,
-      "capturas": 7,
+      "capturas": 8,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 7,
-      "operaciones": 3,
-      "lat": 7.080000000000001,
+      "personas": 8,
+      "operaciones": 4,
+      "lat": 7.08,
       "lon": -70.76
-    },
-    {
-      "departamento": "Caldas",
-      "bajas": 0,
-      "capturas": 6,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 6,
-      "operaciones": 2,
-      "lat": 5.3,
-      "lon": -75.57
     },
     {
       "departamento": "Sucre",
@@ -290,6 +278,18 @@
       "operaciones": 3,
       "lat": 9.17,
       "lon": -75.4
+    },
+    {
+      "departamento": "Caldas",
+      "bajas": 0,
+      "capturas": 6,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 6,
+      "operaciones": 2,
+      "lat": 5.3,
+      "lon": -75.57
     },
     {
       "departamento": "Vichada",
@@ -364,6 +364,18 @@
       "lon": -71.76
     },
     {
+      "departamento": "Cundinamarca",
+      "bajas": 0,
+      "capturas": 1,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 1,
+      "operaciones": 1,
+      "lat": 4.73,
+      "lon": -74.23
+    },
+    {
       "departamento": "Quindío",
       "bajas": 0,
       "capturas": 0,
@@ -383,10 +395,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 126,
-      "ops": 72,
+      "personas": 128,
+      "ops": 74,
       "bajas": 48,
-      "capturas": 72,
+      "capturas": 74,
       "sometimientos": 2
     },
     {
@@ -395,10 +407,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 254,
-      "ops": 94,
-      "bajas": 93,
-      "capturas": 116,
+      "personas": 258,
+      "ops": 97,
+      "bajas": 96,
+      "capturas": 117,
       "sometimientos": 40
     },
     {
@@ -407,9 +419,9 @@
       "largo": "Estado Mayor de los Bloques y Frentes, facción de alias 'Calarcá'",
       "tipo": "disidencia FARC",
       "color": "#6c5ce7",
-      "personas": 40,
-      "ops": 18,
-      "bajas": 8,
+      "personas": 41,
+      "ops": 19,
+      "bajas": 9,
       "capturas": 14,
       "sometimientos": 2
     },
