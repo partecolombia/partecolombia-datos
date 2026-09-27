@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-09-26T04:04:20.223135+00:00",
+    "generado": "2026-09-27T04:03:37.657348+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1384,
-    "total_crudo": 3943,
-    "operaciones": 616,
+    "total": 1402,
+    "total_crudo": 3979,
+    "operaciones": 623,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
@@ -19,24 +19,24 @@
     "operaciones": 178
   },
   "conteo_oficial": {
-    "bajas": 217,
-    "capturas": 760,
+    "bajas": 215,
+    "capturas": 780,
     "sometimientos": 51,
     "desmovilizaciones": 2,
     "sin_desglose": 46,
-    "total": 1076,
-    "en_reportado": 506,
-    "operaciones": 432
+    "total": 1094,
+    "en_reportado": 524,
+    "operaciones": 439
   },
   "conteo_total": {
-    "bajas": 265,
-    "capturas": 970,
+    "bajas": 263,
+    "capturas": 990,
     "sometimientos": 90,
     "desmovilizaciones": 2,
     "sin_desglose": 57,
-    "total": 1384,
-    "en_reportado": 674,
-    "operaciones": 610
+    "total": 1402,
+    "en_reportado": 692,
+    "operaciones": 617
   },
   "mapa_departamentos": [
     {
@@ -47,7 +47,7 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 152,
-      "operaciones": 92,
+      "operaciones": 93,
       "lat": 6.55,
       "lon": -75.82999999999994
     },
@@ -136,6 +136,18 @@
       "lon": -78.07999999999997
     },
     {
+      "departamento": "Bolívar",
+      "bajas": 8,
+      "capturas": 30,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 38,
+      "operaciones": 17,
+      "lat": 8.67,
+      "lon": -74.02999999999999
+    },
+    {
       "departamento": "Cesar",
       "bajas": 0,
       "capturas": 30,
@@ -155,7 +167,7 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 31,
-      "operaciones": 12,
+      "operaciones": 13,
       "lat": 3.8699999999999997,
       "lon": -75.23
     },
@@ -196,27 +208,15 @@
       "lon": -76.63000000000002
     },
     {
-      "departamento": "Bolívar",
-      "bajas": 8,
-      "capturas": 18,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 26,
-      "operaciones": 16,
-      "lat": 8.67,
-      "lon": -74.02999999999999
-    },
-    {
       "departamento": "Santander",
       "bajas": 2,
-      "capturas": 23,
+      "capturas": 26,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 25,
-      "operaciones": 10,
-      "lat": 6.92,
+      "personas": 28,
+      "operaciones": 11,
+      "lat": 6.920000000000001,
       "lon": -73.14999999999999
     },
     {
@@ -407,10 +407,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 149,
-      "ops": 86,
+      "personas": 153,
+      "ops": 87,
       "bajas": 60,
-      "capturas": 83,
+      "capturas": 87,
       "sometimientos": 2
     },
     {
@@ -419,10 +419,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 280,
-      "ops": 107,
-      "bajas": 111,
-      "capturas": 124,
+      "personas": 278,
+      "ops": 108,
+      "bajas": 106,
+      "capturas": 127,
       "sometimientos": 40
     },
     {
@@ -443,10 +443,10 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 73,
-      "ops": 36,
-      "bajas": 15,
-      "capturas": 50,
+      "personas": 77,
+      "ops": 39,
+      "bajas": 18,
+      "capturas": 51,
       "sometimientos": 8
     },
     {
@@ -455,10 +455,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 320,
-      "ops": 132,
+      "personas": 332,
+      "ops": 134,
       "bajas": 32,
-      "capturas": 259,
+      "capturas": 271,
       "sometimientos": 29
     },
     {
