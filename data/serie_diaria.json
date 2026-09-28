@@ -857,10 +857,19 @@
   {
     "fecha": "2026-09-26",
     "bajas": 0,
-    "capturas": 5,
+    "capturas": 7,
     "sometimientos": 1,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 6
+    "total": 8
+  },
+  {
+    "fecha": "2026-09-27",
+    "bajas": 5,
+    "capturas": 11,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 16
   }
 ]
