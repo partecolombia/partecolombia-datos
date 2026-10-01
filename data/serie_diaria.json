@@ -898,5 +898,23 @@
     "desmovilizaciones": 0,
     "sin_desglose": 0,
     "total": 16
+  },
+  {
+    "fecha": "2026-09-30",
+    "bajas": 0,
+    "capturas": 9,
+    "sometimientos": 1,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 10
+  },
+  {
+    "fecha": "2026-10-01",
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 1
   }
 ]

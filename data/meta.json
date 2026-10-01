@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-09-30T04:02:57.797571+00:00",
+    "generado": "2026-10-01T04:02:40.879017+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1444,
-    "total_crudo": 4049,
-    "operaciones": 648,
+    "total": 1455,
+    "total_crudo": 4069,
+    "operaciones": 654,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
@@ -20,34 +20,34 @@
   },
   "conteo_oficial": {
     "bajas": 222,
-    "capturas": 813,
-    "sometimientos": 52,
+    "capturas": 823,
+    "sometimientos": 53,
     "desmovilizaciones": 2,
     "sin_desglose": 46,
-    "total": 1135,
-    "en_reportado": 545,
-    "operaciones": 463
+    "total": 1146,
+    "en_reportado": 539,
+    "operaciones": 469
   },
   "conteo_total": {
     "bajas": 270,
-    "capturas": 1024,
-    "sometimientos": 91,
+    "capturas": 1034,
+    "sometimientos": 92,
     "desmovilizaciones": 2,
     "sin_desglose": 57,
-    "total": 1444,
-    "en_reportado": 714,
-    "operaciones": 642
+    "total": 1455,
+    "en_reportado": 708,
+    "operaciones": 648
   },
   "mapa_departamentos": [
     {
       "departamento": "Antioquia",
       "bajas": 28,
-      "capturas": 115,
+      "capturas": 118,
       "sometimientos": 13,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 156,
-      "operaciones": 96,
+      "personas": 159,
+      "operaciones": 97,
       "lat": 6.549999999999998,
       "lon": -75.82999999999994
     },
@@ -139,12 +139,12 @@
       "departamento": "Bolívar",
       "bajas": 8,
       "capturas": 33,
-      "sometimientos": 0,
+      "sometimientos": 1,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 41,
-      "operaciones": 19,
-      "lat": 8.669999999999998,
+      "personas": 42,
+      "operaciones": 21,
+      "lat": 8.669999999999996,
       "lon": -74.02999999999999
     },
     {
@@ -172,6 +172,18 @@
       "lon": -73.34999999999998
     },
     {
+      "departamento": "Caquetá",
+      "bajas": 1,
+      "capturas": 20,
+      "sometimientos": 14,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 35,
+      "operaciones": 18,
+      "lat": 1.3000000000000003,
+      "lon": -75.52
+    },
+    {
       "departamento": "Tolima",
       "bajas": 0,
       "capturas": 28,
@@ -182,18 +194,6 @@
       "operaciones": 13,
       "lat": 3.8699999999999997,
       "lon": -75.23
-    },
-    {
-      "departamento": "Caquetá",
-      "bajas": 1,
-      "capturas": 14,
-      "sometimientos": 14,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 29,
-      "operaciones": 16,
-      "lat": 1.3000000000000003,
-      "lon": -75.52
     },
     {
       "departamento": "Santander",
@@ -220,6 +220,18 @@
       "lon": -76.63000000000002
     },
     {
+      "departamento": "Chocó",
+      "bajas": 0,
+      "capturas": 7,
+      "sometimientos": 10,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 17,
+      "operaciones": 9,
+      "lat": 5.71,
+      "lon": -76.77999999999999
+    },
+    {
       "departamento": "La Guajira",
       "bajas": 8,
       "capturas": 8,
@@ -230,18 +242,6 @@
       "operaciones": 12,
       "lat": 11.349999999999996,
       "lon": -72.52
-    },
-    {
-      "departamento": "Chocó",
-      "bajas": 0,
-      "capturas": 6,
-      "sometimientos": 10,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 16,
-      "operaciones": 8,
-      "lat": 5.71,
-      "lon": -76.77999999999999
     },
     {
       "departamento": "Córdoba",
@@ -280,18 +280,6 @@
       "lon": -70.76
     },
     {
-      "departamento": "Sucre",
-      "bajas": 0,
-      "capturas": 6,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 6,
-      "operaciones": 3,
-      "lat": 9.17,
-      "lon": -75.4
-    },
-    {
       "departamento": "Caldas",
       "bajas": 0,
       "capturas": 6,
@@ -302,6 +290,18 @@
       "operaciones": 2,
       "lat": 5.3,
       "lon": -75.57
+    },
+    {
+      "departamento": "Sucre",
+      "bajas": 0,
+      "capturas": 6,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 6,
+      "operaciones": 3,
+      "lat": 9.17,
+      "lon": -75.4
     },
     {
       "departamento": "Vichada",
@@ -340,18 +340,6 @@
       "lon": -75.17
     },
     {
-      "departamento": "Amazonas",
-      "bajas": 1,
-      "capturas": 0,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 1,
-      "operaciones": 1,
-      "lat": -1.44,
-      "lon": -71.76
-    },
-    {
       "departamento": "Risaralda",
       "bajas": 0,
       "capturas": 1,
@@ -386,6 +374,18 @@
       "operaciones": 1,
       "lat": 4.65,
       "lon": -74.05
+    },
+    {
+      "departamento": "Amazonas",
+      "bajas": 1,
+      "capturas": 0,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 1,
+      "operaciones": 1,
+      "lat": -1.44,
+      "lon": -71.76
     },
     {
       "departamento": "Quindío",
@@ -431,10 +431,10 @@
       "largo": "Estado Mayor de los Bloques y Frentes, facción de alias 'Calarcá'",
       "tipo": "disidencia FARC",
       "color": "#6c5ce7",
-      "personas": 45,
-      "ops": 24,
+      "personas": 52,
+      "ops": 27,
       "bajas": 10,
-      "capturas": 17,
+      "capturas": 24,
       "sometimientos": 2
     },
     {
@@ -455,11 +455,11 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 341,
-      "ops": 140,
+      "personas": 345,
+      "ops": 143,
       "bajas": 32,
-      "capturas": 279,
-      "sometimientos": 30
+      "capturas": 282,
+      "sometimientos": 31
     },
     {
       "key": "ACSN",
