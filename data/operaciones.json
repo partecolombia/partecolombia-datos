@@ -1,5 +1,203 @@
 [
   {
+    "id": 674,
+    "slug": "2026-10-04-operacion-clan_del_golfo-op",
+    "operacion_id": "2026-10-04-operacion-clan_del_golfo-op",
+    "fecha": "2026-10-04",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": "Palmira",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 1412
+    },
+    "aliases": [
+      "El Transportador"
+    ],
+    "descripcion": "La Fuerza Pública incautó 1412 kilos de cocaína y capturó a alias El Transportador en Palmira.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.elpais.com.co/judicial/golpe-al-clan-del-golfo-en-palmira-incautan-1412-kilos-de-cocaina-y-capturan-a-alias-el-transportador-0325.html",
+        "tipo": "medio_regional",
+        "medio": "El País (Cali)",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-04"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-10-04 04:02:11.271601+00"
+  },
+  {
+    "id": 673,
+    "slug": "2026-10-03-captura-embf-huila",
+    "operacion_id": "2026-10-03-captura-embf-huila",
+    "fecha": "2026-10-03",
+    "org": "EMBF",
+    "grupo_detalle": "Estructura Rodrigo Cadete",
+    "departamento": "Huila",
+    "municipio": "Neiva",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO"
+    ],
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 1,
+    "materiales": {},
+    "aliases": [
+      "Pocillo"
+    ],
+    "descripcion": "El Ejército Nacional confirmó la captura de alias Pocillo, integrante de la Estructura Rodrigo Cadete, del Bloque Jorge Suárez Briceño, en Neiva, Huila.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.lafm.com.co/orden-publico/capturado-alias-pocillo-disidencias-farc-neiva-huila-ejercito-colombia-412899",
+        "tipo": "medio_nacional",
+        "medio": "La FM",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-03"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-10-04 04:02:11.271601+00"
+  },
+  {
+    "id": 672,
+    "slug": "2026-10-03-operacion-desconocido-op",
+    "operacion_id": "2026-10-03-operacion-desconocido-op",
+    "fecha": "2026-10-03",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "cocaina_kg": 1000
+    },
+    "aliases": [],
+    "descripcion": "Incautación de más de una tonelada de cocaína.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.elheraldo.co/colombia/2026/10/03/de-la-espriella-reporta-balance-de-las-ultimas-24-horas-55-capturas-y-muerte-de-alias-terry-del-clan-del-golfo/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-03"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-10-04 04:02:11.271601+00"
+  },
+  {
+    "id": 671,
+    "slug": "2026-10-03-operacion-desconocido-narino",
+    "operacion_id": "2026-10-03-operacion-desconocido-narino",
+    "fecha": "2026-10-03",
+    "org": "DESCONOCIDO",
+    "grupo_detalle": null,
+    "departamento": "Nariño",
+    "municipio": "El Charco",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {
+      "dinero_cop": 675000000
+    },
+    "aliases": [],
+    "descripcion": "En una operación en El Charco, Nariño, las autoridades incautaron 675 millones de pesos y una embarcación.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://laopinion.co/colombia/de-la-espriella-reporto-millonaria-incautacion-y-golpes-al-narcotrafico-en-las-ultimas-24",
+        "tipo": "medio_regional",
+        "medio": "La Opinión (Cúcuta)",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-03"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-10-04 04:02:11.271601+00"
+  },
+  {
+    "id": 670,
+    "slug": "2026-10-02-captura-otro_gao-magdalena",
+    "operacion_id": "2026-10-02-captura-otro_gao-magdalena",
+    "fecha": "2026-10-02",
+    "org": "OTRO_GAO",
+    "grupo_detalle": null,
+    "departamento": "Magdalena",
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 4,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 4,
+    "materiales": {},
+    "aliases": [
+      "Comando 98",
+      "Messi"
+    ],
+    "descripcion": "La Policía Nacional capturó a alias ‘Messi’, señalado como quinto cabecilla armado del GAO ACS, en el marco de la ‘Operación Fénix’.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.seguimiento.co/colombia/capturan-alias-messi-senalado-cabecilla-de-las-autodefensas-conquistadoras-89700",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-02"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-10-04 04:02:11.271601+00"
+  },
+  {
     "id": 200,
     "slug": "2026-10-02-sin-desglose-clan_del_golfo-antioquia",
     "operacion_id": "2026-10-02-sin-desglose-clan_del_golfo-antioquia",
@@ -42,10 +240,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 102,
+    "id": 26,
     "slug": "2026-10-02-baja-clan_del_golfo-antioquia",
     "operacion_id": "2026-10-02-baja-clan_del_golfo-antioquia",
     "fecha": "2026-10-02",
@@ -81,9 +279,30 @@
         "fecha_publicacion": "2026-10-02"
       },
       {
+        "url": "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-confirma-la-baja-de-alias-Terry-cabecilla-del-Clan-del-Golfo-261002.aspx",
+        "tipo": "oficial",
+        "medio": "Presidencia",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-02"
+      },
+      {
         "url": "https://www.elcolombiano.com/antioquia/quien-es-alias-terry-cabecilla-clan-del-golfo-abatido-en-jerico-KK41873328",
         "tipo": "medio_nacional",
         "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-03"
+      },
+      {
+        "url": "https://www.lafm.com.co/orden-publico/alias-terry-cabecilla-clan-golfo-abatido-jerico-espriella-colombia-412791",
+        "tipo": "medio_nacional",
+        "medio": "La FM",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-03"
+      },
+      {
+        "url": "https://laopinion.co/colombia/de-la-espriella-reporto-millonaria-incautacion-y-golpes-al-narcotrafico-en-las-ultimas-24",
+        "tipo": "medio_regional",
+        "medio": "La Opinión (Cúcuta)",
         "fecha_consulta": null,
         "fecha_publicacion": "2026-10-03"
       },
@@ -109,9 +328,9 @@
         "fecha_publicacion": "2026-09-01"
       },
       {
-        "url": "https://www.elcolombiano.com/antioquia/clan-del-golfo-operativo-ejercito-jerico-octubre-2026-resultados-II41853649",
+        "url": "https://www.bluradio.com/regiones/antioquia/quien-era-alias-terry-cabecilla-del-clan-del-golfo-abatido-en-operativo-militar-en-antioquia-rg10",
         "tipo": "medio_nacional",
-        "medio": "El Colombiano",
+        "medio": "Blu Radio",
         "fecha_consulta": null,
         "fecha_publicacion": "2026-10-02"
       },
@@ -121,13 +340,114 @@
         "medio": "La Opinión (Cúcuta)",
         "fecha_consulta": null,
         "fecha_publicacion": "2026-10-02"
+      },
+      {
+        "url": "https://noticiasbq.com/presidente-abelardo-de-la-espriella-confirma-la-neutralizacion-de-alias-terry-y-dos-miembros-del-clan-del-golfo-en-operacion-militar/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-02"
+      },
+      {
+        "url": "https://www.elheraldo.co/colombia/2026/10/03/de-la-espriella-reporta-balance-de-las-ultimas-24-horas-55-capturas-y-muerte-de-alias-terry-del-clan-del-golfo/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-03"
+      },
+      {
+        "url": "https://www.elcolombiano.com/antioquia/clan-del-golfo-operativo-ejercito-jerico-octubre-2026-resultados-II41853649",
+        "tipo": "medio_nacional",
+        "medio": "El Colombiano",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-02"
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 665,
+    "id": 669,
+    "slug": "2026-10-01-captura-clan_del_golfo-choco",
+    "operacion_id": "2026-10-01-captura-clan_del_golfo-choco",
+    "fecha": "2026-10-01",
+    "org": "CLAN_DEL_GOLFO",
+    "grupo_detalle": null,
+    "departamento": "Chocó",
+    "municipio": "Quibdó",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 4,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 4,
+    "materiales": {
+      "dinero_cop": 500000000
+    },
+    "aliases": [
+      "Capi"
+    ],
+    "descripcion": "En una operación conjunta entre la Policía Nacional y las Fuerzas Militares fueron capturados cuatro integrantes del ‘Clan del Golfo’ e incautados más de $500 millones en efectivo y oro.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://judicialesydenunciasmedio.com.co/destacados/coordinador-financiero-del-clan-del-golfo-alias-capi-fue-capturado/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-02"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-10-04 04:02:11.271601+00"
+  },
+  {
+    "id": 668,
+    "slug": "2026-10-01-captura-emc-caldas",
+    "operacion_id": "2026-10-01-captura-emc-caldas",
+    "fecha": "2026-10-01",
+    "org": "EMC",
+    "grupo_detalle": null,
+    "departamento": "Caldas",
+    "municipio": "Villamaría",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 2,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 2,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "Una operación conjunta de la Policía, el Ejército y la Fiscalía permitió capturar a dos personas relacionadas con las disidencias en Villamaría, Caldas.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.noticiasrcn.com/colombia/descubrieron-en-una-finca-en-caldas-a-dos-eslabones-de-las-disidencias-1067326",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-10-01"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-10-04 04:02:11.271601+00"
+  },
+  {
+    "id": 667,
     "slug": "2026-10-01-captura-otro_gao-santander",
     "operacion_id": "2026-10-01-captura-otro_gao-santander",
     "fecha": "2026-10-01",
@@ -164,10 +484,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 664,
+    "id": 666,
     "slug": "2026-10-01-operacion-desconocido-colon",
     "operacion_id": "2026-10-01-operacion-desconocido-colon",
     "fecha": "2026-10-01",
@@ -204,10 +524,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 663,
+    "id": 665,
     "slug": "2026-10-01-captura-emc-meta",
     "operacion_id": "2026-10-01-captura-emc-meta",
     "fecha": "2026-10-01",
@@ -243,10 +563,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 662,
+    "id": 664,
     "slug": "2026-10-01-captura-otro_gao-sucre",
     "operacion_id": "2026-10-01-captura-otro_gao-sucre",
     "fecha": "2026-10-01",
@@ -283,10 +603,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 661,
+    "id": 663,
     "slug": "2026-10-01-captura-otro_gao-magdalena",
     "operacion_id": "2026-10-01-captura-otro_gao-magdalena",
     "fecha": "2026-10-01",
@@ -330,7 +650,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 300,
@@ -370,10 +690,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 660,
+    "id": 662,
     "slug": "2026-09-30-captura-desconocido-meta",
     "operacion_id": "2026-09-30-captura-desconocido-meta",
     "fecha": "2026-09-30",
@@ -409,10 +729,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 659,
+    "id": 661,
     "slug": "2026-09-30-baja-emc-antioquia",
     "operacion_id": "2026-09-30-baja-emc-antioquia",
     "fecha": "2026-09-30",
@@ -446,10 +766,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 658,
+    "id": 660,
     "slug": "2026-09-30-captura-embf-caqueta-2",
     "operacion_id": "2026-09-30-captura-embf-caqueta-2",
     "fecha": "2026-09-30",
@@ -483,10 +803,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 657,
+    "id": 659,
     "slug": "2026-09-30-captura-clan_del_golfo-antioquia",
     "operacion_id": "2026-09-30-captura-clan_del_golfo-antioquia",
     "fecha": "2026-09-30",
@@ -528,7 +848,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 299,
@@ -568,7 +888,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 298,
@@ -605,7 +925,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 297,
@@ -646,7 +966,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 296,
@@ -687,10 +1007,50 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 656,
+    "id": 658,
+    "slug": "2026-09-29-baja-emc-op",
+    "operacion_id": "2026-09-29-baja-emc-op",
+    "fecha": "2026-09-29",
+    "org": "EMC",
+    "grupo_detalle": "Frente Primero Armando Ríos",
+    "departamento": null,
+    "municipio": null,
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 10,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 10,
+    "materiales": {},
+    "aliases": [
+      "Ferney"
+    ],
+    "descripcion": "Diez disidentes de las FARC murieron durante un ataque aéreo de comandos especiales de las Fuerzas Militares.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://www.elinformador.com.co/index.php/judiciales/72-judiciales-nacional/263308-mueren-10-disidentes-de-las-farc-en-ataque-de-fuerzas-militares-de-colombia",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-29"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-10-04 04:02:11.271601+00"
+  },
+  {
+    "id": 657,
     "slug": "2026-09-29-captura-clan_del_golfo-bolivar",
     "operacion_id": "2026-09-29-captura-clan_del_golfo-bolivar",
     "fecha": "2026-09-29",
@@ -727,10 +1087,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 655,
+    "id": 656,
     "slug": "2026-09-29-captura-otro_gao-bolivar",
     "operacion_id": "2026-09-29-captura-otro_gao-bolivar",
     "fecha": "2026-09-29",
@@ -769,10 +1129,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 654,
+    "id": 655,
     "slug": "2026-09-29-captura-otro_gao-norte-de-santander",
     "operacion_id": "2026-09-29-captura-otro_gao-norte-de-santander",
     "fecha": "2026-09-29",
@@ -815,7 +1175,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 199,
@@ -869,7 +1229,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 198,
@@ -913,7 +1273,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 197,
@@ -957,7 +1317,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 196,
@@ -1025,10 +1385,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 59,
+    "id": 60,
     "slug": "2026-09-29-captura-clan_del_golfo-antioquia",
     "operacion_id": "2026-09-29-captura-clan_del_golfo-antioquia",
     "fecha": "2026-09-29",
@@ -1102,7 +1462,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 25,
@@ -1184,7 +1544,45 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
+  },
+  {
+    "id": 654,
+    "slug": "2026-09-28-operacion-segunda_marquetalia-huila",
+    "operacion_id": "2026-09-28-operacion-segunda_marquetalia-huila",
+    "fecha": "2026-09-28",
+    "org": "SEGUNDA_MARQUETALIA",
+    "grupo_detalle": null,
+    "departamento": "Huila",
+    "municipio": "Tello",
+    "lugar": null,
+    "fuerza": [
+      "EJERCITO",
+      "POLICIA"
+    ],
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total_neutralizados": 0,
+    "materiales": {},
+    "aliases": [],
+    "descripcion": "En el operativo se incautó armamento perteneciente a la Segunda Marquetalia.",
+    "estado_verificacion": "reportado",
+    "reportado_oficialmente": false,
+    "incluido_en_conteo": true,
+    "fuentes": [
+      {
+        "url": "https://diariolalibertad.com/2026/09/28/de-la-espriella-pone-en-la-mira-a-ivan-marquez-tras-operativo-contra-la-segunda-marquetalia/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-28"
+      }
+    ],
+    "notas_revision": [],
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 295,
@@ -1224,7 +1622,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 294,
@@ -1261,10 +1659,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 58,
+    "id": 59,
     "slug": "2026-09-28-operacion-eln-norte-de-santander",
     "operacion_id": "2026-09-28-operacion-eln-norte-de-santander",
     "fecha": "2026-09-28",
@@ -1322,7 +1720,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 653,
@@ -1361,7 +1759,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 652,
@@ -1396,7 +1794,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 651,
@@ -1442,7 +1840,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 650,
@@ -1477,7 +1875,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 649,
@@ -1516,7 +1914,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 648,
@@ -1553,7 +1951,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 293,
@@ -1594,7 +1992,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 292,
@@ -1632,7 +2030,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 195,
@@ -1691,10 +2089,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 101,
+    "id": 102,
     "slug": "2026-09-27-baja-otro_gao-huila",
     "operacion_id": "2026-09-27-baja-otro_gao-huila",
     "fecha": "2026-09-27",
@@ -1742,10 +2140,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 24,
+    "id": 14,
     "slug": "2026-09-27-captura-segunda_marquetalia-huila",
     "operacion_id": "2026-09-27-captura-segunda_marquetalia-huila",
     "fecha": "2026-09-27",
@@ -1809,11 +2207,25 @@
         "fecha_publicacion": "2026-09-27"
       },
       {
+        "url": "https://diariolalibertad.com/2026/09/28/de-la-espriella-pone-en-la-mira-a-ivan-marquez-tras-operativo-contra-la-segunda-marquetalia/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-28"
+      },
+      {
         "url": "https://sintapujoscol.com/abatido-alias-robinson-gutierrez-cabecilla-de-la-segunda-marquetalia-vinculado-al-crimen-de-miguel-uribe/",
         "tipo": "agregador",
         "medio": "Fuente periodística",
         "fecha_consulta": null,
         "fecha_publicacion": "2026-09-27"
+      },
+      {
+        "url": "https://soynuevaprensadigital.com/npd/abaten-a-alias-robinson-gutierrez-cabecilla-de-las-farc-vinculado-al-magnicidio-de-miguel-uribe-turbay/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-28"
       },
       {
         "url": "https://primeraedicioncol.com/abatido-alias-robinson-gutierrez-cabecilla-de-la-segunda-marquetalia-en-operativo-en-huila/",
@@ -1838,7 +2250,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 2,
@@ -1939,6 +2351,13 @@
         "fecha_publicacion": "2026-09-27"
       },
       {
+        "url": "https://diariolalibertad.com/2026/09/28/de-la-espriella-pone-en-la-mira-a-ivan-marquez-tras-operativo-contra-la-segunda-marquetalia/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-28"
+      },
+      {
         "url": "https://nuestrasnoticias.co/duro-golpe-contra-segunda-marquetalia-en-el-huila/",
         "tipo": "agregador",
         "medio": "Fuente periodística",
@@ -1961,6 +2380,13 @@
       },
       {
         "url": "https://www.lanacion.com.co/robinson-la-ficha-de-marquez-que-cayo-en-el-huila-tras-seis-anos-de-seguimiento/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-28"
+      },
+      {
+        "url": "https://www.loquepasaencolombia.com/politica/va-llegando-la-seguridad-uribe-destaca-golpe-contra-la-segunda-marquetalia",
         "tipo": "agregador",
         "medio": "Fuente periodística",
         "fecha_consulta": null,
@@ -2051,6 +2477,41 @@
         "fecha_publicacion": "2026-09-27"
       },
       {
+        "url": "https://cesarnoticias.co/golpe-a-la-segunda-marquetalia-cae-alias-robinson-gutierrez-en-operativo-en-huila/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-27"
+      },
+      {
+        "url": "https://netnoticias.mx/internacional/abaten-en-colombia-a-lider-de-disidencia-de-las-farc-acusado-de-magnicidio",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-28"
+      },
+      {
+        "url": "https://newsradio.com.co/2026/09/golpe-a-la-segunda-marquetalia-abatido-en-huila-alias-robinson-gutierrez-senalado-por-el-gobierno-de-estar-ligado-al-crimen-de-miguel-uribe-turbay/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-27"
+      },
+      {
+        "url": "https://soynuevaprensadigital.com/npd/abaten-a-alias-robinson-gutierrez-cabecilla-de-las-farc-vinculado-al-magnicidio-de-miguel-uribe-turbay/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-28"
+      },
+      {
+        "url": "https://www.teleantioquia.co/noticias/confirman-que-fue-abatido-alias-robinson-gutierrez-cabecilla-de-la-segunda-marquetalia-y-vinculado-al-crimen-de-miguel-uribe-turbay-611686",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-27"
+      },
+      {
         "url": "https://www.cgfm.mil.co/es/multimedia/noticias/muere-en-desarrollo-de-operaciones-militares-alias-robinson-gutierrez-senalado",
         "tipo": "oficial",
         "medio": "Comando General FF.MM.",
@@ -2072,27 +2533,6 @@
         "fecha_publicacion": "2026-09-27"
       },
       {
-        "url": "https://cesarnoticias.co/golpe-a-la-segunda-marquetalia-cae-alias-robinson-gutierrez-en-operativo-en-huila/",
-        "tipo": "agregador",
-        "medio": "Fuente periodística",
-        "fecha_consulta": null,
-        "fecha_publicacion": "2026-09-27"
-      },
-      {
-        "url": "https://newsradio.com.co/2026/09/golpe-a-la-segunda-marquetalia-abatido-en-huila-alias-robinson-gutierrez-senalado-por-el-gobierno-de-estar-ligado-al-crimen-de-miguel-uribe-turbay/",
-        "tipo": "agregador",
-        "medio": "Fuente periodística",
-        "fecha_consulta": null,
-        "fecha_publicacion": "2026-09-27"
-      },
-      {
-        "url": "https://www.teleantioquia.co/noticias/confirman-que-fue-abatido-alias-robinson-gutierrez-cabecilla-de-la-segunda-marquetalia-y-vinculado-al-crimen-de-miguel-uribe-turbay-611686",
-        "tipo": "agregador",
-        "medio": "Fuente periodística",
-        "fecha_consulta": null,
-        "fecha_publicacion": "2026-09-27"
-      },
-      {
         "url": "https://www.minuto30.com/ivan-marquez-bolsa-blanca-robinson-gutierrez/1720484/",
         "tipo": "medio_regional",
         "medio": "Minuto30",
@@ -2101,7 +2541,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 647,
@@ -2140,7 +2580,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 646,
@@ -2180,7 +2620,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 645,
@@ -2218,7 +2658,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 291,
@@ -2253,7 +2693,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 290,
@@ -2293,7 +2733,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 289,
@@ -2330,7 +2770,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 194,
@@ -2378,7 +2818,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 644,
@@ -2415,7 +2855,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 643,
@@ -2453,7 +2893,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 642,
@@ -2491,7 +2931,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 641,
@@ -2529,7 +2969,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 640,
@@ -2570,7 +3010,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 193,
@@ -2619,7 +3059,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 192,
@@ -2663,7 +3103,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 191,
@@ -2705,10 +3145,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 100,
+    "id": 101,
     "slug": "2026-09-25-baja-emc-valle-del-cauca",
     "operacion_id": "2026-09-25-baja-emc-valle-del-cauca",
     "fecha": "2026-09-25",
@@ -2828,7 +3268,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 639,
@@ -2868,7 +3308,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 638,
@@ -2903,7 +3343,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 637,
@@ -2938,7 +3378,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 636,
@@ -2975,7 +3415,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 635,
@@ -3012,7 +3452,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 634,
@@ -3050,7 +3490,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 633,
@@ -3092,7 +3532,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 632,
@@ -3136,7 +3576,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 631,
@@ -3191,7 +3631,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 630,
@@ -3226,7 +3666,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 629,
@@ -3271,10 +3711,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 99,
+    "id": 100,
     "slug": "2026-09-24-captura-clan_del_golfo-antioquia",
     "operacion_id": "2026-09-24-captura-clan_del_golfo-antioquia",
     "fecha": "2026-09-24",
@@ -3324,10 +3764,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 98,
+    "id": 99,
     "slug": "2026-09-24-captura-emc-op",
     "operacion_id": "2026-09-24-captura-emc-op",
     "fecha": "2026-09-24",
@@ -3375,10 +3815,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 97,
+    "id": 98,
     "slug": "2026-09-24-captura-otro_gao-op",
     "operacion_id": "2026-09-24-captura-otro_gao-op",
     "fecha": "2026-09-24",
@@ -3436,10 +3876,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 96,
+    "id": 97,
     "slug": "2026-09-24-captura-otro_gao-magdalena",
     "operacion_id": "2026-09-24-captura-otro_gao-magdalena",
     "fecha": "2026-09-24",
@@ -3514,7 +3954,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 628,
@@ -3555,7 +3995,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 627,
@@ -3594,7 +4034,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 626,
@@ -3635,7 +4075,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 625,
@@ -3675,7 +4115,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 624,
@@ -3712,7 +4152,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 623,
@@ -3749,7 +4189,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 622,
@@ -3790,7 +4230,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 621,
@@ -3825,7 +4265,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 620,
@@ -3863,7 +4303,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 288,
@@ -3944,7 +4384,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 287,
@@ -3983,7 +4423,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 286,
@@ -4022,7 +4462,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 285,
@@ -4060,7 +4500,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 284,
@@ -4101,7 +4541,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 190,
@@ -4152,7 +4592,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 5,
@@ -4278,7 +4718,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 619,
@@ -4321,7 +4761,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 618,
@@ -4360,7 +4800,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 617,
@@ -4398,7 +4838,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 616,
@@ -4436,7 +4876,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 615,
@@ -4474,7 +4914,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 614,
@@ -4512,7 +4952,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 189,
@@ -4565,7 +5005,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 188,
@@ -4610,7 +5050,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 187,
@@ -4654,7 +5094,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 186,
@@ -4701,7 +5141,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 185,
@@ -4745,7 +5185,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 184,
@@ -4790,10 +5230,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 42,
+    "id": 43,
     "slug": "2026-09-22-captura-otro_gao-op",
     "operacion_id": "2026-09-22-captura-otro_gao-op",
     "fecha": "2026-09-22",
@@ -4856,7 +5296,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 613,
@@ -4894,7 +5334,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 612,
@@ -4934,7 +5374,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 611,
@@ -4973,7 +5413,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 610,
@@ -5010,7 +5450,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 609,
@@ -5051,7 +5491,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 608,
@@ -5091,7 +5531,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 607,
@@ -5131,7 +5571,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 283,
@@ -5171,7 +5611,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 183,
@@ -5218,7 +5658,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 182,
@@ -5263,10 +5703,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 95,
+    "id": 96,
     "slug": "2026-09-21-captura-emc-cauca",
     "operacion_id": "2026-09-21-captura-emc-cauca",
     "fecha": "2026-09-21",
@@ -5332,10 +5772,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 94,
+    "id": 95,
     "slug": "2026-09-21-operacion-otro_gao-magdalena",
     "operacion_id": "2026-09-21-operacion-otro_gao-magdalena",
     "fecha": "2026-09-21",
@@ -5385,10 +5825,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 41,
+    "id": 42,
     "slug": "2026-09-21-captura-otro_gao-magdalena",
     "operacion_id": "2026-09-21-captura-otro_gao-magdalena",
     "fecha": "2026-09-21",
@@ -5485,10 +5925,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 40,
+    "id": 41,
     "slug": "2026-09-21-captura-otro_gao-cauca",
     "operacion_id": "2026-09-21-captura-otro_gao-cauca",
     "fecha": "2026-09-21",
@@ -5582,10 +6022,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "2026-09-21-baja-otro_gao-magdalena",
     "operacion_id": "2026-09-21-baja-otro_gao-magdalena",
     "fecha": "2026-09-21",
@@ -5871,7 +6311,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 606,
@@ -5911,7 +6351,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 605,
@@ -5950,7 +6390,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 604,
@@ -5990,7 +6430,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 603,
@@ -6027,7 +6467,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 602,
@@ -6073,7 +6513,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 601,
@@ -6112,7 +6552,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 181,
@@ -6156,7 +6596,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 600,
@@ -6194,7 +6634,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 599,
@@ -6232,7 +6672,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 598,
@@ -6271,7 +6711,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 597,
@@ -6311,7 +6751,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 180,
@@ -6366,7 +6806,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 179,
@@ -6410,7 +6850,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 178,
@@ -6477,10 +6917,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 93,
+    "id": 94,
     "slug": "2026-09-19-baja-otro_gao-antioquia",
     "operacion_id": "2026-09-19-baja-otro_gao-antioquia",
     "fecha": "2026-09-19",
@@ -6560,10 +7000,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 92,
+    "id": 93,
     "slug": "2026-09-19-baja-clan_del_golfo-antioquia",
     "operacion_id": "2026-09-19-baja-clan_del_golfo-antioquia",
     "fecha": "2026-09-19",
@@ -6645,10 +7085,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 91,
+    "id": 92,
     "slug": "2026-09-19-captura-otro_gao-risaralda",
     "operacion_id": "2026-09-19-captura-otro_gao-risaralda",
     "fecha": "2026-09-19",
@@ -6699,10 +7139,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 57,
+    "id": 58,
     "slug": "2026-09-19-captura-eln-antioquia",
     "operacion_id": "2026-09-19-captura-eln-antioquia",
     "fecha": "2026-09-19",
@@ -6766,7 +7206,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 596,
@@ -6806,7 +7246,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 595,
@@ -6853,7 +7293,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 177,
@@ -6913,7 +7353,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 176,
@@ -6960,10 +7400,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "2026-09-18-captura-clan_del_golfo-bolivar",
     "operacion_id": "2026-09-18-captura-clan_del_golfo-bolivar",
     "fecha": "2026-09-18",
@@ -7028,7 +7468,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 594,
@@ -7067,7 +7507,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 593,
@@ -7104,7 +7544,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 592,
@@ -7143,7 +7583,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 591,
@@ -7183,7 +7623,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 590,
@@ -7221,7 +7661,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 589,
@@ -7263,7 +7703,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 588,
@@ -7304,7 +7744,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 282,
@@ -7344,7 +7784,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 175,
@@ -7391,7 +7831,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 174,
@@ -7436,7 +7876,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 587,
@@ -7481,7 +7921,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 586,
@@ -7520,7 +7960,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 585,
@@ -7559,7 +7999,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 584,
@@ -7597,7 +8037,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 583,
@@ -7641,10 +8081,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "2026-09-16-captura-clan_del_golfo-antioquia",
     "operacion_id": "2026-09-16-captura-clan_del_golfo-antioquia",
     "fecha": "2026-09-16",
@@ -7734,7 +8174,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 582,
@@ -7773,7 +8213,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 581,
@@ -7813,7 +8253,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 580,
@@ -7851,7 +8291,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 6,
@@ -8032,7 +8472,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 579,
@@ -8071,7 +8511,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 578,
@@ -8110,7 +8550,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 577,
@@ -8148,7 +8588,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 576,
@@ -8188,7 +8628,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 575,
@@ -8227,7 +8667,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 281,
@@ -8264,7 +8704,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 280,
@@ -8301,7 +8741,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 279,
@@ -8339,7 +8779,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 173,
@@ -8387,10 +8827,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 56,
+    "id": 57,
     "slug": "2026-09-14-captura-eln-norte-de-santander",
     "operacion_id": "2026-09-14-captura-eln-norte-de-santander",
     "fecha": "2026-09-14",
@@ -8450,10 +8890,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 55,
+    "id": 56,
     "slug": "2026-09-14-baja-clan_del_golfo-antioquia",
     "operacion_id": "2026-09-14-baja-clan_del_golfo-antioquia",
     "fecha": "2026-09-14",
@@ -8542,10 +8982,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "2026-09-14-captura-clan_del_golfo-cesar",
     "operacion_id": "2026-09-14-captura-clan_del_golfo-cesar",
     "fecha": "2026-09-14",
@@ -8618,7 +9058,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 13,
@@ -8704,7 +9144,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 574,
@@ -8739,7 +9179,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 573,
@@ -8774,7 +9214,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 572,
@@ -8811,7 +9251,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 571,
@@ -8851,7 +9291,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 570,
@@ -8889,7 +9329,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 569,
@@ -8926,7 +9366,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 568,
@@ -8963,7 +9403,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 567,
@@ -9000,7 +9440,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 566,
@@ -9037,7 +9477,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 565,
@@ -9077,7 +9517,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 564,
@@ -9117,7 +9557,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 172,
@@ -9164,7 +9604,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 171,
@@ -9208,7 +9648,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 170,
@@ -9280,10 +9720,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 54,
+    "id": 55,
     "slug": "2026-09-13-captura-otro_gao-antioquia",
     "operacion_id": "2026-09-13-captura-otro_gao-antioquia",
     "fecha": "2026-09-13",
@@ -9345,10 +9785,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 53,
+    "id": 54,
     "slug": "2026-09-13-captura-emc-antioquia",
     "operacion_id": "2026-09-13-captura-emc-antioquia",
     "fecha": "2026-09-13",
@@ -9426,10 +9866,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "2026-09-13-baja-emc-antioquia",
     "operacion_id": "2026-09-13-baja-emc-antioquia",
     "fecha": "2026-09-13",
@@ -9508,7 +9948,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 563,
@@ -9545,7 +9985,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 562,
@@ -9589,7 +10029,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 278,
@@ -9630,7 +10070,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 277,
@@ -9671,7 +10111,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 276,
@@ -9711,7 +10151,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 275,
@@ -9753,10 +10193,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 90,
+    "id": 91,
     "slug": "2026-09-12-captura-emc-valle-del-cauca",
     "operacion_id": "2026-09-12-captura-emc-valle-del-cauca",
     "fecha": "2026-09-12",
@@ -9804,7 +10244,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 561,
@@ -9841,7 +10281,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 560,
@@ -9879,7 +10319,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 559,
@@ -9919,7 +10359,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 558,
@@ -9959,7 +10399,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 557,
@@ -9996,7 +10436,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 556,
@@ -10035,7 +10475,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 555,
@@ -10070,7 +10510,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 554,
@@ -10109,7 +10549,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 274,
@@ -10155,7 +10595,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 273,
@@ -10198,7 +10638,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 169,
@@ -10253,7 +10693,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 553,
@@ -10290,7 +10730,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 552,
@@ -10329,7 +10769,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 551,
@@ -10367,7 +10807,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 550,
@@ -10406,7 +10846,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 549,
@@ -10461,7 +10901,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 548,
@@ -10500,7 +10940,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 547,
@@ -10540,7 +10980,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 546,
@@ -10578,7 +11018,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 272,
@@ -10618,7 +11058,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 271,
@@ -10659,7 +11099,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 168,
@@ -10707,10 +11147,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 89,
+    "id": 90,
     "slug": "2026-09-10-captura-clan_del_golfo-op",
     "operacion_id": "2026-09-10-captura-clan_del_golfo-op",
     "fecha": "2026-09-10",
@@ -10760,10 +11200,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 88,
+    "id": 89,
     "slug": "2026-09-10-captura-clan_del_golfo-antioquia",
     "operacion_id": "2026-09-10-captura-clan_del_golfo-antioquia",
     "fecha": "2026-09-10",
@@ -10812,7 +11252,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 10,
@@ -10930,7 +11370,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 545,
@@ -10970,7 +11410,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 270,
@@ -11007,7 +11447,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 269,
@@ -11047,7 +11487,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 268,
@@ -11097,7 +11537,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 167,
@@ -11143,7 +11583,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 166,
@@ -11220,10 +11660,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 87,
+    "id": 88,
     "slug": "2026-09-09-captura-eln-norte-de-santander",
     "operacion_id": "2026-09-09-captura-eln-norte-de-santander",
     "fecha": "2026-09-09",
@@ -11271,10 +11711,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 86,
+    "id": 87,
     "slug": "2026-09-09-captura-clan_del_golfo-santander",
     "operacion_id": "2026-09-09-captura-clan_del_golfo-santander",
     "fecha": "2026-09-09",
@@ -11324,7 +11764,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 544,
@@ -11364,7 +11804,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 543,
@@ -11401,7 +11841,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 542,
@@ -11436,7 +11876,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 165,
@@ -11485,7 +11925,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 541,
@@ -11522,7 +11962,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 540,
@@ -11560,7 +12000,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 539,
@@ -11609,7 +12049,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 538,
@@ -11651,7 +12091,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 164,
@@ -11706,7 +12146,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 537,
@@ -11744,7 +12184,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 536,
@@ -11782,7 +12222,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 535,
@@ -11817,7 +12257,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 534,
@@ -11856,7 +12296,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 533,
@@ -11894,7 +12334,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 532,
@@ -11932,7 +12372,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 531,
@@ -11971,7 +12411,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 163,
@@ -12018,10 +12458,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "2026-09-06-captura-emc-narino",
     "operacion_id": "2026-09-06-captura-emc-narino",
     "fecha": "2026-09-06",
@@ -12184,7 +12624,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 1,
@@ -12409,7 +12849,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 530,
@@ -12446,7 +12886,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 529,
@@ -12483,7 +12923,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 528,
@@ -12523,7 +12963,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 527,
@@ -12566,7 +13006,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 526,
@@ -12604,7 +13044,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 525,
@@ -12644,10 +13084,10 @@
     "notas_revision": [
       {
         "nota": "Excluida del conteo: es un balance de periodo (cifra agregada sin lugar ni estructura), no un operativo. Las operaciones que la componen ya se cuentan por separado.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 524,
@@ -12685,7 +13125,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 162,
@@ -12733,7 +13173,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 161,
@@ -12777,7 +13217,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 523,
@@ -12862,7 +13302,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 522,
@@ -12902,7 +13342,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 521,
@@ -12941,7 +13381,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 520,
@@ -12978,7 +13418,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 267,
@@ -13017,10 +13457,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "2026-09-04-captura-eln-norte-de-santander",
     "operacion_id": "2026-09-04-captura-eln-norte-de-santander",
     "fecha": "2026-09-04",
@@ -13107,7 +13547,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 4,
@@ -13660,7 +14100,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 266,
@@ -13699,7 +14139,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 265,
@@ -13738,7 +14178,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 160,
@@ -13783,7 +14223,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 519,
@@ -13822,7 +14262,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 518,
@@ -13860,7 +14300,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 517,
@@ -13901,7 +14341,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 516,
@@ -13939,7 +14379,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 515,
@@ -13976,7 +14416,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 514,
@@ -14017,7 +14457,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 513,
@@ -14055,7 +14495,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 512,
@@ -14096,7 +14536,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 264,
@@ -14135,7 +14575,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 263,
@@ -14170,7 +14610,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 262,
@@ -14207,7 +14647,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 159,
@@ -14254,7 +14694,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 158,
@@ -14296,7 +14736,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 157,
@@ -14338,7 +14778,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 156,
@@ -14380,10 +14820,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "2026-09-02-sometimiento-clan_del_golfo-antioquia",
     "operacion_id": "2026-09-02-sometimiento-clan_del_golfo-antioquia",
     "fecha": "2026-09-02",
@@ -14467,10 +14907,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "2026-09-02-operacion-clan_del_golfo-antioquia",
     "operacion_id": "2026-09-02-operacion-clan_del_golfo-antioquia",
     "fecha": "2026-09-02",
@@ -14536,7 +14976,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 3,
@@ -14670,7 +15110,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 511,
@@ -14710,7 +15150,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 510,
@@ -14748,7 +15188,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 509,
@@ -14785,7 +15225,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 508,
@@ -14836,7 +15276,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 507,
@@ -14874,7 +15314,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 506,
@@ -14914,7 +15354,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 261,
@@ -14967,7 +15407,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 260,
@@ -15007,7 +15447,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 259,
@@ -15055,7 +15495,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 258,
@@ -15095,7 +15535,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 257,
@@ -15132,7 +15572,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 256,
@@ -15171,7 +15611,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 155,
@@ -15223,7 +15663,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 154,
@@ -15268,10 +15708,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 85,
+    "id": 86,
     "slug": "2026-09-01-baja-emc-guaviare",
     "operacion_id": "2026-09-01-baja-emc-guaviare",
     "fecha": "2026-09-01",
@@ -15471,10 +15911,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 84,
+    "id": 85,
     "slug": "2026-09-01-baja-clan_del_golfo-antioquia",
     "operacion_id": "2026-09-01-baja-clan_del_golfo-antioquia",
     "fecha": "2026-09-01",
@@ -15528,10 +15968,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 52,
+    "id": 53,
     "slug": "2026-09-01-captura-emc-guaviare",
     "operacion_id": "2026-09-01-captura-emc-guaviare",
     "fecha": "2026-09-01",
@@ -15666,7 +16106,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 505,
@@ -15706,10 +16146,10 @@
     "notas_revision": [
       {
         "nota": "Excluida del conteo: es un balance de periodo (cifra agregada sin lugar ni estructura), no un operativo. Las operaciones que la componen ya se cuentan por separado.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 504,
@@ -15751,10 +16191,10 @@
     "notas_revision": [
       {
         "nota": "Excluida del conteo: es un balance de periodo (cifra agregada sin lugar ni estructura), no un operativo. Las operaciones que la componen ya se cuentan por separado.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 503,
@@ -15792,7 +16232,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 502,
@@ -15848,7 +16288,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 255,
@@ -15893,7 +16333,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 254,
@@ -15936,7 +16376,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 253,
@@ -15976,7 +16416,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 252,
@@ -16015,10 +16455,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 83,
+    "id": 84,
     "slug": "2026-08-31-captura-otro_gao-santander",
     "operacion_id": "2026-08-31-captura-otro_gao-santander",
     "fecha": "2026-08-31",
@@ -16069,10 +16509,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 82,
+    "id": 83,
     "slug": "2026-08-31-operacion-desconocido-op",
     "operacion_id": "2026-08-31-operacion-desconocido-op",
     "fecha": "2026-08-31",
@@ -16120,7 +16560,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 501,
@@ -16160,7 +16600,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 251,
@@ -16200,7 +16640,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 250,
@@ -16261,7 +16701,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 249,
@@ -16301,7 +16741,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 153,
@@ -16345,10 +16785,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 81,
+    "id": 82,
     "slug": "2026-08-29-captura-clan_del_golfo-sucre",
     "operacion_id": "2026-08-29-captura-clan_del_golfo-sucre",
     "fecha": "2026-08-29",
@@ -16399,10 +16839,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 80,
+    "id": 81,
     "slug": "2026-08-29-captura-eln-cesar",
     "operacion_id": "2026-08-29-captura-eln-cesar",
     "fecha": "2026-08-29",
@@ -16460,7 +16900,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 500,
@@ -16495,7 +16935,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 499,
@@ -16530,7 +16970,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 498,
@@ -16565,7 +17005,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 497,
@@ -16602,10 +17042,10 @@
     "notas_revision": [
       {
         "nota": "Excluida del conteo: es un balance de periodo (cifra agregada sin lugar ni estructura), no un operativo. Las operaciones que la componen ya se cuentan por separado.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 496,
@@ -16642,10 +17082,10 @@
     "notas_revision": [
       {
         "nota": "Excluida del conteo: es un balance de periodo (cifra agregada sin lugar ni estructura), no un operativo. Las operaciones que la componen ya se cuentan por separado.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 248,
@@ -16683,7 +17123,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 247,
@@ -16720,7 +17160,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 246,
@@ -16760,7 +17200,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 495,
@@ -16798,7 +17238,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 245,
@@ -16836,7 +17276,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 244,
@@ -16874,7 +17314,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 243,
@@ -16913,7 +17353,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 494,
@@ -16950,7 +17390,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 493,
@@ -16985,7 +17425,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 492,
@@ -17025,7 +17465,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 491,
@@ -17065,7 +17505,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 490,
@@ -17102,7 +17542,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 489,
@@ -17141,7 +17581,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 488,
@@ -17186,7 +17626,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 242,
@@ -17224,7 +17664,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 241,
@@ -17275,7 +17715,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 152,
@@ -17320,7 +17760,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 151,
@@ -17364,10 +17804,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "2026-08-24-captura-segunda_marquetalia-meta",
     "operacion_id": "2026-08-24-captura-segunda_marquetalia-meta",
     "fecha": "2026-08-24",
@@ -17528,7 +17968,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 487,
@@ -17566,7 +18006,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 486,
@@ -17605,7 +18045,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 485,
@@ -17646,7 +18086,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 484,
@@ -17686,10 +18126,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "2026-08-23-captura-clan_del_golfo-magdalena",
     "operacion_id": "2026-08-23-captura-clan_del_golfo-magdalena",
     "fecha": "2026-08-23",
@@ -17775,7 +18215,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 483,
@@ -17812,7 +18252,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 482,
@@ -17853,7 +18293,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 481,
@@ -17890,7 +18330,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 480,
@@ -17930,7 +18370,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 479,
@@ -17984,7 +18424,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 478,
@@ -18021,7 +18461,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 477,
@@ -18061,7 +18501,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 476,
@@ -18112,7 +18552,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 150,
@@ -18159,7 +18599,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 149,
@@ -18206,10 +18646,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 51,
+    "id": 52,
     "slug": "2026-08-22-operacion-clan_del_golfo-antioquia",
     "operacion_id": "2026-08-22-operacion-clan_del_golfo-antioquia",
     "fecha": "2026-08-22",
@@ -18268,10 +18708,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "2026-08-22-baja-clan_del_golfo-op",
     "operacion_id": "2026-08-22-baja-clan_del_golfo-op",
     "fecha": "2026-08-22",
@@ -18371,10 +18811,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "2026-08-22-captura-clan_del_golfo-antioquia",
     "operacion_id": "2026-08-22-captura-clan_del_golfo-antioquia",
     "fecha": "2026-08-22",
@@ -18479,7 +18919,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 475,
@@ -18518,7 +18958,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 474,
@@ -18559,7 +18999,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 473,
@@ -18596,7 +19036,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 148,
@@ -18644,7 +19084,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 147,
@@ -18691,7 +19131,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 472,
@@ -18730,7 +19170,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 471,
@@ -18771,7 +19211,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 470,
@@ -18812,7 +19252,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 469,
@@ -18849,7 +19289,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 468,
@@ -18888,7 +19328,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 467,
@@ -18928,7 +19368,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 466,
@@ -18978,7 +19418,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 465,
@@ -19019,7 +19459,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 464,
@@ -19058,7 +19498,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 463,
@@ -19095,7 +19535,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 240,
@@ -19132,7 +19572,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 239,
@@ -19172,7 +19612,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 238,
@@ -19210,7 +19650,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 146,
@@ -19254,7 +19694,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 145,
@@ -19300,10 +19740,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 79,
+    "id": 80,
     "slug": "2026-08-20-captura-otro_gao-cesar",
     "operacion_id": "2026-08-20-captura-otro_gao-cesar",
     "fecha": "2026-08-20",
@@ -19317,11 +19757,11 @@
       "POLICIA"
     ],
     "bajas": 0,
-    "capturas": 4,
+    "capturas": 7,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total_neutralizados": 4,
+    "total_neutralizados": 7,
     "materiales": {
       "armas": 6
     },
@@ -19329,6 +19769,7 @@
       "Camilo",
       "Cristian",
       "Moisés",
+      "Sebastián",
       "Winnie Pooh"
     ],
     "descripcion": "Un combate de encuentro en zona rural dejó como resultado cuatro capturados, entre ellos alias Moisés, señalado como presunto cabecilla de finanzas.",
@@ -19405,10 +19846,17 @@
         "medio": "Fuente periodística",
         "fecha_consulta": null,
         "fecha_publicacion": "2026-08-21"
+      },
+      {
+        "url": "https://ifmnoticias.com/judicial/alias-camilo-y-alias-sebastian-entre-los-siete-capturados-en-operativo-contra-el-eln-en-cesar/",
+        "tipo": "agregador",
+        "medio": "Fuente periodística",
+        "fecha_consulta": null,
+        "fecha_publicacion": "2026-09-30"
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 462,
@@ -19451,7 +19899,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 461,
@@ -19490,7 +19938,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 460,
@@ -19528,7 +19976,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 459,
@@ -19567,7 +20015,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 458,
@@ -19604,7 +20052,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 457,
@@ -19644,7 +20092,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 144,
@@ -19713,7 +20161,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 143,
@@ -19767,10 +20215,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 78,
+    "id": 79,
     "slug": "2026-08-19-captura-clan_del_golfo-sucre",
     "operacion_id": "2026-08-19-captura-clan_del_golfo-sucre",
     "fecha": "2026-08-19",
@@ -19842,7 +20290,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 456,
@@ -19881,7 +20329,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 455,
@@ -19920,7 +20368,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 454,
@@ -19959,7 +20407,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 453,
@@ -19997,7 +20445,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 237,
@@ -20038,7 +20486,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 142,
@@ -20086,10 +20534,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 77,
+    "id": 78,
     "slug": "2026-08-18-captura-emc-op",
     "operacion_id": "2026-08-18-captura-emc-op",
     "fecha": "2026-08-18",
@@ -20161,10 +20609,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 50,
+    "id": 51,
     "slug": "2026-08-18-sometimiento-emc-antioquia",
     "operacion_id": "2026-08-18-sometimiento-emc-antioquia",
     "fecha": "2026-08-18",
@@ -20239,10 +20687,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 49,
+    "id": 50,
     "slug": "2026-08-18-captura-clan_del_golfo-choco",
     "operacion_id": "2026-08-18-captura-clan_del_golfo-choco",
     "fecha": "2026-08-18",
@@ -20300,7 +20748,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 452,
@@ -20335,7 +20783,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 451,
@@ -20370,7 +20818,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 450,
@@ -20409,7 +20857,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 449,
@@ -20446,7 +20894,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 448,
@@ -20497,7 +20945,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 447,
@@ -20538,7 +20986,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 446,
@@ -20576,7 +21024,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 445,
@@ -20614,7 +21062,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 444,
@@ -20654,7 +21102,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 443,
@@ -20693,7 +21141,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 236,
@@ -20734,7 +21182,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 141,
@@ -20781,7 +21229,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 140,
@@ -20841,10 +21289,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 76,
+    "id": 77,
     "slug": "2026-08-16-operacion-otro_gao-op",
     "operacion_id": "2026-08-16-operacion-otro_gao-op",
     "fecha": "2026-08-16",
@@ -20894,7 +21342,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 442,
@@ -20933,7 +21381,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 441,
@@ -20974,7 +21422,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 440,
@@ -21014,7 +21462,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 439,
@@ -21052,7 +21500,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 438,
@@ -21091,7 +21539,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 235,
@@ -21128,7 +21576,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 139,
@@ -21174,7 +21622,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 138,
@@ -21221,7 +21669,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 137,
@@ -21274,10 +21722,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 75,
+    "id": 76,
     "slug": "2026-08-15-operacion-clan_del_golfo-antioquia",
     "operacion_id": "2026-08-15-operacion-clan_del_golfo-antioquia",
     "fecha": "2026-08-15",
@@ -21325,10 +21773,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 74,
+    "id": 75,
     "slug": "2026-08-15-captura-clan_del_golfo-antioquia",
     "operacion_id": "2026-08-15-captura-clan_del_golfo-antioquia",
     "fecha": "2026-08-15",
@@ -21414,7 +21862,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 9,
@@ -21516,7 +21964,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 437,
@@ -21556,7 +22004,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 436,
@@ -21599,7 +22047,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 435,
@@ -21637,7 +22085,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 434,
@@ -21676,7 +22124,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 234,
@@ -21715,7 +22163,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 136,
@@ -21767,10 +22215,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 73,
+    "id": 74,
     "slug": "2026-08-14-operacion-desconocido-op",
     "operacion_id": "2026-08-14-operacion-desconocido-op",
     "fecha": "2026-08-14",
@@ -21821,7 +22269,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 433,
@@ -21859,7 +22307,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 432,
@@ -21894,7 +22342,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 431,
@@ -21933,7 +22381,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 430,
@@ -21975,7 +22423,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 429,
@@ -22012,7 +22460,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 233,
@@ -22058,7 +22506,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 232,
@@ -22097,7 +22545,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 135,
@@ -22141,10 +22589,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 48,
+    "id": 49,
     "slug": "2026-08-13-baja-emc-op",
     "operacion_id": "2026-08-13-baja-emc-op",
     "fecha": "2026-08-13",
@@ -22215,7 +22663,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 12,
@@ -22304,7 +22752,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 428,
@@ -22344,7 +22792,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 427,
@@ -22381,7 +22829,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 426,
@@ -22425,7 +22873,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 425,
@@ -22462,7 +22910,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 424,
@@ -22503,7 +22951,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 231,
@@ -22545,10 +22993,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 72,
+    "id": 73,
     "slug": "2026-08-12-operacion-eln-norte-de-santander",
     "operacion_id": "2026-08-12-operacion-eln-norte-de-santander",
     "fecha": "2026-08-12",
@@ -22599,10 +23047,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 47,
+    "id": 48,
     "slug": "2026-08-12-baja-eln-norte-de-santander",
     "operacion_id": "2026-08-12-baja-eln-norte-de-santander",
     "fecha": "2026-08-12",
@@ -22730,7 +23178,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 423,
@@ -22769,7 +23217,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 422,
@@ -22808,7 +23256,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 421,
@@ -22848,7 +23296,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 420,
@@ -22885,7 +23333,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 419,
@@ -22920,7 +23368,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 418,
@@ -22960,7 +23408,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 417,
@@ -22998,7 +23446,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 416,
@@ -23036,7 +23484,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 415,
@@ -23076,7 +23524,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 414,
@@ -23117,7 +23565,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 413,
@@ -23158,7 +23606,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 412,
@@ -23195,7 +23643,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 411,
@@ -23243,7 +23691,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 410,
@@ -23286,7 +23734,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 134,
@@ -23328,7 +23776,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 133,
@@ -23411,7 +23859,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 132,
@@ -23462,7 +23910,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 131,
@@ -23509,10 +23957,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 71,
+    "id": 72,
     "slug": "2026-08-10-captura-otro_gao-la-guajira",
     "operacion_id": "2026-08-10-captura-otro_gao-la-guajira",
     "fecha": "2026-08-10",
@@ -23569,10 +24017,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "2026-08-10-captura-clan_del_golfo-antioquia",
     "operacion_id": "2026-08-10-captura-clan_del_golfo-antioquia",
     "fecha": "2026-08-10",
@@ -23677,10 +24125,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "2026-08-10-baja-clan_del_golfo-antioquia",
     "operacion_id": "2026-08-10-baja-clan_del_golfo-antioquia",
     "fecha": "2026-08-10",
@@ -23752,7 +24200,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 409,
@@ -23807,7 +24255,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 408,
@@ -23842,7 +24290,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 407,
@@ -23881,7 +24329,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 230,
@@ -23919,7 +24367,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 130,
@@ -23973,10 +24421,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 70,
+    "id": 71,
     "slug": "2026-08-09-baja-emc-meta-2",
     "operacion_id": "2026-08-09-baja-emc-meta-2",
     "fecha": "2026-08-09",
@@ -24048,10 +24496,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "2026-08-09-baja-emc-meta",
     "operacion_id": "2026-08-09-baja-emc-meta",
     "fecha": "2026-08-09",
@@ -24138,10 +24586,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "2026-08-09-captura-segunda_marquetalia-meta",
     "operacion_id": "2026-08-09-captura-segunda_marquetalia-meta",
     "fecha": "2026-08-09",
@@ -24222,7 +24670,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 8,
@@ -24422,7 +24870,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 129,
@@ -24469,7 +24917,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 128,
@@ -24516,7 +24964,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 127,
@@ -24607,10 +25055,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "2026-08-08-captura-segunda_marquetalia-cauca",
     "operacion_id": "2026-08-08-captura-segunda_marquetalia-cauca",
     "fecha": "2026-08-08",
@@ -24691,7 +25139,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 406,
@@ -24728,7 +25176,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 229,
@@ -24768,10 +25216,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 69,
+    "id": 70,
     "slug": "2026-08-07-captura-eln-magdalena",
     "operacion_id": "2026-08-07-captura-eln-magdalena",
     "fecha": "2026-08-07",
@@ -24829,7 +25277,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 405,
@@ -24868,7 +25316,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 404,
@@ -24905,7 +25353,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 403,
@@ -24942,7 +25390,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 228,
@@ -24981,7 +25429,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 402,
@@ -25020,7 +25468,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 401,
@@ -25059,7 +25507,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 400,
@@ -25099,7 +25547,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 227,
@@ -25138,7 +25586,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 126,
@@ -25180,10 +25628,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 68,
+    "id": 69,
     "slug": "2026-08-05-sometimiento-segunda_marquetalia-huila",
     "operacion_id": "2026-08-05-sometimiento-segunda_marquetalia-huila",
     "fecha": "2026-08-05",
@@ -25232,7 +25680,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 7,
@@ -25336,7 +25784,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 399,
@@ -25377,7 +25825,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 398,
@@ -25416,7 +25864,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 397,
@@ -25455,7 +25903,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 396,
@@ -25495,7 +25943,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 125,
@@ -25556,10 +26004,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 46,
+    "id": 47,
     "slug": "2026-08-04-captura-clan_del_golfo-santander",
     "operacion_id": "2026-08-04-captura-clan_del_golfo-santander",
     "fecha": "2026-08-04",
@@ -25614,7 +26062,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 395,
@@ -25653,7 +26101,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 394,
@@ -25693,7 +26141,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 393,
@@ -25730,7 +26178,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 392,
@@ -25767,7 +26215,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 391,
@@ -25814,7 +26262,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 390,
@@ -25860,7 +26308,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 389,
@@ -25897,7 +26345,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 388,
@@ -25934,7 +26382,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 387,
@@ -25971,7 +26419,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 386,
@@ -26018,7 +26466,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 385,
@@ -26057,7 +26505,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 226,
@@ -26094,7 +26542,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 124,
@@ -26138,10 +26586,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 67,
+    "id": 68,
     "slug": "2026-08-03-baja-otro_gao-narino",
     "operacion_id": "2026-08-03-baja-otro_gao-narino",
     "fecha": "2026-08-03",
@@ -26209,10 +26657,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 66,
+    "id": 67,
     "slug": "2026-08-03-captura-eln-cauca",
     "operacion_id": "2026-08-03-captura-eln-cauca",
     "fecha": "2026-08-03",
@@ -26260,10 +26708,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 45,
+    "id": 46,
     "slug": "2026-08-03-sometimiento-emc-op",
     "operacion_id": "2026-08-03-sometimiento-emc-op",
     "fecha": "2026-08-03",
@@ -26397,10 +26845,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "2026-08-03-baja-segunda_marquetalia-op",
     "operacion_id": "2026-08-03-baja-segunda_marquetalia-op",
     "fecha": "2026-08-03",
@@ -26493,7 +26941,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 384,
@@ -26533,7 +26981,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 383,
@@ -26570,7 +27018,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 382,
@@ -26628,7 +27076,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 381,
@@ -26666,7 +27114,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 380,
@@ -26705,7 +27153,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 379,
@@ -26744,7 +27192,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 378,
@@ -26784,7 +27232,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 377,
@@ -26823,7 +27271,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 376,
@@ -26860,7 +27308,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 225,
@@ -26900,7 +27348,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 123,
@@ -26950,7 +27398,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 122,
@@ -27003,7 +27451,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 375,
@@ -27042,7 +27490,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 374,
@@ -27081,7 +27529,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 224,
@@ -27121,7 +27569,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 223,
@@ -27159,7 +27607,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 222,
@@ -27197,7 +27645,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 221,
@@ -27234,7 +27682,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 220,
@@ -27275,7 +27723,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 373,
@@ -27316,7 +27764,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 372,
@@ -27355,7 +27803,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 371,
@@ -27394,7 +27842,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 219,
@@ -27431,7 +27879,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 370,
@@ -27470,7 +27918,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 369,
@@ -27507,7 +27955,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 368,
@@ -27544,7 +27992,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 367,
@@ -27585,7 +28033,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 366,
@@ -27624,7 +28072,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 218,
@@ -27672,7 +28120,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 121,
@@ -27718,7 +28166,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 120,
@@ -27764,7 +28212,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 119,
@@ -27849,7 +28297,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 365,
@@ -27886,7 +28334,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 364,
@@ -27923,7 +28371,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 363,
@@ -27960,7 +28408,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 362,
@@ -27997,7 +28445,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 217,
@@ -28037,7 +28485,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 216,
@@ -28077,7 +28525,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 215,
@@ -28114,7 +28562,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 214,
@@ -28153,7 +28601,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 118,
@@ -28206,10 +28654,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 65,
+    "id": 66,
     "slug": "2026-07-27-captura-embf-caqueta",
     "operacion_id": "2026-07-27-captura-embf-caqueta",
     "fecha": "2026-07-27",
@@ -28282,7 +28730,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 361,
@@ -28329,7 +28777,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 360,
@@ -28368,7 +28816,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 117,
@@ -28414,10 +28862,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "2026-07-26-baja-eln-casanare",
     "operacion_id": "2026-07-26-baja-eln-casanare",
     "fecha": "2026-07-26",
@@ -28516,10 +28964,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "2026-07-26-operacion-eln-casanare",
     "operacion_id": "2026-07-26-operacion-eln-casanare",
     "fecha": "2026-07-26",
@@ -28597,7 +29045,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 359,
@@ -28637,7 +29085,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 358,
@@ -28675,7 +29123,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 357,
@@ -28722,7 +29170,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 213,
@@ -28759,7 +29207,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 116,
@@ -28804,7 +29252,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 356,
@@ -28844,7 +29292,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 355,
@@ -28886,7 +29334,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 354,
@@ -28923,7 +29371,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 353,
@@ -28964,7 +29412,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 212,
@@ -29008,7 +29456,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 115,
@@ -29062,7 +29510,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 114,
@@ -29109,7 +29557,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 352,
@@ -29148,7 +29596,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 351,
@@ -29187,7 +29635,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 350,
@@ -29224,7 +29672,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 349,
@@ -29263,7 +29711,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 211,
@@ -29302,7 +29750,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 348,
@@ -29341,7 +29789,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 347,
@@ -29381,7 +29829,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 346,
@@ -29419,7 +29867,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 345,
@@ -29456,7 +29904,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 344,
@@ -29494,7 +29942,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 343,
@@ -29531,7 +29979,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 113,
@@ -29575,7 +30023,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 112,
@@ -29620,10 +30068,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 64,
+    "id": 65,
     "slug": "2026-07-22-captura-otro_gao-op",
     "operacion_id": "2026-07-22-captura-otro_gao-op",
     "fecha": "2026-07-22",
@@ -29675,10 +30123,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 63,
+    "id": 64,
     "slug": "2026-07-22-captura-desconocido-op",
     "operacion_id": "2026-07-22-captura-desconocido-op",
     "fecha": "2026-07-22",
@@ -29726,10 +30174,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 44,
+    "id": 45,
     "slug": "2026-07-22-operacion-otro_gao-cesar",
     "operacion_id": "2026-07-22-operacion-otro_gao-cesar",
     "fecha": "2026-07-22",
@@ -29789,10 +30237,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "2026-07-22-captura-emc-cauca",
     "operacion_id": "2026-07-22-captura-emc-cauca",
     "fecha": "2026-07-22",
@@ -29879,7 +30327,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 342,
@@ -29939,7 +30387,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 210,
@@ -29978,7 +30426,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 111,
@@ -30028,10 +30476,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 62,
+    "id": 63,
     "slug": "2026-07-21-captura-segunda_marquetalia-meta",
     "operacion_id": "2026-07-21-captura-segunda_marquetalia-meta",
     "fecha": "2026-07-21",
@@ -30097,10 +30545,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 61,
+    "id": 62,
     "slug": "2026-07-21-captura-eln-santander",
     "operacion_id": "2026-07-21-captura-eln-santander",
     "fecha": "2026-07-21",
@@ -30182,10 +30630,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "2026-07-21-captura-clan_del_golfo-cesar",
     "operacion_id": "2026-07-21-captura-clan_del_golfo-cesar",
     "fecha": "2026-07-21",
@@ -30271,7 +30719,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 341,
@@ -30312,7 +30760,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 340,
@@ -30349,7 +30797,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 339,
@@ -30388,7 +30836,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 209,
@@ -30450,7 +30898,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 338,
@@ -30487,7 +30935,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 337,
@@ -30524,7 +30972,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 336,
@@ -30567,10 +31015,10 @@
     "notas_revision": [
       {
         "nota": "Existe información pública contradictoria sobre si alias 'Ñeque' y 'Marlon' fueron realmente dados de baja. Se excluye del conteo hasta corroborar.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 208,
@@ -30612,10 +31060,10 @@
     "notas_revision": [
       {
         "nota": "Captura y hallazgo de 220 kg de pentolita del mismo operativo (venían como registros separados).",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 335,
@@ -30653,7 +31101,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 334,
@@ -30692,7 +31140,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 333,
@@ -30733,7 +31181,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 332,
@@ -30777,10 +31225,10 @@
     "notas_revision": [
       {
         "nota": "Captura de alias Jimmi y 220 kg de explosivos del mismo operativo. Los 220 kg podrían solaparse con el hallazgo de Puerto Rico; pendiente de corroborar.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 110,
@@ -30848,7 +31296,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 109,
@@ -30897,13 +31345,13 @@
     "notas_revision": [
       {
         "nota": "Combate en Jericó (2 bajas) y hallazgo de caleta de armas consolidados en una operación.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "2026-07-18-captura-clan_del_golfo-antioquia",
     "operacion_id": "2026-07-18-captura-clan_del_golfo-antioquia",
     "fecha": "2026-07-18",
@@ -30975,7 +31423,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 331,
@@ -31016,7 +31464,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 330,
@@ -31053,7 +31501,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 329,
@@ -31093,7 +31541,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 108,
@@ -31137,7 +31585,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 107,
@@ -31182,7 +31630,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 106,
@@ -31226,7 +31674,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 328,
@@ -31265,7 +31713,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 327,
@@ -31311,7 +31759,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 326,
@@ -31352,7 +31800,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 301,
@@ -31414,10 +31862,10 @@
     "notas_revision": [
       {
         "nota": "Captura de 2 disidentes e incautación de armas del mismo operativo.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 105,
@@ -31463,7 +31911,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 11,
@@ -31601,10 +32049,10 @@
     "notas_revision": [
       {
         "nota": "Cuatro reportes del mismo operativo (captura del jefe de finanzas del Frente Dagoberto Ramos) consolidados en una sola operación.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 325,
@@ -31643,7 +32091,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 104,
@@ -31688,7 +32136,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 103,
@@ -31737,10 +32185,10 @@
     "notas_revision": [
       {
         "nota": "Interdicción marítima en el Pacífico: 212 kg de cocaína y 3 tripulantes capturados (aparecían como incautación y captura por separado).",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 324,
@@ -31779,7 +32227,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 323,
@@ -31818,7 +32266,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 322,
@@ -31855,7 +32303,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 304,
@@ -31906,10 +32354,10 @@
     "notas_revision": [
       {
         "nota": "Captura de alias 'El Indio' y 'J' (Frente 57). La mención de 'Diamante' en uno de los reportes era errónea: 'Diamante' fue dado de baja en Bolívar, no capturado en el Valle.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 303,
@@ -31955,13 +32403,13 @@
     "notas_revision": [
       {
         "nota": "Sometimiento de 3 integrantes del frente Ismael Ruiz reportado en dos departamentos (Huila/Tolima); probable mismo hecho, consolidado.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 43,
+    "id": 44,
     "slug": "2026-07-12-baja-clan_del_golfo-bolivar",
     "operacion_id": "2026-07-12-baja-clan_del_golfo-bolivar",
     "fecha": "2026-07-12",
@@ -32020,10 +32468,10 @@
     "notas_revision": [
       {
         "nota": "Muerte de alias 'Diamante' reportada cuatro veces con cifras contradictorias (1 a 3). El registro de '3 neutralizados' era el consolidado de Diamante más las 2 bajas de Jericó. Se cuenta 1 baja.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 321,
@@ -32063,7 +32511,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 320,
@@ -32103,10 +32551,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 60,
+    "id": 61,
     "slug": "2026-07-09-captura-emc-huila",
     "operacion_id": "2026-07-09-captura-emc-huila",
     "fecha": "2026-07-09",
@@ -32163,7 +32611,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 319,
@@ -32203,10 +32651,10 @@
     "notas_revision": [
       {
         "nota": "Captura de 2 cabecillas e incautación asociada (sin cantidades precisas) consolidadas.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 207,
@@ -32245,7 +32693,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 302,
@@ -32301,10 +32749,10 @@
     "notas_revision": [
       {
         "nota": "Sometimiento de 8 integrantes reportado dos veces (fechas distintas) más el material entregado.",
-        "fecha": "2026-10-03"
+        "fecha": "2026-10-04"
       }
     ],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 318,
@@ -32344,7 +32792,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 317,
@@ -32384,7 +32832,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 206,
@@ -32423,7 +32871,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 205,
@@ -32463,7 +32911,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 316,
@@ -32502,7 +32950,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 204,
@@ -32541,7 +32989,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 203,
@@ -32580,7 +33028,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 202,
@@ -32619,7 +33067,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 201,
@@ -32659,7 +33107,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 315,
@@ -32700,7 +33148,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 314,
@@ -32739,7 +33187,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 313,
@@ -32780,7 +33228,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 312,
@@ -32821,7 +33269,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 311,
@@ -32860,7 +33308,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 310,
@@ -32898,7 +33346,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 309,
@@ -32938,7 +33386,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 308,
@@ -32977,7 +33425,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 307,
@@ -33015,7 +33463,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 306,
@@ -33053,7 +33501,7 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
     "id": 305,
@@ -33093,10 +33541,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 667,
+    "id": 676,
     "slug": "2025-12-10-captura-clan_del_golfo-op",
     "operacion_id": "2025-12-10-captura-clan_del_golfo-op",
     "fecha": "2025-12-10",
@@ -33130,10 +33578,10 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   },
   {
-    "id": 666,
+    "id": 675,
     "slug": "2025-12-10-baja-clan_del_golfo-op",
     "operacion_id": "2025-12-10-baja-clan_del_golfo-op",
     "fecha": "2025-12-10",
@@ -33167,6 +33615,6 @@
       }
     ],
     "notas_revision": [],
-    "actualizado": "2026-10-03 04:02:19.006684+00"
+    "actualizado": "2026-10-04 04:02:11.271601+00"
   }
 ]

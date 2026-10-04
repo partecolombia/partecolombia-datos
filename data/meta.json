@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-10-03T04:02:36.472012+00:00",
+    "generado": "2026-10-04T04:02:29.929129+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1498,
-    "total_crudo": 4113,
-    "operaciones": 667,
+    "total": 1522,
+    "total_crudo": 4144,
+    "operaciones": 676,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
@@ -19,24 +19,24 @@
     "operaciones": 179
   },
   "conteo_oficial": {
-    "bajas": 227,
-    "capturas": 858,
+    "bajas": 237,
+    "capturas": 872,
     "sometimientos": 53,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1189,
-    "en_reportado": 571,
-    "operaciones": 482
+    "total": 1213,
+    "en_reportado": 592,
+    "operaciones": 491
   },
   "conteo_total": {
-    "bajas": 275,
-    "capturas": 1069,
+    "bajas": 285,
+    "capturas": 1083,
     "sometimientos": 92,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1498,
-    "en_reportado": 740,
-    "operaciones": 661
+    "total": 1522,
+    "en_reportado": 761,
+    "operaciones": 670
   },
   "mapa_departamentos": [
     {
@@ -66,12 +66,12 @@
     {
       "departamento": "Magdalena",
       "bajas": 8,
-      "capturas": 66,
+      "capturas": 70,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 7,
-      "personas": 81,
-      "operaciones": 20,
+      "personas": 85,
+      "operaciones": 21,
       "lat": 10.409999999999998,
       "lon": -74.41000000000001
     },
@@ -124,6 +124,18 @@
       "lon": -73.07999999999997
     },
     {
+      "departamento": "Cesar",
+      "bajas": 0,
+      "capturas": 42,
+      "sometimientos": 0,
+      "desmov": 2,
+      "sin_desglose": 0,
+      "personas": 44,
+      "operaciones": 21,
+      "lat": 9.800000000000002,
+      "lon": -73.34999999999998
+    },
+    {
       "departamento": "Bolívar",
       "bajas": 8,
       "capturas": 34,
@@ -138,26 +150,14 @@
     {
       "departamento": "Huila",
       "bajas": 5,
-      "capturas": 31,
+      "capturas": 32,
       "sometimientos": 6,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 42,
-      "operaciones": 24,
+      "personas": 43,
+      "operaciones": 26,
       "lat": 2.5300000000000007,
       "lon": -75.52999999999999
-    },
-    {
-      "departamento": "Cesar",
-      "bajas": 0,
-      "capturas": 39,
-      "sometimientos": 0,
-      "desmov": 2,
-      "sin_desglose": 0,
-      "personas": 41,
-      "operaciones": 21,
-      "lat": 9.800000000000002,
-      "lon": -73.34999999999998
     },
     {
       "departamento": "Nariño",
@@ -167,7 +167,7 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 41,
-      "operaciones": 31,
+      "operaciones": 32,
       "lat": 1.6000000000000008,
       "lon": -78.07999999999997
     },
@@ -222,12 +222,12 @@
     {
       "departamento": "Chocó",
       "bajas": 0,
-      "capturas": 7,
+      "capturas": 11,
       "sometimientos": 10,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 17,
-      "operaciones": 9,
+      "personas": 21,
+      "operaciones": 10,
       "lat": 5.71,
       "lon": -76.77999999999999
     },
@@ -280,6 +280,18 @@
       "lon": -70.76
     },
     {
+      "departamento": "Caldas",
+      "bajas": 0,
+      "capturas": 8,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 8,
+      "operaciones": 3,
+      "lat": 5.3,
+      "lon": -75.57
+    },
+    {
       "departamento": "Sucre",
       "bajas": 0,
       "capturas": 7,
@@ -290,18 +302,6 @@
       "operaciones": 4,
       "lat": 9.17,
       "lon": -75.4
-    },
-    {
-      "departamento": "Caldas",
-      "bajas": 0,
-      "capturas": 6,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 6,
-      "operaciones": 2,
-      "lat": 5.3,
-      "lon": -75.57
     },
     {
       "departamento": "Vichada",
@@ -352,16 +352,16 @@
       "lon": -75.99
     },
     {
-      "departamento": "Cundinamarca",
-      "bajas": 0,
-      "capturas": 1,
+      "departamento": "Amazonas",
+      "bajas": 1,
+      "capturas": 0,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 1,
       "operaciones": 1,
-      "lat": 4.73,
-      "lon": -74.23
+      "lat": -1.44,
+      "lon": -71.76
     },
     {
       "departamento": "Bogotá D.C.",
@@ -376,16 +376,16 @@
       "lon": -74.05
     },
     {
-      "departamento": "Amazonas",
-      "bajas": 1,
-      "capturas": 0,
+      "departamento": "Cundinamarca",
+      "bajas": 0,
+      "capturas": 1,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 1,
       "operaciones": 1,
-      "lat": -1.44,
-      "lon": -71.76
+      "lat": 4.73,
+      "lon": -74.23
     },
     {
       "departamento": "Colón",
@@ -419,10 +419,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 162,
+      "personas": 165,
       "ops": 89,
       "bajas": 60,
-      "capturas": 96,
+      "capturas": 99,
       "sometimientos": 2
     },
     {
@@ -431,10 +431,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 284,
-      "ops": 111,
-      "bajas": 109,
-      "capturas": 130,
+      "personas": 296,
+      "ops": 113,
+      "bajas": 119,
+      "capturas": 132,
       "sometimientos": 40
     },
     {
@@ -443,10 +443,10 @@
       "largo": "Estado Mayor de los Bloques y Frentes, facción de alias 'Calarcá'",
       "tipo": "disidencia FARC",
       "color": "#6c5ce7",
-      "personas": 55,
-      "ops": 28,
+      "personas": 56,
+      "ops": 29,
       "bajas": 10,
-      "capturas": 27,
+      "capturas": 28,
       "sometimientos": 2
     },
     {
@@ -456,7 +456,7 @@
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
       "personas": 91,
-      "ops": 44,
+      "ops": 45,
       "bajas": 23,
       "capturas": 60,
       "sometimientos": 8
@@ -467,10 +467,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 371,
-      "ops": 147,
+      "personas": 375,
+      "ops": 149,
       "bajas": 35,
-      "capturas": 302,
+      "capturas": 306,
       "sometimientos": 31
     },
     {
@@ -491,10 +491,10 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 404,
-      "ops": 131,
+      "personas": 408,
+      "ops": 132,
       "bajas": 27,
-      "capturas": 335,
+      "capturas": 339,
       "sometimientos": 8
     },
     {
@@ -504,7 +504,7 @@
       "tipo": "sin determinar",
       "color": "#4a5568",
       "personas": 131,
-      "ops": 111,
+      "ops": 113,
       "bajas": 11,
       "capturas": 119,
       "sometimientos": 1
