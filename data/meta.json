@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-10-04T04:02:29.929129+00:00",
+    "generado": "2026-10-05T04:02:35.959743+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1522,
-    "total_crudo": 4144,
-    "operaciones": 676,
+    "total": 1532,
+    "total_crudo": 4216,
+    "operaciones": 687,
     "recompensas_total_cop": 47642
   },
   "conteo_calibracion": {
@@ -19,35 +19,35 @@
     "operaciones": 179
   },
   "conteo_oficial": {
-    "bajas": 237,
-    "capturas": 872,
+    "bajas": 238,
+    "capturas": 881,
     "sometimientos": 53,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1213,
-    "en_reportado": 592,
-    "operaciones": 491
+    "total": 1223,
+    "en_reportado": 596,
+    "operaciones": 501
   },
   "conteo_total": {
-    "bajas": 285,
-    "capturas": 1083,
+    "bajas": 286,
+    "capturas": 1092,
     "sometimientos": 92,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1522,
-    "en_reportado": 761,
-    "operaciones": 670
+    "total": 1532,
+    "en_reportado": 765,
+    "operaciones": 680
   },
   "mapa_departamentos": [
     {
       "departamento": "Antioquia",
       "bajas": 33,
-      "capturas": 120,
+      "capturas": 122,
       "sometimientos": 13,
       "desmov": 0,
       "sin_desglose": 3,
-      "personas": 169,
-      "operaciones": 100,
+      "personas": 171,
+      "operaciones": 101,
       "lat": 6.549999999999996,
       "lon": -75.82999999999994
     },
@@ -95,7 +95,7 @@
       "desmov": 0,
       "sin_desglose": 2,
       "personas": 69,
-      "operaciones": 32,
+      "operaciones": 33,
       "lat": 7.949999999999996,
       "lon": -72.5
     },
@@ -107,7 +107,7 @@
       "desmov": 0,
       "sin_desglose": 11,
       "personas": 63,
-      "operaciones": 39,
+      "operaciones": 40,
       "lat": 2.5300000000000007,
       "lon": -76.80999999999996
     },
@@ -126,14 +126,26 @@
     {
       "departamento": "Cesar",
       "bajas": 0,
-      "capturas": 42,
+      "capturas": 44,
       "sometimientos": 0,
       "desmov": 2,
       "sin_desglose": 0,
-      "personas": 44,
-      "operaciones": 21,
-      "lat": 9.800000000000002,
-      "lon": -73.34999999999998
+      "personas": 46,
+      "operaciones": 23,
+      "lat": 9.800000000000004,
+      "lon": -73.34999999999997
+    },
+    {
+      "departamento": "Huila",
+      "bajas": 6,
+      "capturas": 34,
+      "sometimientos": 6,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 46,
+      "operaciones": 29,
+      "lat": 2.5300000000000007,
+      "lon": -75.53
     },
     {
       "departamento": "Bolívar",
@@ -148,26 +160,14 @@
       "lon": -74.02999999999999
     },
     {
-      "departamento": "Huila",
-      "bajas": 5,
-      "capturas": 32,
-      "sometimientos": 6,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 43,
-      "operaciones": 26,
-      "lat": 2.5300000000000007,
-      "lon": -75.52999999999999
-    },
-    {
       "departamento": "Nariño",
-      "bajas": 19,
+      "bajas": 20,
       "capturas": 20,
       "sometimientos": 2,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 41,
-      "operaciones": 32,
+      "personas": 42,
+      "operaciones": 33,
       "lat": 1.6000000000000008,
       "lon": -78.07999999999997
     },
@@ -186,12 +186,12 @@
     {
       "departamento": "Tolima",
       "bajas": 0,
-      "capturas": 28,
+      "capturas": 29,
       "sometimientos": 3,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 31,
-      "operaciones": 13,
+      "personas": 32,
+      "operaciones": 14,
       "lat": 3.8699999999999997,
       "lon": -75.23
     },
@@ -316,6 +316,18 @@
       "lon": -69.28
     },
     {
+      "departamento": "Atlántico",
+      "bajas": 0,
+      "capturas": 4,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 4,
+      "operaciones": 2,
+      "lat": 10.68,
+      "lon": -75.17
+    },
+    {
       "departamento": "Casanare",
       "bajas": 1,
       "capturas": 3,
@@ -326,18 +338,6 @@
       "operaciones": 6,
       "lat": 5.329999999999999,
       "lon": -71.95
-    },
-    {
-      "departamento": "Atlántico",
-      "bajas": 0,
-      "capturas": 2,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 2,
-      "operaciones": 1,
-      "lat": 10.68,
-      "lon": -75.17
     },
     {
       "departamento": "Risaralda",
@@ -420,7 +420,7 @@
       "tipo": "guerrilla",
       "color": "#c0392b",
       "personas": 165,
-      "ops": 89,
+      "ops": 90,
       "bajas": 60,
       "capturas": 99,
       "sometimientos": 2
@@ -431,10 +431,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 296,
-      "ops": 113,
-      "bajas": 119,
-      "capturas": 132,
+      "personas": 298,
+      "ops": 115,
+      "bajas": 120,
+      "capturas": 133,
       "sometimientos": 40
     },
     {
@@ -443,10 +443,10 @@
       "largo": "Estado Mayor de los Bloques y Frentes, facción de alias 'Calarcá'",
       "tipo": "disidencia FARC",
       "color": "#6c5ce7",
-      "personas": 56,
-      "ops": 29,
+      "personas": 57,
+      "ops": 30,
       "bajas": 10,
-      "capturas": 28,
+      "capturas": 29,
       "sometimientos": 2
     },
     {
@@ -467,10 +467,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 375,
-      "ops": 149,
+      "personas": 379,
+      "ops": 152,
       "bajas": 35,
-      "capturas": 306,
+      "capturas": 310,
       "sometimientos": 31
     },
     {
@@ -491,10 +491,10 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 408,
-      "ops": 132,
+      "personas": 409,
+      "ops": 133,
       "bajas": 27,
-      "capturas": 339,
+      "capturas": 340,
       "sometimientos": 8
     },
     {
@@ -503,10 +503,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 131,
-      "ops": 113,
+      "personas": 133,
+      "ops": 115,
       "bajas": 11,
-      "capturas": 119,
+      "capturas": 121,
       "sometimientos": 1
     }
   ]
