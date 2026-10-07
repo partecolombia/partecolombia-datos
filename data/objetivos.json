@@ -1298,9 +1298,9 @@
       "trabajos forzados",
       "órdenes de homicidio"
     ],
-    "estado": "buscado",
-    "estado_fecha": null,
-    "estado_detalle": "buscado; recompensa MinDefensa (mar-2026)",
+    "estado": "capturado",
+    "estado_fecha": "2023-10-06",
+    "estado_detalle": "Alias La Morocha, cabecilla de las disidencias de Calarcá, fue capturado mientras planeaba un atentado a gran escala.",
     "prioridad": 3,
     "recompensa_cop": 200,
     "ubicacion_posible": "Caquetá",
