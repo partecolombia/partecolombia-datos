@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-10-09T04:02:51.210876+00:00",
+    "generado": "2026-10-10T04:02:30.433143+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1600,
-    "total_crudo": 4354,
-    "operaciones": 717,
+    "total": 1612,
+    "total_crudo": 4388,
+    "operaciones": 724,
     "recompensas_total_cop": 47442
   },
   "conteo_calibracion": {
@@ -19,36 +19,36 @@
     "operaciones": 180
   },
   "conteo_oficial": {
-    "bajas": 243,
-    "capturas": 938,
+    "bajas": 248,
+    "capturas": 945,
     "sometimientos": 55,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1287,
-    "en_reportado": 617,
-    "operaciones": 530
+    "total": 1299,
+    "en_reportado": 609,
+    "operaciones": 537
   },
   "conteo_total": {
-    "bajas": 294,
-    "capturas": 1150,
+    "bajas": 299,
+    "capturas": 1157,
     "sometimientos": 94,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1600,
-    "en_reportado": 790,
-    "operaciones": 710
+    "total": 1612,
+    "en_reportado": 782,
+    "operaciones": 717
   },
   "mapa_departamentos": [
     {
       "departamento": "Antioquia",
-      "bajas": 38,
+      "bajas": 40,
       "capturas": 131,
       "sometimientos": 13,
       "desmov": 0,
       "sin_desglose": 3,
-      "personas": 185,
-      "operaciones": 106,
-      "lat": 6.5499999999999945,
+      "personas": 187,
+      "operaciones": 108,
+      "lat": 6.549999999999994,
       "lon": -75.82999999999994
     },
     {
@@ -162,14 +162,26 @@
     {
       "departamento": "Nariño",
       "bajas": 20,
-      "capturas": 20,
+      "capturas": 23,
       "sometimientos": 2,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 42,
+      "personas": 45,
       "operaciones": 33,
       "lat": 1.6000000000000008,
       "lon": -78.07999999999997
+    },
+    {
+      "departamento": "Chocó",
+      "bajas": 1,
+      "capturas": 31,
+      "sometimientos": 10,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 42,
+      "operaciones": 14,
+      "lat": 5.709999999999999,
+      "lon": -76.77999999999999
     },
     {
       "departamento": "Caquetá",
@@ -182,18 +194,6 @@
       "operaciones": 19,
       "lat": 1.3000000000000003,
       "lon": -75.52
-    },
-    {
-      "departamento": "Chocó",
-      "bajas": 0,
-      "capturas": 27,
-      "sometimientos": 10,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 37,
-      "operaciones": 11,
-      "lat": 5.71,
-      "lon": -76.77999999999999
     },
     {
       "departamento": "Tolima",
@@ -311,7 +311,7 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 5,
-      "operaciones": 1,
+      "operaciones": 2,
       "lat": 0.85,
       "lon": -70.81
     },
@@ -443,10 +443,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 324,
-      "ops": 124,
-      "bajas": 123,
-      "capturas": 154,
+      "personas": 329,
+      "ops": 127,
+      "bajas": 125,
+      "capturas": 157,
       "sometimientos": 42
     },
     {
@@ -455,9 +455,9 @@
       "largo": "Estado Mayor de los Bloques y Frentes, facción de alias 'Calarcá'",
       "tipo": "disidencia FARC",
       "color": "#6c5ce7",
-      "personas": 58,
-      "ops": 31,
-      "bajas": 10,
+      "personas": 60,
+      "ops": 32,
+      "bajas": 12,
       "capturas": 30,
       "sometimientos": 2
     },
@@ -479,10 +479,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 408,
-      "ops": 159,
-      "bajas": 38,
-      "capturas": 336,
+      "personas": 413,
+      "ops": 162,
+      "bajas": 39,
+      "capturas": 340,
       "sometimientos": 31
     },
     {
