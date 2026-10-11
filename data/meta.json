@@ -1,42 +1,42 @@
 {
   "meta": {
-    "generado": "2026-10-10T04:02:30.433143+00:00",
+    "generado": "2026-10-11T04:02:24.437728+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1612,
-    "total_crudo": 4388,
-    "operaciones": 724,
+    "total": 1653,
+    "total_crudo": 4436,
+    "operaciones": 733,
     "recompensas_total_cop": 47442
   },
   "conteo_calibracion": {
-    "bajas": 51,
-    "capturas": 212,
+    "bajas": 53,
+    "capturas": 218,
     "sometimientos": 39,
     "desmovilizaciones": 0,
     "sin_desglose": 11,
-    "total": 313,
-    "en_reportado": 173,
-    "operaciones": 180
+    "total": 321,
+    "en_reportado": 181,
+    "operaciones": 182
   },
   "conteo_oficial": {
-    "bajas": 248,
-    "capturas": 945,
+    "bajas": 250,
+    "capturas": 976,
     "sometimientos": 55,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1299,
-    "en_reportado": 609,
-    "operaciones": 537
+    "total": 1332,
+    "en_reportado": 640,
+    "operaciones": 544
   },
   "conteo_total": {
-    "bajas": 299,
-    "capturas": 1157,
+    "bajas": 303,
+    "capturas": 1194,
     "sometimientos": 94,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1612,
-    "en_reportado": 782,
-    "operaciones": 717
+    "total": 1653,
+    "en_reportado": 821,
+    "operaciones": 726
   },
   "mapa_departamentos": [
     {
@@ -76,18 +76,6 @@
       "lon": -74.41000000000003
     },
     {
-      "departamento": "Norte de Santander",
-      "bajas": 16,
-      "capturas": 63,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 2,
-      "personas": 81,
-      "operaciones": 38,
-      "lat": 7.949999999999995,
-      "lon": -72.5
-    },
-    {
       "departamento": "La Guajira, Cesar, Magdalena y Atlántico",
       "bajas": 0,
       "capturas": 76,
@@ -98,6 +86,18 @@
       "operaciones": 1,
       "lat": null,
       "lon": null
+    },
+    {
+      "departamento": "Norte de Santander",
+      "bajas": 16,
+      "capturas": 57,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 2,
+      "personas": 75,
+      "operaciones": 37,
+      "lat": 7.949999999999995,
+      "lon": -72.5
     },
     {
       "departamento": "Cauca",
@@ -126,12 +126,12 @@
     {
       "departamento": "Cesar",
       "bajas": 0,
-      "capturas": 46,
+      "capturas": 47,
       "sometimientos": 0,
       "desmov": 2,
       "sin_desglose": 0,
-      "personas": 48,
-      "operaciones": 24,
+      "personas": 49,
+      "operaciones": 25,
       "lat": 9.800000000000004,
       "lon": -73.34999999999997
     },
@@ -299,9 +299,9 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 5,
-      "operaciones": 4,
+      "operaciones": 6,
       "lat": 4.44,
-      "lon": -69.28
+      "lon": -69.27999999999999
     },
     {
       "departamento": "Vaupés",
@@ -431,10 +431,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 168,
-      "ops": 97,
-      "bajas": 60,
-      "capturas": 102,
+      "personas": 176,
+      "ops": 101,
+      "bajas": 62,
+      "capturas": 108,
       "sometimientos": 2
     },
     {
@@ -443,10 +443,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 329,
-      "ops": 127,
+      "personas": 330,
+      "ops": 128,
       "bajas": 125,
-      "capturas": 157,
+      "capturas": 158,
       "sometimientos": 42
     },
     {
@@ -479,10 +479,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 413,
-      "ops": 162,
-      "bajas": 39,
-      "capturas": 340,
+      "personas": 445,
+      "ops": 165,
+      "bajas": 41,
+      "capturas": 370,
       "sometimientos": 31
     },
     {
@@ -516,7 +516,7 @@
       "tipo": "sin determinar",
       "color": "#4a5568",
       "personas": 136,
-      "ops": 118,
+      "ops": 119,
       "bajas": 11,
       "capturas": 124,
       "sometimientos": 1
