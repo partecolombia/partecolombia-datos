@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-10-13T04:02:58.148654+00:00",
+    "generado": "2026-10-14T04:02:24.397576+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1675,
-    "total_crudo": 4468,
-    "operaciones": 744,
+    "total": 1681,
+    "total_crudo": 4478,
+    "operaciones": 748,
     "recompensas_total_cop": 47442
   },
   "conteo_calibracion": {
@@ -20,23 +20,23 @@
   },
   "conteo_oficial": {
     "bajas": 267,
-    "capturas": 980,
+    "capturas": 986,
     "sometimientos": 55,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1353,
-    "en_reportado": 648,
-    "operaciones": 554
+    "total": 1359,
+    "en_reportado": 650,
+    "operaciones": 558
   },
   "conteo_total": {
     "bajas": 320,
-    "capturas": 1199,
+    "capturas": 1205,
     "sometimientos": 94,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1675,
-    "en_reportado": 830,
-    "operaciones": 737
+    "total": 1681,
+    "en_reportado": 832,
+    "operaciones": 741
   },
   "mapa_departamentos": [
     {
@@ -54,14 +54,26 @@
     {
       "departamento": "Guaviare",
       "bajas": 54,
-      "capturas": 22,
+      "capturas": 23,
       "sometimientos": 2,
       "desmov": 0,
       "sin_desglose": 37,
-      "personas": 115,
-      "operaciones": 28,
+      "personas": 116,
+      "operaciones": 29,
       "lat": 2.0399999999999996,
       "lon": -72.32999999999997
+    },
+    {
+      "departamento": "Norte de Santander",
+      "bajas": 24,
+      "capturas": 59,
+      "sometimientos": 11,
+      "desmov": 0,
+      "sin_desglose": 2,
+      "personas": 96,
+      "operaciones": 39,
+      "lat": 7.949999999999995,
+      "lon": -72.5
     },
     {
       "departamento": "Magdalena",
@@ -74,18 +86,6 @@
       "operaciones": 23,
       "lat": 10.409999999999998,
       "lon": -74.41000000000003
-    },
-    {
-      "departamento": "Norte de Santander",
-      "bajas": 20,
-      "capturas": 57,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 2,
-      "personas": 79,
-      "operaciones": 38,
-      "lat": 7.949999999999995,
-      "lon": -72.5
     },
     {
       "departamento": "La Guajira, Cesar, Magdalena y Atlántico",
@@ -172,18 +172,6 @@
       "lon": -78.07999999999997
     },
     {
-      "departamento": "Caquetá",
-      "bajas": 6,
-      "capturas": 23,
-      "sometimientos": 14,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 43,
-      "operaciones": 19,
-      "lat": 1.3000000000000003,
-      "lon": -75.52
-    },
-    {
       "departamento": "Chocó",
       "bajas": 1,
       "capturas": 32,
@@ -230,6 +218,18 @@
       "operaciones": 23,
       "lat": 3.7999999999999985,
       "lon": -76.63000000000002
+    },
+    {
+      "departamento": "Caquetá",
+      "bajas": 2,
+      "capturas": 21,
+      "sometimientos": 3,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 26,
+      "operaciones": 18,
+      "lat": 1.3000000000000003,
+      "lon": -75.52
     },
     {
       "departamento": "La Guajira",
@@ -431,10 +431,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 177,
-      "ops": 103,
+      "personas": 178,
+      "ops": 104,
       "bajas": 62,
-      "capturas": 109,
+      "capturas": 110,
       "sometimientos": 2
     },
     {
@@ -443,10 +443,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 345,
-      "ops": 134,
+      "personas": 346,
+      "ops": 135,
       "bajas": 139,
-      "capturas": 159,
+      "capturas": 160,
       "sometimientos": 42
     },
     {
@@ -467,10 +467,10 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 91,
-      "ops": 45,
+      "personas": 92,
+      "ops": 46,
       "bajas": 23,
-      "capturas": 60,
+      "capturas": 61,
       "sometimientos": 8
     },
     {
@@ -503,10 +503,10 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 419,
-      "ops": 138,
+      "personas": 422,
+      "ops": 139,
       "bajas": 31,
-      "capturas": 346,
+      "capturas": 349,
       "sometimientos": 8
     },
     {
