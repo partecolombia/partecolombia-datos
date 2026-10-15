@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-10-14T04:02:24.397576+00:00",
+    "generado": "2026-10-15T04:02:24.439205+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1681,
-    "total_crudo": 4478,
-    "operaciones": 748,
+    "total": 1697,
+    "total_crudo": 4498,
+    "operaciones": 752,
     "recompensas_total_cop": 47442
   },
   "conteo_calibracion": {
@@ -20,23 +20,23 @@
   },
   "conteo_oficial": {
     "bajas": 267,
-    "capturas": 986,
-    "sometimientos": 55,
+    "capturas": 998,
+    "sometimientos": 59,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1359,
-    "en_reportado": 650,
-    "operaciones": 558
+    "total": 1375,
+    "en_reportado": 658,
+    "operaciones": 562
   },
   "conteo_total": {
     "bajas": 320,
-    "capturas": 1205,
-    "sometimientos": 94,
+    "capturas": 1217,
+    "sometimientos": 98,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1681,
-    "en_reportado": 832,
-    "operaciones": 741
+    "total": 1697,
+    "en_reportado": 840,
+    "operaciones": 745
   },
   "mapa_departamentos": [
     {
@@ -136,6 +136,18 @@
       "lon": -73.34999999999997
     },
     {
+      "departamento": "Nariño",
+      "bajas": 20,
+      "capturas": 23,
+      "sometimientos": 6,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 49,
+      "operaciones": 34,
+      "lat": 1.6000000000000008,
+      "lon": -78.07999999999997
+    },
+    {
       "departamento": "Bolívar",
       "bajas": 8,
       "capturas": 37,
@@ -158,18 +170,6 @@
       "operaciones": 29,
       "lat": 2.5300000000000007,
       "lon": -75.53
-    },
-    {
-      "departamento": "Nariño",
-      "bajas": 20,
-      "capturas": 23,
-      "sometimientos": 2,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 45,
-      "operaciones": 33,
-      "lat": 1.6000000000000008,
-      "lon": -78.07999999999997
     },
     {
       "departamento": "Chocó",
@@ -292,18 +292,6 @@
       "lon": -75.4
     },
     {
-      "departamento": "Vichada",
-      "bajas": 3,
-      "capturas": 2,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 5,
-      "operaciones": 6,
-      "lat": 4.44,
-      "lon": -69.27999999999999
-    },
-    {
       "departamento": "Vaupés",
       "bajas": 0,
       "capturas": 5,
@@ -316,16 +304,16 @@
       "lon": -70.81
     },
     {
-      "departamento": "Casanare",
-      "bajas": 1,
-      "capturas": 3,
+      "departamento": "Vichada",
+      "bajas": 3,
+      "capturas": 2,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 4,
+      "personas": 5,
       "operaciones": 6,
-      "lat": 5.329999999999999,
-      "lon": -71.95
+      "lat": 4.44,
+      "lon": -69.27999999999999
     },
     {
       "departamento": "Caldas",
@@ -352,6 +340,30 @@
       "lon": -75.17
     },
     {
+      "departamento": "Casanare",
+      "bajas": 1,
+      "capturas": 3,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 4,
+      "operaciones": 6,
+      "lat": 5.329999999999999,
+      "lon": -71.95
+    },
+    {
+      "departamento": "Risaralda",
+      "bajas": 0,
+      "capturas": 1,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 1,
+      "operaciones": 2,
+      "lat": 5.02,
+      "lon": -75.99
+    },
+    {
       "departamento": "Cundinamarca",
       "bajas": 0,
       "capturas": 1,
@@ -362,18 +374,6 @@
       "operaciones": 1,
       "lat": 4.73,
       "lon": -74.23
-    },
-    {
-      "departamento": "Amazonas",
-      "bajas": 1,
-      "capturas": 0,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 1,
-      "operaciones": 1,
-      "lat": -1.44,
-      "lon": -71.76
     },
     {
       "departamento": "Bogotá D.C.",
@@ -388,16 +388,16 @@
       "lon": -74.05
     },
     {
-      "departamento": "Risaralda",
-      "bajas": 0,
-      "capturas": 1,
+      "departamento": "Amazonas",
+      "bajas": 1,
+      "capturas": 0,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 1,
-      "operaciones": 2,
-      "lat": 5.02,
-      "lon": -75.99
+      "operaciones": 1,
+      "lat": -1.44,
+      "lon": -71.76
     },
     {
       "departamento": "Colón",
@@ -443,11 +443,11 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 346,
-      "ops": 135,
+      "personas": 357,
+      "ops": 136,
       "bajas": 139,
-      "capturas": 160,
-      "sometimientos": 42
+      "capturas": 169,
+      "sometimientos": 44
     },
     {
       "key": "EMBF",
@@ -503,11 +503,11 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 422,
-      "ops": 139,
+      "personas": 424,
+      "ops": 140,
       "bajas": 31,
       "capturas": 349,
-      "sometimientos": 8
+      "sometimientos": 10
     },
     {
       "key": "DESCONOCIDO",
@@ -515,10 +515,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 136,
-      "ops": 119,
+      "personas": 139,
+      "ops": 121,
       "bajas": 11,
-      "capturas": 124,
+      "capturas": 127,
       "sometimientos": 1
     }
   ]
