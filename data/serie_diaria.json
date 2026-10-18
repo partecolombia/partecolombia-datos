@@ -135,6 +135,15 @@
     "total": 1
   },
   {
+    "fecha": "2026-05-14",
+    "bajas": 0,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 1
+  },
+  {
     "fecha": "2026-05-15",
     "bajas": 0,
     "capturas": 0,
@@ -241,6 +250,15 @@
     "desmovilizaciones": 0,
     "sin_desglose": 0,
     "total": 1
+  },
+  {
+    "fecha": "2026-07-02",
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 0
   },
   {
     "fecha": "2026-07-07",
@@ -732,10 +750,10 @@
     "fecha": "2026-09-01",
     "bajas": 54,
     "capturas": 64,
-    "sometimientos": 0,
+    "sometimientos": 2,
     "desmovilizaciones": 0,
     "sin_desglose": 27,
-    "total": 145
+    "total": 147
   },
   {
     "fecha": "2026-09-02",
@@ -777,10 +795,10 @@
     "fecha": "2026-09-06",
     "bajas": 7,
     "capturas": 19,
-    "sometimientos": 2,
+    "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 28
+    "total": 26
   },
   {
     "fecha": "2026-09-07",
@@ -1082,11 +1100,11 @@
   {
     "fecha": "2026-10-10",
     "bajas": 4,
-    "capturas": 3,
+    "capturas": 4,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 7
+    "total": 8
   },
   {
     "fecha": "2026-10-11",
@@ -1127,19 +1145,37 @@
   {
     "fecha": "2026-10-15",
     "bajas": 3,
-    "capturas": 33,
+    "capturas": 35,
     "sometimientos": 2,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 38
+    "total": 40
   },
   {
     "fecha": "2026-10-16",
-    "bajas": 12,
-    "capturas": 80,
+    "bajas": 15,
+    "capturas": 86,
     "sometimientos": 2,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 94
+    "total": 103
+  },
+  {
+    "fecha": "2026-10-17",
+    "bajas": 1,
+    "capturas": 6,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 7
+  },
+  {
+    "fecha": "2026-10-18",
+    "bajas": 0,
+    "capturas": 0,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 0
   }
 ]
