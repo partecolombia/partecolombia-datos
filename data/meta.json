@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-10-19T04:03:08.987685+00:00",
+    "generado": "2026-10-20T04:03:03.034088+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1923,
-    "total_crudo": 4771,
-    "operaciones": 805,
+    "total": 1937,
+    "total_crudo": 4796,
+    "operaciones": 809,
     "recompensas_total_cop": 47442
   },
   "conteo_calibracion": {
@@ -19,24 +19,24 @@
     "operaciones": 192
   },
   "conteo_oficial": {
-    "bajas": 316,
-    "capturas": 1143,
+    "bajas": 325,
+    "capturas": 1148,
     "sometimientos": 69,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1579,
-    "en_reportado": 814,
-    "operaciones": 606
+    "total": 1593,
+    "en_reportado": 816,
+    "operaciones": 610
   },
   "conteo_total": {
-    "bajas": 378,
-    "capturas": 1373,
+    "bajas": 387,
+    "capturas": 1378,
     "sometimientos": 110,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1923,
-    "en_reportado": 1006,
-    "operaciones": 798
+    "total": 1937,
+    "en_reportado": 1008,
+    "operaciones": 802
   },
   "mapa_departamentos": [
     {
@@ -83,8 +83,8 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 94,
-      "operaciones": 34,
-      "lat": 3.2699999999999996,
+      "operaciones": 35,
+      "lat": 3.269999999999999,
       "lon": -73.07999999999997
     },
     {
@@ -150,12 +150,12 @@
     {
       "departamento": "Cesar",
       "bajas": 0,
-      "capturas": 47,
+      "capturas": 48,
       "sometimientos": 0,
       "desmov": 2,
       "sin_desglose": 0,
-      "personas": 49,
-      "operaciones": 25,
+      "personas": 50,
+      "operaciones": 26,
       "lat": 9.800000000000004,
       "lon": -73.34999999999997
     },
@@ -443,10 +443,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 190,
-      "ops": 109,
-      "bajas": 68,
-      "capturas": 116,
+      "personas": 200,
+      "ops": 111,
+      "bajas": 77,
+      "capturas": 117,
       "sometimientos": 2
     },
     {
@@ -455,10 +455,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 429,
-      "ops": 151,
+      "personas": 427,
+      "ops": 152,
       "bajas": 165,
-      "capturas": 210,
+      "capturas": 208,
       "sometimientos": 49
     },
     {
@@ -491,10 +491,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 533,
+      "personas": 534,
       "ops": 172,
       "bajas": 41,
-      "capturas": 456,
+      "capturas": 457,
       "sometimientos": 33
     },
     {
@@ -527,10 +527,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 143,
-      "ops": 127,
+      "personas": 148,
+      "ops": 128,
       "bajas": 11,
-      "capturas": 129,
+      "capturas": 134,
       "sometimientos": 3
     }
   ]
