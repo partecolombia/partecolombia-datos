@@ -1180,11 +1180,29 @@
   },
   {
     "fecha": "2026-10-19",
-    "bajas": 0,
+    "bajas": 1,
     "capturas": 6,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 6
+    "total": 7
+  },
+  {
+    "fecha": "2026-10-20",
+    "bajas": 1,
+    "capturas": 9,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 10
+  },
+  {
+    "fecha": "2026-10-21",
+    "bajas": 1,
+    "capturas": 1,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 2
   }
 ]
