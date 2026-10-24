@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-10-23T04:02:52.450045+00:00",
+    "generado": "2026-10-24T04:02:46.025297+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1968,
-    "total_crudo": 4866,
-    "operaciones": 833,
+    "total": 1978,
+    "total_crudo": 4878,
+    "operaciones": 835,
     "recompensas_total_cop": 47442
   },
   "conteo_calibracion": {
@@ -19,24 +19,24 @@
     "operaciones": 193
   },
   "conteo_oficial": {
-    "bajas": 337,
-    "capturas": 1166,
+    "bajas": 346,
+    "capturas": 1167,
     "sometimientos": 69,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1623,
-    "en_reportado": 825,
-    "operaciones": 633
+    "total": 1633,
+    "en_reportado": 832,
+    "operaciones": 635
   },
   "conteo_total": {
-    "bajas": 399,
-    "capturas": 1397,
+    "bajas": 408,
+    "capturas": 1398,
     "sometimientos": 110,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1968,
-    "en_reportado": 1018,
-    "operaciones": 826
+    "total": 1978,
+    "en_reportado": 1025,
+    "operaciones": 828
   },
   "mapa_departamentos": [
     {
@@ -101,13 +101,13 @@
     },
     {
       "departamento": "Cauca",
-      "bajas": 35,
-      "capturas": 35,
+      "bajas": 32,
+      "capturas": 36,
       "sometimientos": 1,
       "desmov": 0,
       "sin_desglose": 11,
-      "personas": 82,
-      "operaciones": 48,
+      "personas": 80,
+      "operaciones": 49,
       "lat": 2.5300000000000007,
       "lon": -76.80999999999996
     },
@@ -232,6 +232,18 @@
       "lon": -73.14999999999999
     },
     {
+      "departamento": "La Guajira",
+      "bajas": 8,
+      "capturas": 20,
+      "sometimientos": 0,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 28,
+      "operaciones": 15,
+      "lat": 11.349999999999996,
+      "lon": -72.52
+    },
+    {
       "departamento": "Caquetá",
       "bajas": 2,
       "capturas": 22,
@@ -242,18 +254,6 @@
       "operaciones": 19,
       "lat": 1.3000000000000003,
       "lon": -75.52
-    },
-    {
-      "departamento": "La Guajira",
-      "bajas": 8,
-      "capturas": 19,
-      "sometimientos": 0,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 27,
-      "operaciones": 14,
-      "lat": 11.349999999999996,
-      "lon": -72.52
     },
     {
       "departamento": "Arauca",
@@ -443,9 +443,9 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 226,
+      "personas": 223,
       "ops": 119,
-      "bajas": 98,
+      "bajas": 95,
       "capturas": 122,
       "sometimientos": 2
     },
@@ -515,10 +515,10 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 453,
-      "ops": 153,
-      "bajas": 40,
-      "capturas": 369,
+      "personas": 466,
+      "ops": 155,
+      "bajas": 52,
+      "capturas": 370,
       "sometimientos": 10
     },
     {
