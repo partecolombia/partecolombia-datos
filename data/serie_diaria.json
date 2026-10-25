@@ -667,12 +667,12 @@
   },
   {
     "fecha": "2026-08-22",
-    "bajas": 2,
+    "bajas": 3,
     "capturas": 29,
     "sometimientos": 0,
     "desmovilizaciones": 1,
     "sin_desglose": 0,
-    "total": 32
+    "total": 33
   },
   {
     "fecha": "2026-08-23",
@@ -1226,10 +1226,19 @@
   {
     "fecha": "2026-10-23",
     "bajas": 0,
-    "capturas": 1,
+    "capturas": 2,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 1
+    "total": 2
+  },
+  {
+    "fecha": "2026-10-24",
+    "bajas": 0,
+    "capturas": 12,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 12
   }
 ]

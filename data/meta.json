@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-10-24T04:02:46.025297+00:00",
+    "generado": "2026-10-25T04:02:36.447842+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1978,
-    "total_crudo": 4878,
-    "operaciones": 835,
+    "total": 1992,
+    "total_crudo": 4917,
+    "operaciones": 842,
     "recompensas_total_cop": 47442
   },
   "conteo_calibracion": {
@@ -19,46 +19,46 @@
     "operaciones": 193
   },
   "conteo_oficial": {
-    "bajas": 346,
-    "capturas": 1167,
+    "bajas": 347,
+    "capturas": 1180,
     "sometimientos": 69,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1633,
-    "en_reportado": 832,
-    "operaciones": 635
+    "total": 1647,
+    "en_reportado": 845,
+    "operaciones": 642
   },
   "conteo_total": {
-    "bajas": 408,
-    "capturas": 1398,
+    "bajas": 409,
+    "capturas": 1411,
     "sometimientos": 110,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1978,
-    "en_reportado": 1025,
-    "operaciones": 828
+    "total": 1992,
+    "en_reportado": 1038,
+    "operaciones": 835
   },
   "mapa_departamentos": [
     {
       "departamento": "Antioquia",
       "bajas": 44,
-      "capturas": 146,
+      "capturas": 148,
       "sometimientos": 17,
       "desmov": 0,
       "sin_desglose": 3,
-      "personas": 210,
-      "operaciones": 123,
-      "lat": 6.549999999999989,
+      "personas": 212,
+      "operaciones": 124,
+      "lat": 6.549999999999988,
       "lon": -75.82999999999994
     },
     {
       "departamento": "Guaviare",
-      "bajas": 54,
+      "bajas": 55,
       "capturas": 23,
       "sometimientos": 7,
       "desmov": 0,
       "sin_desglose": 37,
-      "personas": 121,
+      "personas": 122,
       "operaciones": 31,
       "lat": 2.0399999999999996,
       "lon": -72.32999999999997
@@ -102,12 +102,12 @@
     {
       "departamento": "Cauca",
       "bajas": 32,
-      "capturas": 36,
+      "capturas": 37,
       "sometimientos": 1,
       "desmov": 0,
       "sin_desglose": 11,
-      "personas": 80,
-      "operaciones": 49,
+      "personas": 81,
+      "operaciones": 50,
       "lat": 2.5300000000000007,
       "lon": -76.80999999999996
     },
@@ -148,6 +148,18 @@
       "lon": -78.07999999999997
     },
     {
+      "departamento": "Bolívar",
+      "bajas": 8,
+      "capturas": 45,
+      "sometimientos": 1,
+      "desmov": 0,
+      "sin_desglose": 0,
+      "personas": 54,
+      "operaciones": 29,
+      "lat": 8.669999999999995,
+      "lon": -74.03
+    },
+    {
       "departamento": "Cesar",
       "bajas": 0,
       "capturas": 51,
@@ -158,18 +170,6 @@
       "operaciones": 27,
       "lat": 9.800000000000004,
       "lon": -73.34999999999997
-    },
-    {
-      "departamento": "Bolívar",
-      "bajas": 8,
-      "capturas": 41,
-      "sometimientos": 1,
-      "desmov": 0,
-      "sin_desglose": 0,
-      "personas": 50,
-      "operaciones": 27,
-      "lat": 8.669999999999995,
-      "lon": -74.02999999999999
     },
     {
       "departamento": "Huila",
@@ -455,10 +455,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 431,
-      "ops": 155,
+      "personas": 437,
+      "ops": 158,
       "bajas": 166,
-      "capturas": 211,
+      "capturas": 217,
       "sometimientos": 49
     },
     {
@@ -467,10 +467,10 @@
       "largo": "Estado Mayor de los Bloques y Frentes, facción de alias 'Calarcá'",
       "tipo": "disidencia FARC",
       "color": "#6c5ce7",
-      "personas": 67,
-      "ops": 35,
-      "bajas": 14,
-      "capturas": 35,
+      "personas": 72,
+      "ops": 37,
+      "bajas": 15,
+      "capturas": 39,
       "sometimientos": 2
     },
     {
@@ -479,10 +479,10 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 100,
-      "ops": 54,
+      "personas": 101,
+      "ops": 55,
       "bajas": 27,
-      "capturas": 62,
+      "capturas": 63,
       "sometimientos": 11
     },
     {
@@ -527,10 +527,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 149,
-      "ops": 131,
+      "personas": 151,
+      "ops": 132,
       "bajas": 12,
-      "capturas": 134,
+      "capturas": 136,
       "sometimientos": 3
     }
   ]
