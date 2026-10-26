@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-10-25T04:02:36.447842+00:00",
+    "generado": "2026-10-26T04:02:35.348824+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1992,
-    "total_crudo": 4917,
-    "operaciones": 842,
+    "total": 1999,
+    "total_crudo": 4982,
+    "operaciones": 849,
     "recompensas_total_cop": 47442
   },
   "conteo_calibracion": {
@@ -19,35 +19,35 @@
     "operaciones": 193
   },
   "conteo_oficial": {
-    "bajas": 347,
-    "capturas": 1180,
+    "bajas": 350,
+    "capturas": 1184,
     "sometimientos": 69,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1647,
-    "en_reportado": 845,
-    "operaciones": 642
+    "total": 1654,
+    "en_reportado": 839,
+    "operaciones": 649
   },
   "conteo_total": {
-    "bajas": 409,
-    "capturas": 1411,
+    "bajas": 412,
+    "capturas": 1415,
     "sometimientos": 110,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1992,
-    "en_reportado": 1038,
-    "operaciones": 835
+    "total": 1999,
+    "en_reportado": 1032,
+    "operaciones": 842
   },
   "mapa_departamentos": [
     {
       "departamento": "Antioquia",
       "bajas": 44,
-      "capturas": 148,
+      "capturas": 149,
       "sometimientos": 17,
       "desmov": 0,
       "sin_desglose": 3,
-      "personas": 212,
-      "operaciones": 124,
+      "personas": 213,
+      "operaciones": 126,
       "lat": 6.549999999999988,
       "lon": -75.82999999999994
     },
@@ -101,13 +101,13 @@
     },
     {
       "departamento": "Cauca",
-      "bajas": 32,
+      "bajas": 35,
       "capturas": 37,
       "sometimientos": 1,
       "desmov": 0,
       "sin_desglose": 11,
-      "personas": 81,
-      "operaciones": 50,
+      "personas": 84,
+      "operaciones": 53,
       "lat": 2.5300000000000007,
       "lon": -76.80999999999996
     },
@@ -150,11 +150,11 @@
     {
       "departamento": "Bolívar",
       "bajas": 8,
-      "capturas": 45,
+      "capturas": 48,
       "sometimientos": 1,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 54,
+      "personas": 57,
       "operaciones": 29,
       "lat": 8.669999999999995,
       "lon": -74.03
@@ -239,7 +239,7 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 28,
-      "operaciones": 15,
+      "operaciones": 16,
       "lat": 11.349999999999996,
       "lon": -72.52
     },
@@ -251,7 +251,7 @@
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 27,
-      "operaciones": 19,
+      "operaciones": 20,
       "lat": 1.3000000000000003,
       "lon": -75.52
     },
@@ -443,9 +443,9 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 223,
-      "ops": 119,
-      "bajas": 95,
+      "personas": 226,
+      "ops": 121,
+      "bajas": 98,
       "capturas": 122,
       "sometimientos": 2
     },
@@ -455,10 +455,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 437,
-      "ops": 158,
+      "personas": 440,
+      "ops": 160,
       "bajas": 166,
-      "capturas": 217,
+      "capturas": 220,
       "sometimientos": 49
     },
     {
@@ -467,10 +467,10 @@
       "largo": "Estado Mayor de los Bloques y Frentes, facción de alias 'Calarcá'",
       "tipo": "disidencia FARC",
       "color": "#6c5ce7",
-      "personas": 72,
-      "ops": 37,
+      "personas": 68,
+      "ops": 36,
       "bajas": 15,
-      "capturas": 39,
+      "capturas": 35,
       "sometimientos": 2
     },
     {
@@ -479,10 +479,10 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 101,
-      "ops": 55,
+      "personas": 105,
+      "ops": 56,
       "bajas": 27,
-      "capturas": 63,
+      "capturas": 67,
       "sometimientos": 11
     },
     {
@@ -491,10 +491,10 @@
       "largo": "Autodefensas Gaitanistas / Ejército Gaitanista de Colombia",
       "tipo": "GAO narcoparamilitar",
       "color": "#b8860b",
-      "personas": 542,
-      "ops": 179,
+      "personas": 543,
+      "ops": 180,
       "bajas": 42,
-      "capturas": 464,
+      "capturas": 465,
       "sometimientos": 33
     },
     {
@@ -528,7 +528,7 @@
       "tipo": "sin determinar",
       "color": "#4a5568",
       "personas": 151,
-      "ops": 132,
+      "ops": 134,
       "bajas": 12,
       "capturas": 136,
       "sometimientos": 3
