@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-10-26T04:02:35.348824+00:00",
+    "generado": "2026-10-27T04:02:52.456921+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 1999,
-    "total_crudo": 4982,
-    "operaciones": 849,
+    "total": 2009,
+    "total_crudo": 5016,
+    "operaciones": 858,
     "recompensas_total_cop": 47442
   },
   "conteo_calibracion": {
@@ -19,24 +19,24 @@
     "operaciones": 193
   },
   "conteo_oficial": {
-    "bajas": 350,
-    "capturas": 1184,
-    "sometimientos": 69,
+    "bajas": 352,
+    "capturas": 1191,
+    "sometimientos": 70,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 1654,
-    "en_reportado": 839,
-    "operaciones": 649
+    "total": 1664,
+    "en_reportado": 844,
+    "operaciones": 658
   },
   "conteo_total": {
-    "bajas": 412,
-    "capturas": 1415,
-    "sometimientos": 110,
+    "bajas": 414,
+    "capturas": 1422,
+    "sometimientos": 111,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 1999,
-    "en_reportado": 1032,
-    "operaciones": 842
+    "total": 2009,
+    "en_reportado": 1037,
+    "operaciones": 851
   },
   "mapa_departamentos": [
     {
@@ -54,25 +54,25 @@
     {
       "departamento": "Guaviare",
       "bajas": 55,
-      "capturas": 23,
+      "capturas": 26,
       "sometimientos": 7,
       "desmov": 0,
       "sin_desglose": 37,
-      "personas": 122,
-      "operaciones": 31,
+      "personas": 125,
+      "operaciones": 32,
       "lat": 2.0399999999999996,
       "lon": -72.32999999999997
     },
     {
       "departamento": "Norte de Santander",
-      "bajas": 26,
-      "capturas": 60,
-      "sometimientos": 11,
+      "bajas": 27,
+      "capturas": 62,
+      "sometimientos": 12,
       "desmov": 0,
       "sin_desglose": 2,
-      "personas": 99,
-      "operaciones": 44,
-      "lat": 7.949999999999994,
+      "personas": 103,
+      "operaciones": 49,
+      "lat": 7.949999999999993,
       "lon": -72.5
     },
     {
@@ -162,14 +162,14 @@
     {
       "departamento": "Cesar",
       "bajas": 0,
-      "capturas": 51,
+      "capturas": 53,
       "sometimientos": 0,
       "desmov": 2,
       "sin_desglose": 0,
-      "personas": 53,
-      "operaciones": 27,
-      "lat": 9.800000000000004,
-      "lon": -73.34999999999997
+      "personas": 55,
+      "operaciones": 29,
+      "lat": 9.800000000000006,
+      "lon": -73.34999999999995
     },
     {
       "departamento": "Huila",
@@ -443,10 +443,10 @@
       "largo": "Ejército de Liberación Nacional",
       "tipo": "guerrilla",
       "color": "#c0392b",
-      "personas": 226,
-      "ops": 121,
-      "bajas": 98,
-      "capturas": 122,
+      "personas": 229,
+      "ops": 125,
+      "bajas": 99,
+      "capturas": 124,
       "sometimientos": 2
     },
     {
@@ -455,11 +455,11 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 440,
-      "ops": 160,
-      "bajas": 166,
-      "capturas": 220,
-      "sometimientos": 49
+      "personas": 457,
+      "ops": 164,
+      "bajas": 178,
+      "capturas": 224,
+      "sometimientos": 50
     },
     {
       "key": "EMBF",
@@ -479,9 +479,9 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 105,
-      "ops": 56,
-      "bajas": 27,
+      "personas": 106,
+      "ops": 57,
+      "bajas": 28,
       "capturas": 67,
       "sometimientos": 11
     },
@@ -515,10 +515,10 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 466,
+      "personas": 455,
       "ops": 155,
-      "bajas": 52,
-      "capturas": 370,
+      "bajas": 40,
+      "capturas": 371,
       "sometimientos": 10
     },
     {
