@@ -1252,20 +1252,20 @@
   },
   {
     "fecha": "2026-10-26",
-    "bajas": 1,
-    "capturas": 3,
+    "bajas": 2,
+    "capturas": 13,
     "sometimientos": 0,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 4
+    "total": 15
   },
   {
     "fecha": "2026-10-27",
-    "bajas": 0,
-    "capturas": 1,
-    "sometimientos": 1,
+    "bajas": 1,
+    "capturas": 6,
+    "sometimientos": 3,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 2
+    "total": 10
   }
 ]
