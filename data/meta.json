@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generado": "2026-11-02T04:03:38.376312+00:00",
+    "generado": "2026-11-03T04:02:50.032152+00:00",
     "fecha_inicio_conteo": "2026-08-07",
     "en_calibracion": false,
-    "total": 2560,
-    "total_crudo": 5825,
-    "operaciones": 905,
+    "total": 2577,
+    "total_crudo": 5866,
+    "operaciones": 916,
     "recompensas_total_cop": 47442
   },
   "conteo_calibracion": {
@@ -19,24 +19,24 @@
     "operaciones": 193
   },
   "conteo_oficial": {
-    "bajas": 377,
-    "capturas": 1712,
-    "sometimientos": 75,
+    "bajas": 380,
+    "capturas": 1724,
+    "sometimientos": 77,
     "desmovilizaciones": 2,
     "sin_desglose": 49,
-    "total": 2215,
-    "en_reportado": 1338,
-    "operaciones": 705
+    "total": 2232,
+    "en_reportado": 1347,
+    "operaciones": 716
   },
   "conteo_total": {
-    "bajas": 439,
-    "capturas": 1943,
-    "sometimientos": 116,
+    "bajas": 442,
+    "capturas": 1955,
+    "sometimientos": 118,
     "desmovilizaciones": 2,
     "sin_desglose": 60,
-    "total": 2560,
-    "en_reportado": 1531,
-    "operaciones": 898
+    "total": 2577,
+    "en_reportado": 1540,
+    "operaciones": 909
   },
   "mapa_departamentos": [
     {
@@ -67,11 +67,11 @@
       "departamento": "Norte de Santander",
       "bajas": 27,
       "capturas": 64,
-      "sometimientos": 13,
+      "sometimientos": 15,
       "desmov": 0,
       "sin_desglose": 2,
-      "personas": 106,
-      "operaciones": 54,
+      "personas": 108,
+      "operaciones": 56,
       "lat": 7.949999999999993,
       "lon": -72.5
     },
@@ -150,14 +150,14 @@
     {
       "departamento": "Nariño",
       "bajas": 28,
-      "capturas": 24,
+      "capturas": 25,
       "sometimientos": 7,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 59,
-      "operaciones": 38,
+      "personas": 60,
+      "operaciones": 40,
       "lat": 1.6000000000000008,
-      "lon": -78.07999999999997
+      "lon": -78.07999999999996
     },
     {
       "departamento": "Bolívar",
@@ -185,14 +185,14 @@
     },
     {
       "departamento": "Valle del Cauca",
-      "bajas": 18,
-      "capturas": 31,
+      "bajas": 19,
+      "capturas": 35,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 49,
-      "operaciones": 33,
-      "lat": 3.799999999999998,
+      "personas": 54,
+      "operaciones": 36,
+      "lat": 3.799999999999999,
       "lon": -76.63000000000005
     },
     {
@@ -222,13 +222,13 @@
     {
       "departamento": "Tolima",
       "bajas": 0,
-      "capturas": 30,
+      "capturas": 28,
       "sometimientos": 3,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 33,
-      "operaciones": 15,
-      "lat": 3.869999999999999,
+      "personas": 31,
+      "operaciones": 14,
+      "lat": 3.8699999999999997,
       "lon": -75.23
     },
     {
@@ -352,28 +352,28 @@
       "lon": -75.57
     },
     {
-      "departamento": "Amazonas",
-      "bajas": 1,
-      "capturas": 0,
+      "departamento": "Risaralda",
+      "bajas": 0,
+      "capturas": 2,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
-      "personas": 1,
-      "operaciones": 1,
-      "lat": -1.44,
-      "lon": -71.76
+      "personas": 2,
+      "operaciones": 3,
+      "lat": 5.02,
+      "lon": -75.99
     },
     {
-      "departamento": "Risaralda",
+      "departamento": "Bogotá D.C.",
       "bajas": 0,
       "capturas": 1,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 1,
-      "operaciones": 2,
-      "lat": 5.02,
-      "lon": -75.99
+      "operaciones": 1,
+      "lat": 4.65,
+      "lon": -74.05
     },
     {
       "departamento": "Magdalena Medio",
@@ -388,16 +388,16 @@
       "lon": null
     },
     {
-      "departamento": "Bogotá D.C.",
-      "bajas": 0,
-      "capturas": 1,
+      "departamento": "Amazonas",
+      "bajas": 1,
+      "capturas": 0,
       "sometimientos": 0,
       "desmov": 0,
       "sin_desglose": 0,
       "personas": 1,
       "operaciones": 1,
-      "lat": 4.65,
-      "lon": -74.05
+      "lat": -1.44,
+      "lon": -71.76
     },
     {
       "departamento": "Cundinamarca",
@@ -455,10 +455,10 @@
       "largo": "Estado Mayor Central, facción de alias 'Iván Mordisco'",
       "tipo": "disidencia FARC",
       "color": "#8e44ad",
-      "personas": 622,
-      "ops": 173,
+      "personas": 626,
+      "ops": 176,
       "bajas": 180,
-      "capturas": 385,
+      "capturas": 389,
       "sometimientos": 52
     },
     {
@@ -479,10 +479,10 @@
       "largo": "Segunda Marquetalia (alias 'Iván Márquez')",
       "tipo": "disidencia FARC",
       "color": "#2d6a9f",
-      "personas": 110,
-      "ops": 61,
+      "personas": 111,
+      "ops": 62,
       "bajas": 29,
-      "capturas": 69,
+      "capturas": 70,
       "sometimientos": 12
     },
     {
@@ -515,11 +515,11 @@
       "largo": "Otros grupos armados organizados",
       "tipo": "GAO",
       "color": "#7f8c8d",
-      "personas": 623,
-      "ops": 163,
-      "bajas": 43,
-      "capturas": 536,
-      "sometimientos": 10
+      "personas": 630,
+      "ops": 168,
+      "bajas": 44,
+      "capturas": 540,
+      "sometimientos": 12
     },
     {
       "key": "DESCONOCIDO",
@@ -527,10 +527,10 @@
       "largo": "Grupo sin determinar",
       "tipo": "sin determinar",
       "color": "#4a5568",
-      "personas": 332,
-      "ops": 140,
-      "bajas": 14,
-      "capturas": 315,
+      "personas": 337,
+      "ops": 142,
+      "bajas": 16,
+      "capturas": 318,
       "sometimientos": 3
     }
   ]
