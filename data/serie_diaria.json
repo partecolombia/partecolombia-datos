@@ -1343,10 +1343,28 @@
   {
     "fecha": "2026-11-04",
     "bajas": 0,
-    "capturas": 3,
+    "capturas": 9,
     "sometimientos": 6,
     "desmovilizaciones": 0,
     "sin_desglose": 0,
-    "total": 9
+    "total": 15
+  },
+  {
+    "fecha": "2026-11-05",
+    "bajas": 5,
+    "capturas": 21,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 26
+  },
+  {
+    "fecha": "2026-11-06",
+    "bajas": 0,
+    "capturas": 7,
+    "sometimientos": 0,
+    "desmovilizaciones": 0,
+    "sin_desglose": 0,
+    "total": 7
   }
 ]
